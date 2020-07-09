@@ -1,0 +1,356 @@
+
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta charset="utf-8" />
+    <title>Culture &#8212; Sociology 101</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha384-KA6wR/X5RY4zFAHpv/CnoG2UW1uogYfdnP67Uv7eULvTveboZJg0qUpmJZb5VqzN" crossorigin="anonymous">
+    <link href="_static/css/index.css" rel="stylesheet">
+    <link rel="stylesheet" href="_static/sphinx-book-theme.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css" />
+    <link rel="stylesheet" type="text/css" href="_static/copybutton.css" />
+    <link rel="stylesheet" type="text/css" href="_static/mystnb.css" />
+    <link rel="stylesheet" type="text/css" href="_static/jupyter-sphinx.css" />
+    <script id="documentation_options" data-url_root="./" src="_static/documentation_options.js"></script>
+    <script src="_static/sphinx-book-theme.js"></script>
+    <script src="_static/jquery.js"></script>
+    <script src="_static/underscore.js"></script>
+    <script src="_static/doctools.js"></script>
+    <script src="_static/language_data.js"></script>
+    <script src="_static/togglebutton.js"></script>
+    <script src="_static/clipboard.min.js"></script>
+    <script src="_static/copybutton.js"></script>
+    <script src="_static/mystnb.js"></script>
+    <script src="_static/sphinx-book-theme.js"></script>
+    <script >var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.4/require.min.js"></script>
+    <script src="https://unpkg.com/@jupyter-widgets/html-manager@^0.18.0/dist/embed-amd.js"></script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="prev" title="Theoretical Toolkit" href="toolkit.html" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="docsearch:language" content="en">
+
+
+
+  </head>
+  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="80">
+    
+
+    <div class="container-xl">
+      <div class="row">
+          
+<div class="col-12 col-md-3 bd-sidebar site-navigation show" id="site-navigation">
+    
+        <div class="navbar-brand-box">
+<a class="navbar-brand text-wrap" href="index.html">
+  
+  <img src="_static/masks.jpg" class="logo" alt="logo">
+  
+  
+  <h1 class="site-logo" id="site-title">Sociology 101</h1>
+  
+</a>
+</div>
+
+<form class="bd-search d-flex align-items-center" action="search.html" method="get">
+  <i class="icon fas fa-search"></i>
+  <input type="search" class="form-control" name="q" id="search-input" placeholder="Search this book..." aria-label="Search this book..." autocomplete="off" >
+</form>
+
+<nav class="bd-links" id="bd-docs-nav" aria-label="Main navigation">
+  
+  <ul class="nav sidenav_l1">
+  <li class="">
+    <a href="intro.html">Welcome</a>
+  </li>
+  <li class="active">
+    <a href="toolkit.html">Theoretical Toolkit</a>
+  <ul class="nav sidenav_l2">
+    <li class="active">
+      <a href="">Culture</a>
+    </li>
+  </ul>
+  </li>
+</ul>
+</nav>
+
+ <!-- To handle the deprecated key -->
+
+<div class="navbar_extra_footer">
+  Powered by <a href="https://jupyterbook.org">Jupyter Book</a>
+</div>
+
+</div>
+
+
+          
+
+
+          
+<main class="col py-md-3 pl-md-4 bd-content overflow-auto" role="main">
+    
+    <div class="row topbar fixed-top container-xl">
+    <div class="col-12 col-md-3 bd-topbar-whitespace site-navigation show">
+    </div>
+    <div class="col pl-2 topbar-main">
+        
+        <button id="navbar-toggler" class="navbar-toggler ml-0" type="button" data-toggle="collapse"
+            data-toggle="tooltip" data-placement="bottom" data-target=".site-navigation" aria-controls="navbar-menu"
+            aria-expanded="true" aria-label="Toggle navigation" aria-controls="site-navigation"
+            title="Toggle navigation" data-toggle="tooltip" data-placement="left">
+            <i class="fas fa-bars"></i>
+            <i class="fas fa-arrow-left"></i>
+            <i class="fas fa-arrow-up"></i>
+        </button>
+        
+        <div class="dropdown-buttons-trigger">
+    <button id="dropdown-buttons-trigger" class="btn btn-secondary topbarbtn" aria-label="Download this page"><i
+            class="fas fa-download"></i></button>
+
+    
+    <div class="dropdown-buttons">
+        <!-- ipynb file if we had a myst markdown file -->
+        
+        <!-- Download raw file -->
+        <a class="dropdown-buttons" href="_sources/notebooks.ipynb"><button type="button"
+                class="btn btn-secondary topbarbtn" title="Download source file" data-toggle="tooltip"
+                data-placement="left">.ipynb</button></a>
+        <!-- Download PDF via print -->
+        <button type="button" id="download-print" class="btn btn-secondary topbarbtn" title="Print to PDF"
+            onClick="window.print()" data-toggle="tooltip" data-placement="left">.pdf</button>
+    </div>
+    
+</div>
+        <!-- Source interaction buttons -->
+
+
+        <!-- Full screen (wrap in <a> to have style consistency -->
+        <a class="full-screen-button"><button type="button" class="btn btn-secondary topbarbtn" data-toggle="tooltip"
+                data-placement="bottom" onclick="toggleFullScreen()" title="Fullscreen mode"><i
+                    class="fas fa-expand"></i></button></a>
+
+        <!-- Launch buttons -->
+
+    </div>
+    <div class="d-none d-md-block col-md-2 bd-toc show">
+<div class="tocsection onthispage pt-5 pb-3">
+    <i class="fas fa-list"></i> On this page
+</div>
+
+<nav id="bd-toc-nav">
+    <ul class="nav section-nav flex-column">
+    
+        <li class="nav-item toc-entry toc-h2">
+            <a href="#learning-objectives" class="nav-link">Learning Objectives</a>
+        </li>
+    
+        <li class="nav-item toc-entry toc-h2">
+            <a href="#read" class="nav-link">Read</a>
+        </li>
+    
+        <li class="nav-item toc-entry toc-h2">
+            <a href="#watch" class="nav-link">Watch</a>
+        </li>
+    
+        <li class="nav-item toc-entry toc-h2">
+            <a href="#discuss-thursday-during-class" class="nav-link">Discuss (Thursday during class):</a>
+        </li>
+    
+        <li class="nav-item toc-entry toc-h2">
+            <a href="#assignments" class="nav-link">Assignments</a>
+        </li>
+    
+        <li class="nav-item toc-entry toc-h2">
+            <a href="#questions" class="nav-link">Questions</a>
+        </li>
+    
+        <li class="nav-item toc-entry toc-h2">
+            <a href="#lesson-keywords" class="nav-link">Lesson Keywords</a>
+        </li>
+    
+    </ul>
+</nav>
+
+
+    </div>
+</div>
+    <div id="main-content" class="row">
+        <div class="col-12 col-md-9 pl-md-3 pr-md-0">
+        
+              <div>
+                
+  <div class="section" id="culture">
+<h1>Culture<a class="headerlink" href="#culture" title="Permalink to this headline">¶</a></h1>
+<p>This lesson introduces how sociologists think about culture. Culture is one of the fundamental elements of social life and, thus, an essential topic in sociology. Many of the concepts presented here will come up again in almost every subsequent lesson. Because culture is learned so slowly and incrementally, we are often unaware of how it becomes ingrained in our ways of thinking. Applying the sociological perspective to culture requires us to recognize the strangeness in our own culture. This lesson outlines the basics of studying culture and allows you to test potential relationships between television depictions of families and marriage rates. Although culture is familiar to us, you should be seeing it in a new and different way by the time you finish this lesson.</p>
+<div class="section" id="learning-objectives">
+<h2>Learning Objectives<a class="headerlink" href="#learning-objectives" title="Permalink to this headline">¶</a></h2>
+<div class="admonition-by-the-end-of-this-lesson-you-will-be-able-to admonition">
+<p class="admonition-title">By the end of this lesson, you will be able to:</p>
+<ul class="simple">
+<li><p>Describe how sociologists define the components of culture.</p></li>
+<li><p>Identify variation in culture and cultural change.</p></li>
+<li><p>Analyze the relationship between culture and family.</p></li>
+</ul>
+</div>
+</div>
+<div class="section" id="read">
+<h2>Read<a class="headerlink" href="#read" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><p>‘<a class="reference external" href="https://digital.wwnorton.com/87056">Culture</a>’, Chapter 3 in Real World</p></li>
+</ul>
+<p><img alt="" src="https://cdn.wwnorton.com/dam_booktitles/733/img/cover/9780393419337_300.jpeg" /></p>
+</div>
+<div class="section" id="watch">
+<h2>Watch<a class="headerlink" href="#watch" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><p><a class="reference external" href="https://www.youtube.com/watch?v=RV50AV7-Iwc">Cultures, Subcultures, &amp; Countercultures</a></p></li>
+</ul>
+<div class="cell tag_remove-input docutils container">
+<div class="cell_output docutils container">
+<div class="output text_html">
+<iframe
+    width="400"
+    height="300"
+    src="https://www.youtube.com/embed/RV50AV7-Iwc"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+</div></div>
+</div>
+<ul class="simple">
+<li><p><a class="reference external" href="https://www.youtube.com/watch?v=kGrVhM_Gi8k">Symbols, Values, &amp; Norms</a></p></li>
+</ul>
+<div class="cell tag_remove-input docutils container">
+<div class="cell_output docutils container">
+<div class="output text_html">
+<iframe
+    width="400"
+    height="300"
+    src="https://www.youtube.com/embed/kGrVhM_Gi8k"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+</div></div>
+</div>
+</div>
+<div class="section" id="discuss-thursday-during-class">
+<h2>Discuss (Thursday during class):<a class="headerlink" href="#discuss-thursday-during-class" title="Permalink to this headline">¶</a></h2>
+<p>We start out our documentary series with the first episode of <a class="reference external" href="http://libproxy.lib.unc.edu/login?url=https://www-filmplatform-net.libproxy.lib.unc.edu/product/america-to-me">American to Me, Episode 1</a>. This is a semester-long project looking at race and class in an American high school. We will watch it together starting Thursday at 9:50am.</p>
+<ul class="simple">
+<li><p>Be sure to have the movie ready to roll at the start of class.</p></li>
+<li><p>Login to the course Slack at 9:45am and say hi to your group!</p></li>
+</ul>
+<p>Before Thursday:</p>
+<ul class="simple">
+<li><p>Think about the social life in your high school: did people of similar races stick together or do they mix? If they stick together, when?</p></li>
+<li><p>Is it important for some people who share the same racial identity to spend time together, apart from the larger collective?</p></li>
+<li><p>What’s your racial context in college and how does it inform how you navigate the spaces you occupy?</p></li>
+</ul>
+</div>
+<div class="section" id="assignments">
+<h2>Assignments<a class="headerlink" href="#assignments" title="Permalink to this headline">¶</a></h2>
+<div class="admonition-be-sure-to-hand-these-in-before-the-deadline admonition">
+<p class="admonition-title">Be sure to hand these in before the deadline</p>
+<ul class="simple">
+<li><p>Inquizitive Chapter Set 3 (Tuesday at 9:45am)</p></li>
+<li><p>Families on TV application (Sunday at 11:59pm)</p></li>
+<li><p>America to Me reflection (Sunday at 11:59pm)</p></li>
+</ul>
+</div>
+</div>
+<div class="section" id="questions">
+<h2>Questions<a class="headerlink" href="#questions" title="Permalink to this headline">¶</a></h2>
+<div class="tip admonition">
+<p class="admonition-title">Questions about assignments or the sociology of culture?</p>
+<ul class="simple">
+<li><p>Post it in the Slack #ask-a-prof channel!</p></li>
+<li><p>Ask your peers in the Slack #ask-anyone chanel!</p></li>
+<li><p>Signup for virtual office hours!</p></li>
+<li><p>Email me or your TA.</p></li>
+</ul>
+</div>
+</div>
+<div class="section" id="lesson-keywords">
+<h2>Lesson Keywords<a class="headerlink" href="#lesson-keywords" title="Permalink to this headline">¶</a></h2>
+<table class="colwidths-auto table">
+<thead>
+<tr class="row-odd"><th class="head"><p></p></th>
+<th class="head"><p></p></th>
+<th class="head"><p></p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>ethnocentrism</p></td>
+<td><p>folkways</p></td>
+<td><p>Dominant culture</p></td>
+</tr>
+<tr class="row-odd"><td><p>cultural relativism</p></td>
+<td><p>signs</p></td>
+<td><p>subculture</p></td>
+</tr>
+<tr class="row-even"><td><p>material culture</p></td>
+<td><p>gestures</p></td>
+<td><p>counterculture</p></td>
+</tr>
+<tr class="row-odd"><td><p>symbolic culture</p></td>
+<td><p>language</p></td>
+<td><p>ideal culture</p></td>
+</tr>
+<tr class="row-even"><td><p>Sapir-Whorf hypothesis</p></td>
+<td><p>mores</p></td>
+<td><p>real culture</p></td>
+</tr>
+<tr class="row-odd"><td><p>values</p></td>
+<td><p>taboo</p></td>
+<td><p>cultural diffusion</p></td>
+</tr>
+<tr class="row-even"><td><p>norms</p></td>
+<td><p>sanction</p></td>
+<td><p>cultural imperialism</p></td>
+</tr>
+<tr class="row-odd"><td><p>laws</p></td>
+<td><p>social control</p></td>
+<td><p>sanction</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
+
+              </div>
+              
+        </div>
+    </div>
+    
+    
+    <div class='prev-next-bottom'>
+        
+    <a class='left-prev' id="prev-link" href="toolkit.html" title="previous page">Theoretical Toolkit</a>
+
+    </div>
+    <footer class="footer mt-5 mt-md-0">
+    <div class="container">
+      <p>
+        
+          By Neal Caren<br/>
+        
+            &copy; Copyright 2020.<br/>
+      </p>
+    </div>
+  </footer>
+</main>
+
+
+      </div>
+    </div>
+
+    <script src="_static/js/index.js"></script>
+    
+  </body>
+</html>

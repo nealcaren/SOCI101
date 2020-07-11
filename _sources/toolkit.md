@@ -1,4 +1,0 @@
-Theoretical Toolkit
-=======================
-
-This section...

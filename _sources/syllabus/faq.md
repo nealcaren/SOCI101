@@ -1,13 +1,13 @@
 # Frequently Asked Questions
 
-# How is the final grade determined?
+## How is the final grade determined?
 
 ## Do you round up?
 No.
 
-# How do I prepare for an exam?
+## How do I prepare for an exam?
 
-# What other campus resources can help me?
+## What other campus resources can help me?
 The Writing Center is available to assist with papers. If you experience an emergency this semester, please contact the Dean of Students Office. They will notify all of your instructors so that you will not have to. You have paid for all of these wonderful resources, please use them!
 
 ## Do academic integrity policies still apply to an online course?

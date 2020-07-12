@@ -1,6 +1,6 @@
 # Code of Conduct
 
-We hope to create an environment where diverse individuals can learn and interact in a positive and affirming way. The Sociology Department is dedicated to providing a harassment-free experience for everyone. 
+We hope to create an environment where diverse individuals can learn and interact in a positive and affirming way. The Sociology Department is dedicated to providing a harassment-free experience for everyone.
 
 **Be friendly and patient.**
 
@@ -23,4 +23,4 @@ We hope to create an environment where diverse individuals can learn and interac
 
 This code of conduct applies to all of this course's spaces, including public channels, private channels, emails, and direct messages, both online and off. anyone who violates this code of conduct may be sanctioned or referred to the Honor Court as violations may "[impair the right of all members of the University community to learn and thrive in a safe and respectful environment](https://studentconduct.unc.edu/sites/studentconduct.unc.edu/files/documents/Instrument%20of%20Student%20Judicial%20Governance.pdf)"
 
-If you believe someone is violating the code of conduct, we ask that you report it by emailing <neal.caren@unc.edu> or texting 919-381-7638.
+ Please let me know if something said or done in the classroom, by either myself or other students, is particularly troubling or causes discomfort or offense. While our intention may not be to cause discomfort or offense, the impact of what happens throughout the course is not to be ignored and is something that I consider to be very important and deserving of attention.  I am always open to listening to students' experiences, and want to work with students to find acceptable ways to process and address the issue. You an reach me over [email](mailto:neal.caren@unc.edu) or text (919-381-7638). If for any reason you do not feel comfortable discussing the issue directly with me, I encourage you to seek out another, more comfortable avenue to address the issue.

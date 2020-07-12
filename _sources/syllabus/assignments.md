@@ -1,5 +1,5 @@
-# Assignments
-
+# Assignment Types
+There are several different types of assignments in the course.
 
 ## Applications (20% of course grade)
 You will have opportunities to complete short research and writing assignments that employ concepts from the class to the outside world. You might visit a toy store (virtually), watch a television show, or analyze racial segregation patterns. You will have nine or so opportunities to complete these, but only the highest five grades will count. No late assignments accepted.

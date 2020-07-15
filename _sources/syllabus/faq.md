@@ -1,14 +1,17 @@
 # Frequently Asked Questions
 
 ## How is the final grade determined?
+**Details to come.**
 
 ## Do you round up?
 No.
 
 # What's the attendance policy?
-I expected everyone to participate during our virtual meetings actively.  Watching the films together is a central component of this course. If you are unable to attend, you may write a more extended film response and submit your film notes for that week's Film Response assignment on Sakai.  Except for the exams, I drop one or more of the lowest grades for each assignment type.
+I expected everyone to participate during our virtual meetings actively.  Watching the films together is a central component of this course. If you are unable to attend, you may write a more extended film response and submit your film notes for that week's Film Response assignment on Sakai.  Except for the exams, I drop one or more of the lowest grades for each assignment type. **Details to come.**
+
 
 ## How do I prepare for an exam?
+**Details to come.**
 
 ## What other campus resources can help me?
 The Writing Center is available to assist with papers. If you experience an emergency this semester, please contact the Dean of Students Office. They will notify all of your instructors so that you will not have to. You have paid for all of these wonderful resources, please use them!

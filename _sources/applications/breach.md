@@ -1,4 +1,5 @@
 # Breaching
+![People doing various things](../images/REALWORLD7_FIG03_CO.jpg)
 
 
 Social interaction represents one of the key building blocks of society. Despite being unscripted, these interactions have strict unwritten rules. Breaking those rules, or being deviant, is a critical way of discovering what the norms are and what are the range of reactions to norm violations.

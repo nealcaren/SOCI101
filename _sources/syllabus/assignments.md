@@ -1,5 +1,5 @@
 # Assignment Types
-There are several different types of assignments in the course.
+There are several different types of assignments in the course. **Details to come on each of these...**
 
 ## Applications   
 **(20% of course grade)**

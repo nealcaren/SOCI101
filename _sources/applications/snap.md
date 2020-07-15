@@ -1,4 +1,5 @@
 # SNAP Challenge
+![People sitting around a table](../images/REALWORLD7_FIG12_CO.jpg)
 
 Social safety net programs are one way to combat economic inequality. These programs are frequently controversial. This exercise allows you to examine one of these programs - the Supplemental Nutrition Assistance Program (SNAP). In doing so you can think through sociological analyses of the causes of and solutions to poverty.
 

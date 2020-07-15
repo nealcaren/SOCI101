@@ -20,6 +20,7 @@
 - file: /applications/dotmap
 - file: /applications/bechdel
 - file: /applications/studydesign
+- file: /applications/education
 
 - header: Credits
 - file: /syllabus/credits

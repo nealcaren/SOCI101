@@ -1,0 +1,25 @@
+- file: intro
+- header: Getting Started
+- file: /syllabus/schedule
+- file: /syllabus/assignments
+- file: /syllabus/technology
+- file: /syllabus/code-of-conduct
+- file: /syllabus/faq
+- file: /syllabus/staff
+
+- header: Lessons
+- file: /lessons/real-world
+- file: /lessons/culture
+- file: /lessons/socialization
+- file: /lessons/groups
+
+- header: Applications
+- file: /applications/breach
+- file: /applications/families
+- file: /applications/snap
+- file: /applications/dotmap
+- file: /applications/bechdel
+- file: /applications/studydesign
+
+- header: Credits
+- file: /syllabus/credits

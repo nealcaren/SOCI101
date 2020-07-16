@@ -1,5 +1,6 @@
-- file: intro
+- file: index
 - header: Getting Started
+- file: /syllabus/overview
 - file: /syllabus/schedule
 - file: /syllabus/assignments
 - file: /syllabus/technology
@@ -12,8 +13,10 @@
 - file: /lessons/culture
 - file: /lessons/socialization
 - file: /lessons/groups
+- file: /lessons/deviance
 
-- header: Applications
+
+- header: Application
 - file: /applications/breach
 - file: /applications/families
 - file: /applications/snap

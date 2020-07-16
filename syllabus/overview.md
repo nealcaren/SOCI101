@@ -1,4 +1,4 @@
-# Sociology 101
+# Overview
 
 The course is designed to introduce students to the sociological study of society. Sociology focuses on the systematic understanding of social interaction, social organization, social institutions, and social change. Major themes in sociological thinking include:
 * the interplay between the individual and society;

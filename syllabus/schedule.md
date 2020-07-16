@@ -1,6 +1,6 @@
 # Schedule
 
-The plan for the semester is the {ref}`lesson-schedule`. Different assignments are due at different times during the week, as described in weekly-deadlines{ref}`weekly-deadlines`. 
+The plan for the semester is the {ref}`lesson-schedule`. Different assignments are due at different times during the week, as described in the {ref}`weekly-deadlines`. 
 
 
 (lesson-schedule)=

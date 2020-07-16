@@ -1,4 +1,8 @@
 # Staff
+
+**Add table with emails, salutation, pronouns **.
+
+
 ## Instructor - Professor Neal Caren
 ![](https://nealcaren.org/author/admin/avatar_hu36f865199475b96e468b8f9ca317e609_591545_250x250_fill_q90_lanczos_center.jpg)
 

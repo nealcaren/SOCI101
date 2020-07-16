@@ -9,8 +9,12 @@ The exams are multiple-choice and administered on Sakai. There are three major t
 ## I can't make the exam. What can do?  
 **Details to come.**
 
+## Why does this class have a {doc}`code-of-conduct`?
+I intend that students from all diverse backgrounds and perspectives be well served by this course, that students' learning needs be addressed both in and out of class, and that the diversity that students bring to this class be viewed as a resource, strength, and benefit. I intend to present materials and activities that are respectful of diversity: gender, sexuality, disability, age, socioeconomic status, ethnicity, race, and culture. The topics that we're covering in this class are often difficult, not just intellectually but emotionally. While I expect there to be rigorous discussion and even disagreement in the course of our class discussions, I ask that you engage in dialogue with care and empathy for the other members in the classroom. Aim to disagree without becoming disagreeable. In this course, we will not shy away from the uncomfortable. Critically examining and assessing assumptions and values is not just one of sociology's tasks but is an activity vital to engaged citizenship. I will work to ensure a classroom environment that supports your taking these intellectual and emotional risks. The {doc}`code-of-conduct` helps ensure that everyone is aware of the types of interactions that foster positive interactions and those that may not.
+
 ## Can I hand in work late?  
-No, but for each non-exam assignment, you can drop your lowest grade(s). Skipped assignments receive a zero, but as long as you do at least the minimum number of required assignments of that type, the zero won't impact your final grade.
+No, but for each non-exam assignment, you can drop your lowest grade(s). Skipped assignments receive a zero, but as long as you do at least the minimum number of required assignments of that type, the zero won't impact your final grade. If you have a medical condition or other situation that impacts your ability to do academic work, such as a concussion or hospitalization, please email the instructor to make alternate arrangements.
+
 
 ## Where can I get extra help with sociological concepts?
 Learning online can be tougher than in a traditional classroom. **Details to come.**

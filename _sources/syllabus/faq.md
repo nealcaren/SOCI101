@@ -10,7 +10,7 @@ The exams are multiple-choice and administered on Sakai. There are three major t
 **Details to come.**
 
 ## Can I hand in work late?  
-**Details to come.**
+No, but for each non-exam assignment, you can drop your lowest grade(s). Skipped assignments receive a zero, but as long as you do at least the minimum number of required assignments of that type, the zero won't impact your final grade.
 
 ## Where can I get extra help with sociological concepts?
 Learning online can be tougher than in a traditional classroom. **Details to come.**

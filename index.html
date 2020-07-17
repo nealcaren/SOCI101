@@ -5,7 +5,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta charset="utf-8" />
-    <title></title>
+    <title>Sociology 101</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha384-KA6wR/X5RY4zFAHpv/CnoG2UW1uogYfdnP67Uv7eULvTveboZJg0qUpmJZb5VqzN" crossorigin="anonymous">
     <link href="_static/css/index.css" rel="stylesheet">
     <link rel="stylesheet" href="_static/sphinx-book-theme.css" type="text/css" />
@@ -30,6 +30,7 @@
     <script src="https://unpkg.com/@jupyter-widgets/html-manager@^0.18.0/dist/embed-amd.js"></script>
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="Overview" href="syllabus/overview.html" />
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="docsearch:language" content="en">
@@ -43,8 +44,105 @@
     <div class="container-xl">
       <div class="row">
           
-<div class="col-12 col-md-2 bd-sidebar site-navigation show" id="site-navigation">
+<div class="col-12 col-md-3 bd-sidebar site-navigation show" id="site-navigation">
     
+        <div class="navbar-brand-box">
+<a class="navbar-brand text-wrap" href="#">
+  
+  <img src="_static/REALWORLD7_FIG02_CO.jpg" class="logo" alt="logo">
+  
+  
+</a>
+</div>
+
+<form class="bd-search d-flex align-items-center" action="search.html" method="get">
+  <i class="icon fas fa-search"></i>
+  <input type="search" class="form-control" name="q" id="search-input" placeholder="Search this book..." aria-label="Search this book..." autocomplete="off" >
+</form>
+
+<nav class="bd-links" id="bd-docs-nav" aria-label="Main navigation">
+  
+  <ul class="nav sidenav_l1">
+<li class="navbar-special">
+<p class="margin-caption">Getting Started</p>
+</li>
+  <li class="">
+    <a href="syllabus/overview.html">Overview</a>
+  </li>
+  <li class="">
+    <a href="syllabus/schedule.html">Schedule</a>
+  </li>
+  <li class="">
+    <a href="syllabus/assignments.html">Assignment Types</a>
+  </li>
+  <li class="">
+    <a href="syllabus/technology.html">Technology</a>
+  </li>
+  <li class="">
+    <a href="syllabus/code-of-conduct.html">Code of Conduct</a>
+  </li>
+  <li class="">
+    <a href="syllabus/faq.html">Frequently Asked Questions</a>
+  </li>
+  <li class="">
+    <a href="syllabus/checklist.html">First Week Checklist</a>
+  </li>
+  <li class="">
+    <a href="syllabus/staff.html">Staff</a>
+  </li>
+<li class="navbar-special">
+<p class="margin-caption">Lessons</p>
+</li>
+  <li class="">
+    <a href="lessons/real-world.html">Sociological Perspectives</a>
+  </li>
+  <li class="">
+    <a href="lessons/culture.html">Culture</a>
+  </li>
+  <li class="">
+    <a href="lessons/socialization.html">Socialization</a>
+  </li>
+  <li class="">
+    <a href="lessons/groups.html">Groups</a>
+  </li>
+  <li class="">
+    <a href="lessons/deviance.html">Deviance</a>
+  </li>
+<li class="navbar-special">
+<p class="margin-caption">Application</p>
+</li>
+  <li class="">
+    <a href="applications/breach.html">Breaching</a>
+  </li>
+  <li class="">
+    <a href="applications/families.html">Families on Television</a>
+  </li>
+  <li class="">
+    <a href="applications/snap.html">SNAP Challenge</a>
+  </li>
+  <li class="">
+    <a href="applications/dotmap.html">Racial Dot Map and Segregation</a>
+  </li>
+  <li class="">
+    <a href="applications/bechdel.html">Bechdel Test</a>
+  </li>
+  <li class="">
+    <a href="applications/studydesign.html">Study Design</a>
+  </li>
+  <li class="">
+    <a href="applications/education.html">Education</a>
+  </li>
+<li class="navbar-special">
+<p class="margin-caption">Credits</p>
+</li>
+  <li class="">
+    <a href="syllabus/credits.html">Credits</a>
+  </li>
+</ul>
+</nav>
+
+ <!-- To handle the deprecated key -->
+
 </div>
 
 
@@ -59,10 +157,31 @@
     </div>
     <div class="col pl-2 topbar-main">
         
+        <button id="navbar-toggler" class="navbar-toggler ml-0" type="button" data-toggle="collapse"
+            data-toggle="tooltip" data-placement="bottom" data-target=".site-navigation" aria-controls="navbar-menu"
+            aria-expanded="true" aria-label="Toggle navigation" aria-controls="site-navigation"
+            title="Toggle navigation" data-toggle="tooltip" data-placement="left">
+            <i class="fas fa-bars"></i>
+            <i class="fas fa-arrow-left"></i>
+            <i class="fas fa-arrow-up"></i>
+        </button>
+        
         <div class="dropdown-buttons-trigger">
     <button id="dropdown-buttons-trigger" class="btn btn-secondary topbarbtn" aria-label="Download this page"><i
             class="fas fa-download"></i></button>
 
+    
+    <div class="dropdown-buttons">
+        <!-- ipynb file if we had a myst markdown file -->
+        
+        <!-- Download raw file -->
+        <a class="dropdown-buttons" href="_sources/index.md"><button type="button"
+                class="btn btn-secondary topbarbtn" title="Download source file" data-toggle="tooltip"
+                data-placement="left">.md</button></a>
+        <!-- Download PDF via print -->
+        <button type="button" id="download-print" class="btn btn-secondary topbarbtn" title="Print to PDF"
+            onClick="window.print()" data-toggle="tooltip" data-placement="left">.pdf</button>
+    </div>
     
 </div>
         <!-- Source interaction buttons -->
@@ -98,1370 +217,12 @@
 <p>This website provides all the course materials for the University of North Carolina at Chapel Hill’s Sociological Perspectives (SOCI101.001) taught by Professor Neal Caren.</p>
 <p>For Fall 2020, the course is entirely online. This website is an interactive guide to the course, including the syllabus, lesson plans for each week and assignments.</p>
 <div class="toctree-wrapper compound">
-<span id="document-syllabus/overview"></span><div class="section" id="overview">
-<h2>Overview<a class="headerlink" href="#overview" title="Permalink to this headline">¶</a></h2>
-<p>The course is designed to introduce students to the sociological study of society. Sociology focuses on the systematic understanding of social interaction, social organization, social institutions, and social change. Major themes in sociological thinking include:</p>
-<ul class="simple">
-<li><p>the interplay between the individual and society;</p></li>
-<li><p>how society is both stable and changing;</p></li>
-<li><p>the causes and consequences of social inequality;</p></li>
-<li><p>and the social construction of human life.
-Understanding sociology helps discover and explain social patterns and see how such patterns change over time and in different settings. By making vivid the social basis of everyday life, sociology also develops critical thinking by revealing the social structures and processes that shape diverse forms of human life.</p></li>
-</ul>
-<p>Over the semester, you will develop and apply your sociological imagination to think systematically about how things we experience as personal problems are social issues. In your textbook readings, you will be introduced to the significant topics that sociologists study and how the topics are analyzed. During class time and through our assignments, you will have a chance to further develop your sociological imagination and apply it to new situations. In exams and exercises, you will have the opportunity to demonstrate your mastery of sociological thinking.</p>
-<p>This course has no prerequisites and is appropriate for just about everyone. The course is an introduction to the field of sociology for students who plan further study, and an overview for students will only visit the world of sociology once. The course will also provide students an opportunity for students to learn information relevant to the sociology section of the MCAT.</p>
-<div class="section" id="course-objectives">
-<h3>Course Objectives<a class="headerlink" href="#course-objectives" title="Permalink to this headline">¶</a></h3>
-<p>Upon the successful completion of this course students will be able to:</p>
-<ol class="simple">
-<li><p>Demonstrate understanding of fundamental sociological theories and concepts;</p></li>
-<li><p>Explain, evaluate and apply the process of sociological research;</p></li>
-<li><p>Discover and develop a sociological imagination and apply it to societal issues;</p></li>
-<li><p>Understand the ways in which social institutions are interdependent; and</p></li>
-<li><p>Explore how social factors contribute to social inequalities and efforts to create social change.</p></li>
-</ol>
-</div>
-</div>
-<span id="document-syllabus/schedule"></span><div class="section" id="schedule">
-<h2>Schedule<a class="headerlink" href="#schedule" title="Permalink to this headline">¶</a></h2>
-<p>The plan for the semester is the <a class="reference internal" href="#lesson-schedule"><span class="std std-ref">Lesson schedule</span></a>. Different assignments are due at different times during the week, as described in the <a class="reference internal" href="#weekly-deadlines"><span class="std std-ref">Weekly deadlines</span></a>.</p>
-<div class="section" id="lesson-schedule">
-<span id="id1"></span><h3>Lesson schedule<a class="headerlink" href="#lesson-schedule" title="Permalink to this headline">¶</a></h3>
-<table class="colwidths-auto docutils align-default">
-<thead>
-<tr class="row-odd"><th class="head"><p>Week</p></th>
-<th class="head"><p>Theme</p></th>
-<th class="head"><p>RW Chapter</p></th>
-<th class="head"><p>Thursday Film</p></th>
-<th class="head"><p>Assignments</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="row-even"><td><p>8/10</p></td>
-<td><p>Sociological Perspectives</p></td>
-<td><p>1</p></td>
-<td><p>Soul Food Junkies</p></td>
-<td><p>Inquizitive; Breaching application, Film response</p></td>
-</tr>
-<tr class="row-odd"><td><p>8/17</p></td>
-<td><p>Culture</p></td>
-<td><p>3</p></td>
-<td><p>American to Me, Episode 1</p></td>
-<td><p>Inquizitive; Families on TV application, Film response</p></td>
-</tr>
-<tr class="row-even"><td><p>8/24</p></td>
-<td><p>Socialization</p></td>
-<td><p>4</p></td>
-<td><p>American to Me, Episode 2</p></td>
-<td><p>Inquizitive; Obesity case study, Film response</p></td>
-</tr>
-<tr class="row-odd"><td><p>8/31</p></td>
-<td><p>Groups</p></td>
-<td><p>5</p></td>
-<td><p>American to Me, Episode 3</p></td>
-<td><p>Inquizitive; Who am I application, Film response</p></td>
-</tr>
-<tr class="row-even"><td><p>9/7</p></td>
-<td><p>Exam</p></td>
-<td><p></p></td>
-<td><p></p></td>
-<td><p>Divorce case study; Exam 1</p></td>
-</tr>
-<tr class="row-odd"><td><p>9/14</p></td>
-<td><p>Deviance</p></td>
-<td><p>6</p></td>
-<td><p>American to Me, Episode 4</p></td>
-<td><p>Inquizitive; Imprisonment case study, Film response</p></td>
-</tr>
-<tr class="row-even"><td><p>9/21</p></td>
-<td><p>Social Class</p></td>
-<td><p>7</p></td>
-<td><p>American to Me, Episode 5</p></td>
-<td><p>Inquizitive; SNAP application, Film response</p></td>
-</tr>
-<tr class="row-odd"><td><p>9/28</p></td>
-<td><p>Race and Ethnicity</p></td>
-<td><p>8</p></td>
-<td><p>American to Me, Episode 6</p></td>
-<td><p>Inquizitive; Map application, Film response</p></td>
-</tr>
-<tr class="row-even"><td><p>10/5</p></td>
-<td><p>Gender and Sexuality</p></td>
-<td><p>9</p></td>
-<td><p>American to Me, Episode 7</p></td>
-<td><p>Inquizitive; Bechdel application, Film response</p></td>
-</tr>
-<tr class="row-odd"><td><p>10/12</p></td>
-<td><p>Exam</p></td>
-<td><p></p></td>
-<td><p></p></td>
-<td><p>Cohabit case study; Exam 1</p></td>
-</tr>
-<tr class="row-even"><td><p>10/19</p></td>
-<td><p>Research Methods</p></td>
-<td><p>2</p></td>
-<td><p>American to Me, Episode 8</p></td>
-<td><p>Inquizitive; Study Design application, Film response</p></td>
-</tr>
-<tr class="row-odd"><td><p>10/26</p></td>
-<td><p>Politics, Education and Religion</p></td>
-<td><p>10</p></td>
-<td><p>American to Me, Episode 9</p></td>
-<td><p>Inquizitive; Education application, Film response</p></td>
-</tr>
-<tr class="row-even"><td><p>11/2</p></td>
-<td><p>Family</p></td>
-<td><p>12</p></td>
-<td><p>American to Me, Episode 10</p></td>
-<td><p>Inquizitive; Marriage case study, Film response</p></td>
-</tr>
-<tr class="row-odd"><td><p>11/9</p></td>
-<td><p>Health</p></td>
-<td><p>14</p></td>
-<td><p>American to Me, Episode 10</p></td>
-<td><p>Inquizitive; Health case study, Film response</p></td>
-</tr>
-<tr class="row-even"><td><p>11/16</p></td>
-<td><p>Exam Review</p></td>
-<td><p></p></td>
-<td><p></p></td>
-<td><p>Final Exam</p></td>
-</tr>
-</tbody>
-</table>
-</div>
-<div class="section" id="weekly-deadlines">
-<span id="id2"></span><h3>Weekly deadlines<a class="headerlink" href="#weekly-deadlines" title="Permalink to this headline">¶</a></h3>
-<table class="colwidths-auto docutils align-default">
-<thead>
-<tr class="row-odd"><th class="head"><p>Assignment</p></th>
-<th class="head"><p>Due</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="row-even"><td><p>Inquizitive</p></td>
-<td><p>Tuesdays, midnight</p></td>
-</tr>
-<tr class="row-odd"><td><p>Film Discussion</p></td>
-<td><p>Thursday, during class</p></td>
-</tr>
-<tr class="row-even"><td><p>Exams</p></td>
-<td><p>Thursday, during class</p></td>
-</tr>
-<tr class="row-odd"><td><p>Application</p></td>
-<td><p>Sunday, midnight</p></td>
-</tr>
-<tr class="row-even"><td><p>Case Study</p></td>
-<td><p>Sunday, midnight</p></td>
-</tr>
-<tr class="row-odd"><td><p>Film Responses</p></td>
-<td><p>Sunday, midnight</p></td>
-</tr>
-</tbody>
-</table>
-</div>
-</div>
-<span id="document-syllabus/assignments"></span><div class="section" id="assignment-types">
-<h2>Assignment Types<a class="headerlink" href="#assignment-types" title="Permalink to this headline">¶</a></h2>
-<p>There are several different types of assignments in the course: <a class="reference internal" href="#applications"><span class="std std-ref">Applications</span></a>, <a class="reference internal" href="#case-studies"><span class="std std-ref">Case Studies</span></a>, <a class="reference internal" href="#inquizitive"><span class="std std-ref">InQuizitive</span></a>, <a class="reference internal" href="#film-responses"><span class="std std-ref">Film Responses</span></a> and <a class="reference internal" href="#exams"><span class="std std-ref">Exams</span></a>.</p>
-<div class="section" id="applications">
-<span id="id1"></span><h3>Applications<a class="headerlink" href="#applications" title="Permalink to this headline">¶</a></h3>
-<p><strong>(20% of course grade)</strong><br />
-You will have eight opportunities to complete short research and writing assignments that employ concepts from the course to the outside world. You might shop at supermarket, watch a television show, or analyze housing data. For each Application, you will theories and concept from the course to develop expectations about what you’ll find. After collecting the data, you will write up your study in a short research report. You will have eight opportunities to complete these, and your highest five grades will count.</p>
-</div>
-<div class="section" id="case-studies">
-<span id="id2"></span><h3>Case Studies<a class="headerlink" href="#case-studies" title="Permalink to this headline">¶</a></h3>
-<p><strong>(15% of course grade)</strong><br />
-Understanding how social science research is used to test theories is a unique skill you will develop in the course. Six times during the semester you will be asked to read a passage and answer a series of questions about how the study was conducted, what was found, and how it is linked to the larger body of sociological literature. These are conducted out of class on Sakai  Your top five grades count.</p>
-</div>
-<div class="section" id="inquizitive">
-<span id="id3"></span><h3>InQuizitive<a class="headerlink" href="#inquizitive" title="Permalink to this headline">¶</a></h3>
-<p><strong>(15% of course grade)</strong><br />
-Each non-exam week you are assigned a chapter from the textbook. To help you focus your reading on the central concepts and provide a quick check on your capacity to identify and use the new concepts, you are required to complete a weekly InQuizitive reading test. These quizzes are untimed and you can keep answering questions until you earn a perfect score.</p>
-<p>If you have never used InQuizitive before, I highly recommend that you complete the How To Use InQuizitive assignment at the beginning of the semester.</p>
-</div>
-<div class="section" id="film-responses">
-<span id="id4"></span><h3>Film Responses<a class="headerlink" href="#film-responses" title="Permalink to this headline">¶</a></h3>
-<p><strong>(15% of course grade)</strong></p>
-</div>
-<div class="section" id="exams">
-<span id="id5"></span><h3>Exams<a class="headerlink" href="#exams" title="Permalink to this headline">¶</a></h3>
-<p><strong>(45% of course grade)</strong><br />
-The course has three exams: two during the semester and a final. Exams are multiple-choice and administered through Sakai. Exams during the semester are taken Thursday during class time. Those with registered accommodations will be provided additional times. The final exam will be cumulative.</p>
-</div>
-<div class="section" id="assignment-opportunities">
-<h3>Assignment Opportunities<a class="headerlink" href="#assignment-opportunities" title="Permalink to this headline">¶</a></h3>
-<p>For <a class="reference internal" href="#applications"><span class="std std-ref">Applications</span></a>, <a class="reference internal" href="#case-studies"><span class="std std-ref">Case Studies</span></a>, <a class="reference internal" href="#inquizitive"><span class="std std-ref">InQuizitive</span></a>, and <a class="reference internal" href="#film-responses"><span class="std std-ref">Film Responses</span></a>, you can drop some of your lowest grades. For example, there are eight <a class="reference internal" href="#applications"><span class="std std-ref">Applications</span></a> available, but only your five highest grades count. Historically, students who are happy with their grade in an assignment area tend to skip some near the end of the semester. Unlike the other assignments, no <a class="reference internal" href="#exams"><span class="std std-ref">Exams</span></a> scores are dropped.</p>
-<table class="colwidths-auto docutils align-default">
-<thead>
-<tr class="row-odd"><th class="head"><p>Assignment</p></th>
-<th class="head"><p>Opportunities</p></th>
-<th class="head"><p>Graded</p></th>
-<th class="head"><p>% of Course Grade</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="row-even"><td><p>Applications</p></td>
-<td><p>8</p></td>
-<td><p>5</p></td>
-<td><p>20</p></td>
-</tr>
-<tr class="row-odd"><td><p>Case Studies</p></td>
-<td><p>6</p></td>
-<td><p>5</p></td>
-<td><p>15</p></td>
-</tr>
-<tr class="row-even"><td><p>InQuizitive</p></td>
-<td><p>12</p></td>
-<td><p>10</p></td>
-<td><p>15</p></td>
-</tr>
-<tr class="row-odd"><td><p>Film Responses</p></td>
-<td><p>12</p></td>
-<td><p>10</p></td>
-<td><p>15</p></td>
-</tr>
-<tr class="row-even"><td><p>Exam 1</p></td>
-<td><p>1</p></td>
-<td><p>1</p></td>
-<td><p>10</p></td>
-</tr>
-<tr class="row-odd"><td><p>Exam 2</p></td>
-<td><p>1</p></td>
-<td><p>1</p></td>
-<td><p>10</p></td>
-</tr>
-<tr class="row-even"><td><p>Exam 3</p></td>
-<td><p>1</p></td>
-<td><p>1</p></td>
-<td><p>15</p></td>
-</tr>
-<tr class="row-odd"><td><p></p></td>
-<td><p></p></td>
-<td><p></p></td>
-<td><p></p></td>
-</tr>
-<tr class="row-even"><td><p></p></td>
-<td><p></p></td>
-<td><p></p></td>
-<td><p>100</p></td>
-</tr>
-</tbody>
-</table>
-</div>
-</div>
-<span id="document-syllabus/technology"></span><div class="section" id="technology">
-<h2>Technology<a class="headerlink" href="#technology" title="Permalink to this headline">¶</a></h2>
-<p><strong>Details to come on Lesson Book, Films, Inquizitive and Sakai.</strong></p>
-</div>
-<span id="document-syllabus/code-of-conduct"></span><div class="section" id="code-of-conduct">
-<h2>Code of Conduct<a class="headerlink" href="#code-of-conduct" title="Permalink to this headline">¶</a></h2>
-<p>We hope to create an environment where diverse individuals can learn and interact in a positive and affirming way. The Sociology Department is dedicated to providing a harassment-free experience for everyone.</p>
-<p><strong>Be friendly and patient.</strong></p>
-<p><strong>Be welcoming.</strong> We strive to be a community that welcomes and supports people of all backgrounds and identities. This includes, but is not limited to members of any race, ethnicity, culture, national origin, color, immigration status, social and economic class, educational level, sex, sexual orientation, gender identity and expression, age, size, family status, political belief, religion, and mental and physical ability.</p>
-<p><strong>Be respectful.</strong> Not all of us will agree all the time, but disagreement is no excuse for poor behavior and poor manners. We might all experience some frustration now and then, but we cannot allow that frustration to turn into a personal attack. It’s important to remember that a community where people feel uncomfortable or threatened is not a productive learning environment.
-**Be careful in the words that you choose. ** Be kind to others. Do not insult or put down other participants. Harassment and other exclusionary behavior aren’t acceptable. Harmful behaviors include, but is not limited to:</p>
-<ul class="simple">
-<li><p>Violent threats or language directed against another person.</p></li>
-<li><p>Discriminatory jokes and language.</p></li>
-<li><p>Posting sexually explicit or violent material.</p></li>
-<li><p>Posting (or threatening to post) other people’s personally identifying information (“doxing”).</p></li>
-<li><p>Personal insults, especially those using racist or sexist terms.</p></li>
-<li><p>Unwelcome sexual attention.</p></li>
-<li><p>Advocating for, or encouraging, any of the above behavior.</p></li>
-<li><p>Repeated harassment of others. In general, if someone asks you to stop, then stop.</p></li>
-</ul>
-<p><strong>Respect the privacy of others.</strong> In a classroom setting, we expect that the person sitting next to us isn’t secretly videotaping us. The presumption that our words will not be shared beyond the classroom setting is essential to creating an open atmosphere for discussion and learning. We seek to create this same environment online. Do not record or publicly distribute the comments of other students.</p>
-<p><strong>When we disagree, try to understand why.</strong> Disagreements, both social and political, happen all the time, and this course will be no exception. We must engage with differing views constructively. Remember that we’re different. The strength of discussions comes from our diverse community, people from a wide range of backgrounds. Different people have different perspectives on issues. Being unable to understand why someone holds a viewpoint doesn’t mean that they’re wrong. Don’t forget that it is human to err, and blaming each other doesn’t get us anywhere. Instead, focus on helping to resolve issues and learning from mistakes.</p>
-<p>This code of conduct applies to all of this course’s spaces, including public channels, private channels, emails, and direct messages, both online and off. anyone who violates this code of conduct may be sanctioned or referred to the Honor Court as violations may “<a class="reference external" href="https://studentconduct.unc.edu/sites/studentconduct.unc.edu/files/documents/Instrument%20of%20Student%20Judicial%20Governance.pdf">impair the right of all members of the University community to learn and thrive in a safe and respectful environment</a>”</p>
-<p>Please let me know if something said or done in the classroom, by either myself or other students, is particularly troubling or causes discomfort or offense. While our intention may not be to cause discomfort or offense, the impact of what happens throughout the course is not to be ignored and is something that I consider to be very important and deserving of attention.  I am always open to listening to students’ experiences, and want to work with students to find acceptable ways to process and address the issue. You an reach me over <a class="reference external" href="mailto:neal&#46;caren&#37;&#52;&#48;unc&#46;edu">email</a> or text (919-381-7638). If for any reason you do not feel comfortable discussing the issue directly with me, I encourage you to seek out another, more comfortable avenue to address the issue.</p>
-</div>
-<span id="document-syllabus/faq"></span><div class="section" id="frequently-asked-questions">
-<h2>Frequently Asked Questions<a class="headerlink" href="#frequently-asked-questions" title="Permalink to this headline">¶</a></h2>
-<div class="section" id="what-s-the-attendance-policy">
-<h3>What’s the attendance policy?<a class="headerlink" href="#what-s-the-attendance-policy" title="Permalink to this headline">¶</a></h3>
-<p>I expected everyone to participate during our virtual meetings actively.  Watching the films together is a central component of this course. If you are unable to attend, you may write a more extended film response and submit your film notes for that week’s Film Response assignment on Sakai.  Except for the exams, I drop one or more of the lowest grades for each assignment type. <strong>Details to come.</strong></p>
-</div>
-<div class="section" id="how-do-i-prepare-for-an-exam">
-<h3>How do I prepare for an exam?<a class="headerlink" href="#how-do-i-prepare-for-an-exam" title="Permalink to this headline">¶</a></h3>
-<p>The exams are multiple-choice and administered on Sakai. There are three major types of questions. The first set of questions are similar to those on InQuizitive, so practice there. The lesson key words cover what I think are the core concepts in each chapter, so these are particularly important to know. The second type of question is similar to Case Studies, so be sure to practice and review your approach. There is a Case Study do each exam week, so be sure to complete it before the exam, so you have that additional opportunity to practice. Finally, there will be questions that ask you to make connections between the films and course concepts. They don’t require detailed knowledge of each scene, but be sure to be familiar with the major themes of each film shown.</p>
-</div>
-<div class="section" id="i-can-t-make-the-exam-what-can-do">
-<h3>I can’t make the exam. What can do?<a class="headerlink" href="#i-can-t-make-the-exam-what-can-do" title="Permalink to this headline">¶</a></h3>
-<p><strong>Details to come.</strong></p>
-</div>
-<div class="section" id="why-does-this-class-have-a-code-of-conduct">
-<h3>Why does this class have a <a class="reference internal" href="index.html#document-syllabus/code-of-conduct"><span class="doc">Code of Conduct</span></a>?<a class="headerlink" href="#why-does-this-class-have-a-code-of-conduct" title="Permalink to this headline">¶</a></h3>
-<p>I intend that students from all diverse backgrounds and perspectives be well served by this course, that students’ learning needs be addressed both in and out of class, and that the diversity that students bring to this class be viewed as a resource, strength, and benefit. I intend to present materials and activities that are respectful of diversity: gender, sexuality, disability, age, socioeconomic status, ethnicity, race, and culture. The topics that we’re covering in this class are often difficult, not just intellectually but emotionally. While I expect there to be rigorous discussion and even disagreement in the course of our class discussions, I ask that you engage in dialogue with care and empathy for the other members in the classroom. Aim to disagree without becoming disagreeable. In this course, we will not shy away from the uncomfortable. Critically examining and assessing assumptions and values is not just one of sociology’s tasks but is an activity vital to engaged citizenship. I will work to ensure a classroom environment that supports your taking these intellectual and emotional risks. The <a class="reference internal" href="index.html#document-syllabus/code-of-conduct"><span class="doc">Code of Conduct</span></a> helps ensure that everyone is aware of the types of interactions that foster positive interactions and those that may not.</p>
-</div>
-<div class="section" id="can-i-hand-in-work-late">
-<h3>Can I hand in work late?<a class="headerlink" href="#can-i-hand-in-work-late" title="Permalink to this headline">¶</a></h3>
-<p>No, but for each non-exam assignment, you can drop your lowest grade(s). Skipped assignments receive a zero, but as long as you do at least the minimum number of required assignments of that type, the zero won’t impact your final grade. If you have a medical condition or other situation that impacts your ability to do academic work, such as a concussion or hospitalization, please email the instructor to make alternate arrangements.</p>
-</div>
-<div class="section" id="where-can-i-get-extra-help-with-sociological-concepts">
-<h3>Where can I get extra help with sociological concepts?<a class="headerlink" href="#where-can-i-get-extra-help-with-sociological-concepts" title="Permalink to this headline">¶</a></h3>
-<p>Learning online can be tougher than in a traditional classroom. <strong>Details to come.</strong></p>
-</div>
-<div class="section" id="what-other-campus-resources-can-help-me">
-<h3>What other campus resources can help me?<a class="headerlink" href="#what-other-campus-resources-can-help-me" title="Permalink to this headline">¶</a></h3>
-<p>The Writing Center is available to assist with papers. If you experience an emergency this semester, please contact the Dean of Students Office. They will notify all of your instructors so that you will not have to. You have paid for all of these excellent resources. Please use them!</p>
-</div>
-<div class="section" id="do-academic-integrity-policies-still-apply-to-an-online-course">
-<h3>Do academic integrity policies still apply to an online course?<a class="headerlink" href="#do-academic-integrity-policies-still-apply-to-an-online-course" title="Permalink to this headline">¶</a></h3>
-<p>Yes. The University of North Carolina at Chapel Hill has had a student-led honor system for over 100 years. Academic integrity is at the heart of Carolina, and we all are responsible for upholding the ideals of honor and integrity.  The student-led Honor System is responsible for adjudicating any suspected violations of the Honor Code, and all suspected instances of academic dishonesty will be reported to the honor system. Information, including your responsibilities as a student, is outlined in the Instrument of Student Judicial Governance. Your full participation and observance of the Honor Code is expected. All academic work in this course, including homework, quizzes, and exams, is to be your own work, unless otherwise expressly provided. It is your responsibility if you have any doubt to confirm whether or not collaboration is permitted.</p>
-</div>
-<div class="section" id="how-can-i-get-accommodations">
-<h3>How can I get accommodations?<a class="headerlink" href="#how-can-i-get-accommodations" title="Permalink to this headline">¶</a></h3>
-<p>The University of North Carolina at Chapel Hill facilitates the implementation of reasonable accommodations, including resources and services, for students with disabilities, chronic medical conditions, temporary disability, or pregnancy complications resulting in difficulties with accessing learning opportunities. All accommodations are coordinated through the Accessibility Resources and Service Office. If you are registered with ARS, be sure to confirm with me or the TA that we have received your accommodation request.</p>
-</div>
-<div class="section" id="how-is-the-final-grade-determined">
-<h3>How is the final grade determined?<a class="headerlink" href="#how-is-the-final-grade-determined" title="Permalink to this headline">¶</a></h3>
-<table class="colwidths-auto docutils align-default">
-<thead>
-<tr class="row-odd"><th class="head"><p>Assignment</p></th>
-<th class="head"><p>Opportunities</p></th>
-<th class="head"><p>Graded</p></th>
-<th class="head"><p>% of Course Grade</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="row-even"><td><p>Applications</p></td>
-<td><p>8</p></td>
-<td><p>5</p></td>
-<td><p>20</p></td>
-</tr>
-<tr class="row-odd"><td><p>Case Studies</p></td>
-<td><p>6</p></td>
-<td><p>5</p></td>
-<td><p>15</p></td>
-</tr>
-<tr class="row-even"><td><p>InQuizitive</p></td>
-<td><p>12</p></td>
-<td><p>10</p></td>
-<td><p>15</p></td>
-</tr>
-<tr class="row-odd"><td><p>Film Responses</p></td>
-<td><p>12</p></td>
-<td><p>10</p></td>
-<td><p>15</p></td>
-</tr>
-<tr class="row-even"><td><p>Exam 1</p></td>
-<td><p>1</p></td>
-<td><p>1</p></td>
-<td><p>10</p></td>
-</tr>
-<tr class="row-odd"><td><p>Exam 2</p></td>
-<td><p>1</p></td>
-<td><p>1</p></td>
-<td><p>10</p></td>
-</tr>
-<tr class="row-even"><td><p>Exam 3</p></td>
-<td><p>1</p></td>
-<td><p>1</p></td>
-<td><p>15</p></td>
-</tr>
-<tr class="row-odd"><td><p></p></td>
-<td><p></p></td>
-<td><p></p></td>
-<td><p></p></td>
-</tr>
-<tr class="row-even"><td><p></p></td>
-<td><p></p></td>
-<td><p></p></td>
-<td><p>100</p></td>
-</tr>
-</tbody>
-</table>
-</div>
-<div class="section" id="do-you-round-up">
-<h3>Do you round up?<a class="headerlink" href="#do-you-round-up" title="Permalink to this headline">¶</a></h3>
-<p>No.</p>
-</div>
-</div>
-<span id="document-syllabus/checklist"></span><div class="section" id="first-week-checklist">
-<h2>First Week Checklist<a class="headerlink" href="#first-week-checklist" title="Permalink to this headline">¶</a></h2>
-<p>By the end first week of class, be sure to:</p>
-<ul class="simple">
-<li><p>Purchase access to the textbook.</p></li>
-<li><p>Link to InQuizitive</p></li>
-</ul>
-</div>
-<span id="document-syllabus/staff"></span><div class="section" id="staff">
-<h2>Staff<a class="headerlink" href="#staff" title="Permalink to this headline">¶</a></h2>
-<table class="colwidths-auto docutils align-default">
-<thead>
-<tr class="row-odd"><th class="head"><p>Name</p></th>
-<th class="head"><p>Role</p></th>
-<th class="head"><p>Salutation</p></th>
-<th class="head"><p>Pronouns</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="row-even"><td><p>Neal Caren</p></td>
-<td><p>Instructor</p></td>
-<td><p>Professor Caren</p></td>
-<td><p>he/him</p></td>
-</tr>
-<tr class="row-odd"><td><p>Katherine Tait</p></td>
-<td><p>Grader</p></td>
-<td><p>Katie</p></td>
-<td><p>she/re</p></td>
-</tr>
-</tbody>
-</table>
-<div class="section" id="professor-neal-caren">
-<h3>Professor Neal Caren<a class="headerlink" href="#professor-neal-caren" title="Permalink to this headline">¶</a></h3>
-<p><img alt="" src="https://nealcaren.org/author/admin/avatar_hu36f865199475b96e468b8f9ca317e609_591545_250x250_fill_q90_lanczos_center.jpg" /></p>
-<p>I am an Associate Professor in the Sociology at the University of North Carolina, Chapel Hill. I earned my BA in Sociology from Columbia University and my PhD from New York University. My current research is on contemporary US social movements and the uses of media data for understanding movement processes. I also serve as the editor of the interdisciplinary social movements journal Mobilization. Check out <a class="reference external" href="https://mobilizationjournal.org/toc/maiq/24/1">our most recent issue</a>. In addition to teaching Sociological Persepctive, I also teach a capstone course for our Social and Economic Justice minor. At the graduate level, I teach course computational social science, with a focus on collecting and analyzing text data with Python. I enjoy trail running in <a class="reference external" href="https://facilities.unc.edu/operations/grounds-services/carolina-north-forest/">Carolina North</a> and <a class="reference external" href="https://ultrasignup.com/results_participant.aspx?fname=Neal&amp;lname=Caren">trail racing</a> in the mountains. Pronouns: he/him.</p>
-</div>
-<div class="section" id="katherine-tait">
-<h3>Katherine Tait<a class="headerlink" href="#katherine-tait" title="Permalink to this headline">¶</a></h3>
-<p><img alt="" src="http://katherinetait.web.unc.edu/files/2019/05/Katherine-Tait.jpeg" /></p>
-<p><a class="reference external" href="http://katherinetait.web.unc.edu/">Katherine Tait</a> is a PhD candidate in the UNC-Chapel Hill Department of Sociology. She earned her BA in Sociology &amp; Anthropology from Carleton College and her MA in Economics from the New School for Social Research. Her research is on the interrelationship between social movement and economic conditions, and currently focuses on democratic workplaces, specifically worker-owned cooperatives (businesses in which all workers are also co-owners, and have equal input on decisions affecting day-to-day operations and the future direction of their workplace). While at UNC, Katherine has taught courses in Economic Sociology and Introduction to Sociology, has worked on the social science journals Mobilization and Social Forces, and in 2017 founded the UNC-Chapel Hill chapter of <a class="reference external" href="https://www.splcenter.org/">SPLC on Campus</a>, an organization for graduate and undergraduate student activism for equal justice and opportunity. Her non-work hobbies include yoga, going to music and dance performances, taking care of her newborn son Vinnie, and, of course, streaming various TV shows in this “Golden Age of Television!” Pronouns: she/her.</p>
-<p><strong>Details to come on TAs.</strong></p>
-</div>
-</div>
 </div>
 <div class="toctree-wrapper compound">
-<span id="document-lessons/real-world"></span><p><img alt="" src="_images/REALWORLD7_FIG01_CO1.jpg" /></p>
-<div class="section" id="sociological-perspectives">
-<h2>Sociological Perspectives<a class="headerlink" href="#sociological-perspectives" title="Permalink to this headline">¶</a></h2>
-<p>You are embarking on a fascinating journey as you learn to see, think, and analyze yourself and the world around you from a sociological perspective. This lesson invites you to see, think, and analyze from a sociological perspective. It provides a brief overview of the historical and intellectual development of sociology, along with describing how sociology is similar to and different from other social sciences. The lesson ends with a discussion of new theoretical approaches within the discipline. The tools presented here will help you build a foundation for new knowledge and insights into social life.</p>
-<div class="section" id="learning-objectives">
-<h3>Learning Objectives<a class="headerlink" href="#learning-objectives" title="Permalink to this headline">¶</a></h3>
-<div class="admonition-by-the-end-of-this-lesson-you-will-be-able-to admonition">
-<p class="admonition-title">By the end of this lesson, you will be able to:</p>
-<ul class="simple">
-<li><p>Define key terms related to the discipline of sociology.</p></li>
-<li><p>Compare the major sociological theories.</p></li>
-<li><p>Test theories of social norms.</p></li>
-</ul>
-</div>
-</div>
-<div class="section" id="read">
-<h3>Read<a class="headerlink" href="#read" title="Permalink to this headline">¶</a></h3>
-<ul class="simple">
-<li><p>‘<a class="reference external" href="https://digital.wwnorton.com/87056/r/goto/cfi/20%21/4">Sociology and the Real World</a>’, Chapter 1 in Real World</p></li>
-</ul>
-<p><img alt="" src="https://cdn.wwnorton.com/dam_booktitles/733/img/cover/9780393419337_300.jpeg" /></p>
-</div>
-<div class="section" id="watch">
-<h3>Watch<a class="headerlink" href="#watch" title="Permalink to this headline">¶</a></h3>
-<ul class="simple">
-<li><p><a class="reference external" href="https://www.youtube.com/watch?v=DbTt_ySTjaY">Major Sociological Paradigms</a></p></li>
-</ul>
-<div class="cell tag_remove-input docutils container">
-<div class="cell_output docutils container">
-</div>
-</div>
-<ul class="simple">
-<li><p><a class="reference external" href="https://youtu.be/IZfGGF-YYzY">Émile Durkheim on Suicide &amp; Society</a></p></li>
-</ul>
-<div class="cell tag_remove-input docutils container">
-<div class="cell_output docutils container">
-</div>
-</div>
-<ul class="simple">
-<li><p><a class="reference external" href="https://www.youtube.com/watch?v=gR3igiwaeyc">Karl Marx &amp; Conflict Theory</a></p></li>
-</ul>
-<div class="cell tag_remove-input docutils container">
-<div class="cell_output docutils container">
-</div>
-</div>
-<ul class="simple">
-<li><p><a class="reference external" href="https://www.youtube.com/watch?v=69VF7mT4nRU">Max Weber &amp; Modernity</a></p></li>
-</ul>
-<div class="cell tag_remove-input docutils container">
-<div class="cell_output docutils container">
-</div>
-</div>
-<ul class="simple">
-<li><p><a class="reference external" href="https://www.youtube.com/watch?v=-wny0OAz3g8">Dubois &amp; Race Conflict</a></p></li>
-</ul>
-<div class="cell tag_remove-input docutils container">
-<div class="cell_output docutils container">
-</div>
-</div>
-</div>
-<div class="section" id="discuss-thursday-during-class">
-<h3>Discuss (Thursday during class):<a class="headerlink" href="#discuss-thursday-during-class" title="Permalink to this headline">¶</a></h3>
-<div class="section" id="sould-food-junkies">
-<h4>Sould Food Junkies<a class="headerlink" href="#sould-food-junkies" title="Permalink to this headline">¶</a></h4>
-<p><img alt="" src="http://d1w3qdx2l9dyrg.cloudfront.net/webobjects/soul_food_junkies-clip-mezzanine.jpg" /></p>
-<blockquote>
-<div><p>a culinary journey to understand a quintessential American cuisine: Soul Food. Filmmaker Byron Hurt examines the rich history and social significance of foods tied closely to black cultural identity as well as their health implications on the modern American diet. Join Hurt as he investigates the ups and downs of Soul Food and a growing food justice movement to make healthier foods more affordable and accessible. <a class="reference external" href="http://www.pbs.org/black-culture/shows/list/soul-food-junkies/">PBS</a></p>
-</div></blockquote>
-<p>We start applying our sociological tools to film  with <a class="reference external" href="https://unc.kanopy.com/video/soul-food-junkies">Sould Food Junkies</a>. We will watch it together starting Thursday at 9:50am.</p>
-<ul class="simple">
-<li><p>Be sure to have the movie ready to roll at the start of class.</p></li>
-<li><p>Login to the course Slack at 9:45am and say hi to your group!</p></li>
-</ul>
-<p>Before Thursday:</p>
-<ul class="simple">
-<li><p>What are some of your memories, feelings, or other associations with food?</p></li>
-<li><p>Why are eating habits so hard to break? Do you think it’s possible to be addicted to a specific food or to food in general?</p></li>
-<li><p>Is eating just a matter of personal behavior and preference? When do eating habits—or the effects of eating habits and food choices—step over into the public realm?</p></li>
-</ul>
-</div>
-</div>
-<div class="section" id="assignments">
-<h3>Assignments<a class="headerlink" href="#assignments" title="Permalink to this headline">¶</a></h3>
-<div class="admonition-be-sure-to-hand-these-in-before-the-deadline admonition">
-<p class="admonition-title">Be sure to hand these in before the deadline</p>
-<ul class="simple">
-<li><p>Inquizitive Chapter Set 1 (Tuesday at 9:45am)</p></li>
-<li><p><a class="reference internal" href="index.html#document-applications/breach"><span class="doc">Breaching</span></a> application (Sunday at 11:59pm)</p></li>
-<li><p>Soul Food Junkies reflection (Sunday at 11:59pm)</p></li>
-</ul>
-</div>
-</div>
-<div class="section" id="questions">
-<h3>Questions<a class="headerlink" href="#questions" title="Permalink to this headline">¶</a></h3>
-<div class="tip admonition">
-<p class="admonition-title">Questions about assignments or the lesson?</p>
-<ul class="simple">
-<li><p>Post it in the Slack #ask-a-prof channel!</p></li>
-<li><p>Ask your peers in the Slack #ask-anyone chanel!</p></li>
-<li><p>Signup for virtual office hours!</p></li>
-<li><p>Email me or your TA.</p></li>
-</ul>
-</div>
-</div>
-<div class="section" id="lesson-keywords">
-<h3>Lesson Keywords<a class="headerlink" href="#lesson-keywords" title="Permalink to this headline">¶</a></h3>
-<ul class="simple">
-<li><p>Sociology</p></li>
-<li><p>Society</p></li>
-<li><p>Social Sciences</p></li>
-<li><p>Sociological Perspective</p></li>
-<li><p>Culture Shock</p></li>
-<li><p>Sociological Imagination</p></li>
-<li><p>Microsociology</p></li>
-<li><p>Macrosociology</p></li>
-<li><p>Theories</p></li>
-<li><p>Paradigm</p></li>
-<li><p>Positivism</p></li>
-<li><p>Social Darwinism</p></li>
-<li><p>Structural Functionalism</p></li>
-<li><p>Solidarity</p></li>
-<li><p>Mechanical Solidarity</p></li>
-<li><p>Organic Solidarity</p></li>
-<li><p>Anomie</p></li>
-<li><p>Sacred</p></li>
-<li><p>Profane</p></li>
-<li><p>Empirical</p></li>
-<li><p>Structural</p></li>
-<li><p>Manifest Functions</p></li>
-<li><p>Latent Functions</p></li>
-<li><p>Conflict Theory</p></li>
-<li><p>Social inequality</p></li>
-<li><p>Alienation</p></li>
-<li><p>Critical theory</p></li>
-<li><p>Critical race theory</p></li>
-<li><p>Feminist theory</p></li>
-<li><p>Queer theory</p></li>
-<li><p>Bureaucracies</p></li>
-<li><p>Iron Cage</p></li>
-<li><p>Verstehen</p></li>
-<li><p>Symbolic Interactionism</p></li>
-<li><p>Pragmatism</p></li>
-<li><p>Postmodernism</p></li>
-<li><p>Modernism</p></li>
-</ul>
-</div>
-<div class="section" id="the-least-you-need-to-know">
-<h3>The least you need to know<a class="headerlink" href="#the-least-you-need-to-know" title="Permalink to this headline">¶</a></h3>
-<p><img alt="" src="_images/REALWORLD7_TABLE01.01.jpg" /></p>
-</div>
-</div>
-<span id="document-lessons/culture"></span><p><img alt="" src="_images/REALWORLD7_FIG03_CO1.jpg" /></p>
-<div class="section" id="culture">
-<h2>Culture<a class="headerlink" href="#culture" title="Permalink to this headline">¶</a></h2>
-<p>This lesson introduces how sociologists think about culture. Culture is one of the fundamental elements of social life and, thus, an essential topic in sociology. Many of the concepts presented here will come up again in almost every subsequent lesson. Because culture is learned so slowly and incrementally, we are often unaware of how it becomes ingrained in our ways of thinking. Applying the sociological perspective to culture requires us to recognize the strangeness in our own culture. This lesson outlines the basics of studying culture and allows you to test potential relationships between television depictions of families and marriage rates. Although culture is familiar to us, you should be seeing it in a new and different way by the time you finish this lesson.</p>
-<div class="section" id="learning-objectives">
-<h3>Learning Objectives<a class="headerlink" href="#learning-objectives" title="Permalink to this headline">¶</a></h3>
-<div class="admonition-by-the-end-of-this-lesson-you-will-be-able-to admonition">
-<p class="admonition-title">By the end of this lesson, you will be able to:</p>
-<ul class="simple">
-<li><p>Describe how sociologists define the components of culture.</p></li>
-<li><p>Identify variation in culture and cultural change.</p></li>
-<li><p>Analyze the relationship between culture and family.</p></li>
-</ul>
-</div>
-</div>
-<div class="section" id="read">
-<h3>Read<a class="headerlink" href="#read" title="Permalink to this headline">¶</a></h3>
-<ul class="simple">
-<li><p>‘<a class="reference external" href="https://digital.wwnorton.com/87056">Culture</a>’, Chapter 3 in Real World</p></li>
-</ul>
-<p><img alt="" src="https://cdn.wwnorton.com/dam_booktitles/733/img/cover/9780393419337_300.jpeg" /></p>
-</div>
-<div class="section" id="watch">
-<h3>Watch<a class="headerlink" href="#watch" title="Permalink to this headline">¶</a></h3>
-<ul class="simple">
-<li><p><a class="reference external" href="https://www.youtube.com/watch?v=RV50AV7-Iwc">Cultures, Subcultures, &amp; Countercultures</a></p></li>
-</ul>
-<div class="cell tag_remove-input docutils container">
-<div class="cell_output docutils container">
-</div>
-</div>
-<ul class="simple">
-<li><p><a class="reference external" href="https://www.youtube.com/watch?v=kGrVhM_Gi8k">Symbols, Values, &amp; Norms</a></p></li>
-</ul>
-<div class="cell tag_remove-input docutils container">
-<div class="cell_output docutils container">
-</div>
-</div>
-</div>
-<div class="section" id="discuss-thursday-during-class">
-<h3>Discuss (Thursday during class):<a class="headerlink" href="#discuss-thursday-during-class" title="Permalink to this headline">¶</a></h3>
-<div class="section" id="context-matters-the-permanence-of-racism">
-<h4>Context Matters: The Permanence of Racism<a class="headerlink" href="#context-matters-the-permanence-of-racism" title="Permalink to this headline">¶</a></h4>
-<p><img alt="" src="https://www.americatomerealtalk.com/imager/images/252/ATM_101_Hero_964c802cbc40b77f9fad3d3fb62906e7.jpg" /></p>
-<p>This week we watch first episode of <a class="reference external" href="http://libproxy.lib.unc.edu/login?url=https://www-filmplatform-net.libproxy.lib.unc.edu/product/america-to-me">American to Me</a>. This is the first episode of a ten part series looking at race and class in an American high school. We will watch it together starting Thursday at 9:50am.</p>
-<ul class="simple">
-<li><p>Be sure to have the movie ready to roll at the start of class.</p></li>
-<li><p>Login to the course Slack at 9:45am and say hi to your group!</p></li>
-</ul>
-<p>Before Thursday:</p>
-<ul class="simple">
-<li><p>Think about the social life in your high school: did people of similar races stick together or do they mix? If they stick together, when?</p></li>
-<li><p>Is it important for some people who share the same racial identity to spend time together, apart from the larger collective?</p></li>
-<li><p>What’s your racial context in college and how does it inform how you navigate the spaces you occupy?</p></li>
-</ul>
-</div>
-</div>
-<div class="section" id="assignments">
-<h3>Assignments<a class="headerlink" href="#assignments" title="Permalink to this headline">¶</a></h3>
-<div class="admonition-be-sure-to-hand-these-in-before-the-deadline admonition">
-<p class="admonition-title">Be sure to hand these in before the deadline</p>
-<ul class="simple">
-<li><p>Inquizitive Chapter Set 3 (Tuesday at 9:45am)</p></li>
-<li><p><a class="reference internal" href="index.html#document-applications/families"><span class="doc">Families on Television</span></a> application (Sunday at 11:59pm)</p></li>
-<li><p>America to Me reflection (Sunday at 11:59pm)</p></li>
-</ul>
-</div>
-</div>
-<div class="section" id="questions">
-<h3>Questions<a class="headerlink" href="#questions" title="Permalink to this headline">¶</a></h3>
-<div class="tip admonition">
-<p class="admonition-title">Questions about assignments or the sociology of culture?</p>
-<ul class="simple">
-<li><p>Post it in the Slack #ask-a-prof channel!</p></li>
-<li><p>Ask your peers in the Slack #ask-anyone chanel!</p></li>
-<li><p>Signup for virtual office hours!</p></li>
-<li><p>Email me or your TA.</p></li>
-</ul>
-</div>
-</div>
-<div class="section" id="lesson-keywords">
-<h3>Lesson Keywords<a class="headerlink" href="#lesson-keywords" title="Permalink to this headline">¶</a></h3>
-<ul class="simple">
-<li><p>ethnocentrism</p></li>
-<li><p>cultural relativism</p></li>
-<li><p>material culture</p></li>
-<li><p>symbolic culture</p></li>
-<li><p>Sapir-Whorf hypothesis</p></li>
-<li><p>values</p></li>
-<li><p>norms</p></li>
-<li><p>laws</p></li>
-<li><p>folkways</p></li>
-<li><p>signs</p></li>
-<li><p>gestures</p></li>
-<li><p>language</p></li>
-<li><p>mores</p></li>
-<li><p>taboo</p></li>
-<li><p>sanction</p></li>
-<li><p>social control</p></li>
-<li><p>Dominant culture</p></li>
-<li><p>subculture</p></li>
-<li><p>counterculture</p></li>
-<li><p>ideal culture</p></li>
-<li><p>real culture</p></li>
-<li><p>cultural diffusion</p></li>
-<li><p>cultural imperialism</p></li>
-<li><p>sanction</p></li>
-</ul>
-</div>
-<div class="section" id="the-least-you-need-to-know">
-<h3>The least you need to know<a class="headerlink" href="#the-least-you-need-to-know" title="Permalink to this headline">¶</a></h3>
-<p>Theoritical perspectives and culture</p>
-<p><img alt="" src="_images/REALWORLD7_TABLE03.01.jpg" /></p>
-</div>
-</div>
-<span id="document-lessons/socialization"></span><p><img alt="" src="_images/REALWORLD7_FIG04_CO.jpg" /></p>
-<div class="section" id="socialization">
-<h2>Socialization<a class="headerlink" href="#socialization" title="Permalink to this headline">¶</a></h2>
-<p>In this lesson, you will learn how the self is connected to social phenomena, such as gender, race, and the media, and how interactions construct them all. You will be acquiring some new analytic tools, including the concepts of socialization and impression management. This lesson presents concepts of self from Freud, Mead, and Cooley; impression management and presentation of the self from Goffman; socialization; statuses and roles; and the social construction of emotions. You will be introduced to a new way of looking at the self—indeed, a new way of looking at your self—that emphasizes the role of the social in creating the individual. And you will be reminded of the reverse: as your society makes you who you are, you have a role (in fact, many roles) to play in shaping your society. The Case Study for this week allows you a chance to analzye how behaviors travel through social networks.</p>
-<div class="section" id="learning-objectives">
-<h3>Learning Objectives<a class="headerlink" href="#learning-objectives" title="Permalink to this headline">¶</a></h3>
-<div class="admonition-by-the-end-of-this-lesson-you-will-be-able-to admonition">
-<p class="admonition-title">By the end of this lesson, you will be able to:</p>
-<ul class="simple">
-<li><p>Identify processes of socialization and theories of the self</p></li>
-<li><p>Evaluate research on social networks.</p></li>
-<li><p>Compare socialization agents.</p></li>
-</ul>
-</div>
-</div>
-<div class="section" id="read">
-<h3>Read<a class="headerlink" href="#read" title="Permalink to this headline">¶</a></h3>
-<ul class="simple">
-<li><p>‘<a class="reference external" href="https://digital.wwnorton.com/87056/r/goto/cfi/74%21/4">Socialization</a>’, Chapter 4 in Real World</p></li>
-</ul>
-<p><img alt="" src="https://cdn.wwnorton.com/dam_booktitles/733/img/cover/9780393419337_300.jpeg" /></p>
-</div>
-<div class="section" id="watch">
-<h3>Watch<a class="headerlink" href="#watch" title="Permalink to this headline">¶</a></h3>
-<ul class="simple">
-<li><p><a class="reference external" href="https://www.youtube.com/watch?v=WbBm_YLwowc">Social Development</a></p></li>
-</ul>
-<div class="cell tag_remove-input docutils container">
-<div class="cell_output docutils container">
-</div>
-</div>
-<ul class="simple">
-<li><p><a class="reference external" href="https://www.youtube.com/watch?v=K-RvJQxqVQc">Socialization</a></p></li>
-</ul>
-<div class="cell tag_remove-input docutils container">
-<div class="cell_output docutils container">
-</div>
-</div>
-<ul class="simple">
-<li><p><a class="reference external" href="https://www.youtube.com/watch?v=UUukBV82P9A">Social Interaction &amp; Performance</a></p></li>
-</ul>
-<div class="cell tag_remove-input docutils container">
-<div class="cell_output docutils container">
-</div>
-</div>
-</div>
-<div class="section" id="discuss-thursday-during-class">
-<h3>Discuss (Thursday during class):<a class="headerlink" href="#discuss-thursday-during-class" title="Permalink to this headline">¶</a></h3>
-<div class="section" id="living-or-surviving-whose-humanity-is-valued">
-<h4>Living or Surviving: Whose Humanity is Valued?<a class="headerlink" href="#living-or-surviving-whose-humanity-is-valued" title="Permalink to this headline">¶</a></h4>
-<p><img alt="" src="https://www.americatomerealtalk.com/imager/images/368/ATME_102sg_1674156_a_964c802cbc40b77f9fad3d3fb62906e7.jpg" /></p>
-<p>We will continue with the second episode of <a class="reference external" href="http://libproxy.lib.unc.edu/login?url=https://www-filmplatform-net.libproxy.lib.unc.edu/product/america-to-me">American to Me</a>.  We will watch it together starting Thursday at 9:50am.</p>
-<ul class="simple">
-<li><p>Be sure to have the movie ready to roll at the start of class.</p></li>
-<li><p>Login to the course Slack at 9:45am and say hi to your group!</p></li>
-</ul>
-<p>Before Thursday:</p>
-<ul class="simple">
-<li><p>What’s the racial makeup of UNC? How does that shape your experience in this space?</p></li>
-<li><p>Where at UNC do you see your racial identity represented and valued? Where do you not feel valued?</p></li>
-</ul>
-</div>
-</div>
-<div class="section" id="assignments">
-<h3>Assignments<a class="headerlink" href="#assignments" title="Permalink to this headline">¶</a></h3>
-<div class="admonition-be-sure-to-hand-these-in-before-the-deadline admonition">
-<p class="admonition-title">Be sure to hand these in before the deadline</p>
-<ul class="simple">
-<li><p>Inquizitive Chapter Set 4 (Tuesday at 9:45am)</p></li>
-<li><p>Is Obesity Contagious Case Study (Sunday at 11:59pm)</p></li>
-<li><p>America to Me Episode 2 reflection (Sunday at 11:59pm)</p></li>
-</ul>
-</div>
-</div>
-<div class="section" id="questions">
-<h3>Questions<a class="headerlink" href="#questions" title="Permalink to this headline">¶</a></h3>
-<div class="tip admonition">
-<p class="admonition-title">Questions about assignments or the lesson?</p>
-<ul class="simple">
-<li><p>Post it in the Slack #ask-a-prof channel!</p></li>
-<li><p>Ask your peers in the Slack #ask-anyone chanel!</p></li>
-<li><p>Signup for virtual office hours!</p></li>
-<li><p>Email me or your TA.</p></li>
-</ul>
-</div>
-</div>
-<div class="section" id="lesson-keywords">
-<h3>Lesson Keywords<a class="headerlink" href="#lesson-keywords" title="Permalink to this headline">¶</a></h3>
-<ul class="simple">
-<li><p>Socialization</p></li>
-<li><p>Self</p></li>
-<li><p>Looking-glass self</p></li>
-<li><p>Mead’s theory of the self</p></li>
-<li><p>Generalized other</p></li>
-<li><p>Thomas theorem</p></li>
-<li><p>Definition of the situation</p></li>
-<li><p>Dramaturgy</p></li>
-<li><p>Impression management</p></li>
-<li><p>Frontstage/backstage</p></li>
-<li><p>Social construction</p></li>
-<li><p>cooling the mark out</p></li>
-<li><p>agents of socialization</p></li>
-<li><p>hidden curriculum</p></li>
-<li><p>total institutions</p></li>
-<li><p>resocialization</p></li>
-<li><p>status</p></li>
-<li><p>ascribed status</p></li>
-<li><p>embodied status</p></li>
-<li><p>achieved status</p></li>
-<li><p>master status</p></li>
-<li><p>role</p></li>
-<li><p>role conflict</p></li>
-<li><p>role strain</p></li>
-<li><p>emotional work/labor</p></li>
-<li><p>agency</p></li>
-<li><p>saturated self</p></li>
-</ul>
-</div>
-<div class="section" id="the-least-you-need-to-know">
-<h3>The least you need to know<a class="headerlink" href="#the-least-you-need-to-know" title="Permalink to this headline">¶</a></h3>
-<p>Theoretical perspectives of the self</p>
-<p><img alt="" src="_images/REALWORLD7_TABLE04.01.jpg" /></p>
-</div>
-</div>
-<span id="document-lessons/groups"></span><p><img alt="Drawing of people sitting around a table." src="_images/REALWORLD7_FIG05_CO.jpg" /></p>
-<div class="section" id="groups">
-<h2>Groups<a class="headerlink" href="#groups" title="Permalink to this headline">¶</a></h2>
-<p>This lesson explores some of the different ways we organize our lives in groups. Here you will gain some of the analytic tools you can use to understand the specific groups we’ll be investigating later in the semester. Concepts such as peer pressure, teamwork, bureaucratization, and anomie can be fruitfully applied to analyses of families, work and volunteer organizations, political groups, and religious communities. Consider this lesson an introduction to group dynamics in general—a springboard from which to begin our sociological analysis of particular types of groups. During the week, think about the groups you belong to and how they affect your values and behavior.</p>
-<div class="section" id="learning-objectives">
-<h3>Learning Objectives<a class="headerlink" href="#learning-objectives" title="Permalink to this headline">¶</a></h3>
-<div class="admonition-by-the-end-of-this-lesson-you-will-be-able-to admonition">
-<p class="admonition-title">By the end of this lesson, you will be able to:</p>
-<ul class="simple">
-<li><p>Describe how sociologists define groups, organizations and networks.</p></li>
-<li><p>Distinguish between theoretical perspectives on groups.</p></li>
-<li><p>Analyze how personal identity is related to groups.</p></li>
-</ul>
-</div>
-</div>
-<div class="section" id="read">
-<h3>Read<a class="headerlink" href="#read" title="Permalink to this headline">¶</a></h3>
-<ul class="simple">
-<li><p>‘<a class="reference external" href="https://digital.wwnorton.com/87056/r/goto/cfi/92%21/4">Socialization</a>’, Chapter 5 in Real World</p></li>
-</ul>
-<p><img alt="Textbook cover" src="https://cdn.wwnorton.com/dam_booktitles/733/img/cover/9780393419337_300.jpeg" /></p>
-</div>
-<div class="section" id="watch">
-<h3>Watch<a class="headerlink" href="#watch" title="Permalink to this headline">¶</a></h3>
-<ul class="simple">
-<li><p><a class="reference external" href="https://www.youtube.com/watch?v=_wFZ5Dbj8DA">Social Groups</a></p></li>
-</ul>
-<div class="cell tag_remove-input docutils container">
-<div class="cell_output docutils container">
-</div>
-</div>
-<ul class="simple">
-<li><p><a class="reference external" href="https://www.youtube.com/watch?v=YDuBh7VbGgU">Formal Organizations</a></p></li>
-</ul>
-<div class="cell tag_remove-input docutils container">
-<div class="cell_output docutils container">
-</div>
-</div>
-<ul class="simple">
-<li><p><a class="reference external" href="https://www.youtube.com/watch?v=TCs_hyI15R8">Politics</a> (Just the parts about power and authority.)</p></li>
-</ul>
-<div class="cell tag_remove-input docutils container">
-<div class="cell_output docutils container">
-</div>
-</div>
-</div>
-<div class="section" id="discuss-thursday-during-class">
-<h3>Discuss (Thursday during class):<a class="headerlink" href="#discuss-thursday-during-class" title="Permalink to this headline">¶</a></h3>
-<div class="section" id="racialized-relationships-in-families-and-communities">
-<h4>Racialized Relationships in Families and Communities<a class="headerlink" href="#racialized-relationships-in-families-and-communities" title="Permalink to this headline">¶</a></h4>
-<p><img alt="Image from film" src="https://www.americatomerealtalk.com/imager/images/366/ATME_103sg_507856_a_964c802cbc40b77f9fad3d3fb62906e7.jpg" /></p>
-<p>We will continue with the third episode of <a class="reference external" href="http://libproxy.lib.unc.edu/login?url=https://www-filmplatform-net.libproxy.lib.unc.edu/product/america-to-me">American to Me</a>.  We will watch it together starting Thursday at 9:50am.</p>
-<ul class="simple">
-<li><p>Be sure to have the movie ready to roll at the start of class.</p></li>
-<li><p>Login to the course Slack at 9:45am and say hi to your group!</p></li>
-</ul>
-<p>Before Thursday:</p>
-<ul class="simple">
-<li><p>How does your family experience shape how you show up in conversations about race?</p></li>
-<li><p>Who are you comfortable having a discussion about race with and why? Who are you not comfortable speaking with about race and why?</p></li>
-<li><p>What messages did you receive about race from your family, and how do those messages conflict or align with the messages you receive(d) in school?</p></li>
-</ul>
-</div>
-</div>
-<div class="section" id="assignments">
-<h3>Assignments<a class="headerlink" href="#assignments" title="Permalink to this headline">¶</a></h3>
-<div class="admonition-be-sure-to-hand-these-in-before-the-deadline admonition">
-<p class="admonition-title">Be sure to hand these in before the deadline</p>
-<ul class="simple">
-<li><p>Inquizitive Chapter Set 5 (Tuesday at 9:45am)</p></li>
-<li><p>Who am I Application (Sunday at 11:59pm)</p></li>
-<li><p>America to Me Episode 3 reflection (Sunday at 11:59pm)</p></li>
-</ul>
-</div>
-</div>
-<div class="section" id="questions">
-<h3>Questions<a class="headerlink" href="#questions" title="Permalink to this headline">¶</a></h3>
-<div class="tip admonition">
-<p class="admonition-title">Questions about assignments or the lesson?</p>
-<ul class="simple">
-<li><p>Post it in the Slack #ask-a-prof channel!</p></li>
-<li><p>Ask your peers in the Slack #ask-anyone chanel!</p></li>
-<li><p>Signup for virtual office hours!</p></li>
-<li><p>Email me or your TA.</p></li>
-</ul>
-</div>
-</div>
-<div class="section" id="lesson-keywords">
-<h3>Lesson Keywords<a class="headerlink" href="#lesson-keywords" title="Permalink to this headline">¶</a></h3>
-<ul class="simple">
-<li><p>group</p></li>
-<li><p>crowd</p></li>
-<li><p>aggregates</p></li>
-<li><p>category</p></li>
-<li><p>primary groups</p></li>
-<li><p>secondary groups</p></li>
-<li><p>social network</p></li>
-<li><p>social ties</p></li>
-<li><p>strong ties</p></li>
-<li><p>weak ties</p></li>
-<li><p>anomie</p></li>
-<li><p>group dynamics</p></li>
-<li><p>in-group</p></li>
-<li><p>out-group</p></li>
-<li><p>reference group</p></li>
-<li><p>groupthink</p></li>
-<li><p>social influence</p></li>
-<li><p>asch experiment</p></li>
-<li><p>social identity theory</p></li>
-<li><p>power</p></li>
-<li><p>coercive power</p></li>
-<li><p>authority</p></li>
-<li><p>traditional authority</p></li>
-<li><p>legal-rational authority</p></li>
-<li><p>charismatic authority</p></li>
-<li><p>instrumental leadership</p></li>
-<li><p>expressive leadership</p></li>
-<li><p>bureaucracy</p></li>
-<li><p>rationalization</p></li>
-<li><p>McDonaldization\</p></li>
-</ul>
-</div>
-<div class="section" id="the-least-you-need-to-know">
-<h3>The least you need to know<a class="headerlink" href="#the-least-you-need-to-know" title="Permalink to this headline">¶</a></h3>
-<p>Theoretical perspectives on groups</p>
-<p><img alt="Table 1 from Chapter 5 in the textbook" src="_images/REALWORLD7_TABLE05.01.jpg" /></p>
-</div>
-</div>
-<span id="document-lessons/deviance"></span><p><img alt="Drawing of people fighting around a table." src="_images/REALWORLD7_FIG06_CO.jpg" /></p>
-<div class="section" id="deviance">
-<h2>Deviance<a class="headerlink" href="#deviance" title="Permalink to this headline">¶</a></h2>
-<p>This lesson introduces the sociology of deviance and crime. In sociology, deviance isn’t an insult.  Deviance means being non-normative: different Sociologists pay particular attention to the socially constructed nature of deviance and conformity, emphasizing how definitions of deviance vary across cultures, history, and situations.  This week, we will examine how the different theoretical perspectives approach deviance. Within sociology, crime is a particular type of deviance: It is the violation of a norm that has been codified into law, for which you could be arrested and imprisoned.  A sociological view of crime includes analyzing patterns through the lens of different demographic groups’ power in society yields an interpretation of the data that differs from the mainstream understanding. The case study asks you to interpret findings from a study that looks at the relationship between imprisonment and being re-arrested.</p>
-<div class="section" id="learning-objectives">
-<h3>Learning Objectives<a class="headerlink" href="#learning-objectives" title="Permalink to this headline">¶</a></h3>
-<div class="admonition-by-the-end-of-this-lesson-you-will-be-able-to admonition">
-<p class="admonition-title">By the end of this lesson, you will be able to:</p>
-<ul class="simple">
-<li><p>Differentiate between competing theories of deviance.</p></li>
-<li><p>Describe trends in crime and incarceration.</p></li>
-<li><p>Evaluate the relationship between imprisonment and recidivism.</p></li>
-</ul>
-</div>
-</div>
-<div class="section" id="read">
-<h3>Read<a class="headerlink" href="#read" title="Permalink to this headline">¶</a></h3>
-<ul class="simple">
-<li><p>‘<a class="reference external" href="https://digital.wwnorton.com/87056/r/goto/cfi/92%21/4">Deviance</a>’, Chapter 6 in Real World</p></li>
-</ul>
-<p><img alt="Textbook cover" src="https://cdn.wwnorton.com/dam_booktitles/733/img/cover/9780393419337_300.jpeg" /></p>
-</div>
-<div class="section" id="watch">
-<h3>Watch<a class="headerlink" href="#watch" title="Permalink to this headline">¶</a></h3>
-<ul class="simple">
-<li><p><a class="reference external" href="https://www.youtube.com/watch?v=BGq9zW9w3Fw">Deviance</a></p></li>
-</ul>
-<div class="cell tag_remove-input docutils container">
-<div class="cell_output docutils container">
-</div>
-</div>
-<ul class="simple">
-<li><p><a class="reference external" href="https://www.youtube.com/watch?v=06IS_X7hWWI">Theory and Deviance</a></p></li>
-</ul>
-<div class="cell tag_remove-input docutils container">
-<div class="cell_output docutils container">
-</div>
-</div>
-<ul class="simple">
-<li><p><a class="reference external" href="https://www.youtube.com/watch?v=zBodqwAlW3A">Crime</a></p></li>
-</ul>
-<div class="cell tag_remove-input docutils container">
-<div class="cell_output docutils container">
-</div>
-</div>
-</div>
-<div class="section" id="discuss-thursday-during-class">
-<h3>Discuss (Thursday during class):<a class="headerlink" href="#discuss-thursday-during-class" title="Permalink to this headline">¶</a></h3>
-<div class="section" id="racialized-relationships-in-families-and-communities">
-<h4>Racialized Relationships in Families and Communities<a class="headerlink" href="#racialized-relationships-in-families-and-communities" title="Permalink to this headline">¶</a></h4>
-<p><img alt="Image from film" src="https://www.americatomerealtalk.com/imager/images/360/ATME_104sg_1405097_a_964c802cbc40b77f9fad3d3fb62906e7.jpg" /></p>
-<p>We will continue with the fourth episode of <a class="reference external" href="http://libproxy.lib.unc.edu/login?url=https://www-filmplatform-net.libproxy.lib.unc.edu/product/america-to-me">American to Me</a>.  We will watch it together starting Thursday at 9:50am.</p>
-<ul class="simple">
-<li><p>Be sure to have the movie ready to roll at the start of class.</p></li>
-<li><p>Login to the course Slack at 9:45am and say hi to your group!</p></li>
-</ul>
-<p>Before Thursday:</p>
-<ul class="simple">
-<li><p>How does race inform your sense of agency, the ability to feel empowered to take control of your own choices and actions, and advocate for yourself, around your racial identity?</p></li>
-<li><p>How does your sense of agency shift depending on who you are or who you are with?</p></li>
-<li><p>Where in your high school do you see agency around racial identity? Is it specific to only certain racial identities?</p></li>
-</ul>
-</div>
-</div>
-<div class="section" id="assignments">
-<h3>Assignments<a class="headerlink" href="#assignments" title="Permalink to this headline">¶</a></h3>
-<div class="admonition-be-sure-to-hand-these-in-before-the-deadline admonition">
-<p class="admonition-title">Be sure to hand these in before the deadline</p>
-<ul class="simple">
-<li><p>Inquizitive Chapter Set 6 (Tuesday at 9:45am)</p></li>
-<li><p>Does imprisonment reduce violent crime? case study (Sunday at 11:59pm)</p></li>
-<li><p>America to Me Episode 3 reflection (Sunday at 11:59pm)</p></li>
-</ul>
-</div>
-</div>
-<div class="section" id="questions">
-<h3>Questions<a class="headerlink" href="#questions" title="Permalink to this headline">¶</a></h3>
-<div class="tip admonition">
-<p class="admonition-title">Questions about assignments or the lesson?</p>
-<ul class="simple">
-<li><p>Post it in the Slack #ask-a-prof channel!</p></li>
-<li><p>Ask your peers in the Slack #ask-anyone chanel!</p></li>
-<li><p>Signup for virtual office hours!</p></li>
-<li><p>Email me or your TA.</p></li>
-</ul>
-</div>
-</div>
-<div class="section" id="lesson-keywords">
-<h3>Lesson Keywords<a class="headerlink" href="#lesson-keywords" title="Permalink to this headline">¶</a></h3>
-<ul class="simple">
-<li><p>deviance</p></li>
-<li><p>Merton’s typology of deviance</p></li>
-<li><p>social control theory</p></li>
-<li><p>differential association theory</p></li>
-<li><p>labeling theory</p></li>
-<li><p>primary deviance</p></li>
-<li><p>secondary deviance</p></li>
-<li><p>tertiary deviance</p></li>
-<li><p>stereotype threat</p></li>
-<li><p>stereotype promise</p></li>
-<li><p>stigma</p></li>
-<li><p>passing</p></li>
-<li><p>in-group orientation</p></li>
-<li><p>deviance avowal</p></li>
-<li><p>crime</p></li>
-<li><p>criminology</p></li>
-<li><p>uniform crime report</p></li>
-<li><p>Criminal Justice System</p></li>
-<li><p>retribution</p></li>
-<li><p>deternce</p></li>
-<li><p>rehabilitation</p></li>
-<li><p>positive deviance</p></li>
-</ul>
-</div>
-<div class="section" id="the-least-you-need-to-know">
-<h3>The least you need to know<a class="headerlink" href="#the-least-you-need-to-know" title="Permalink to this headline">¶</a></h3>
-<p>Theoretical perspectives on deviance</p>
-<p><img alt="Table 1 from Chapter 6 in the textbook" src="_images/REALWORLD7_TABLE05.01.jpg" /></p>
-</div>
-</div>
 </div>
 <div class="toctree-wrapper compound">
-<span id="document-applications/breach"></span><div class="section" id="breaching">
-<h2>Breaching<a class="headerlink" href="#breaching" title="Permalink to this headline">¶</a></h2>
-<p><img alt="People doing various things" src="_images/REALWORLD7_FIG03_CO.jpg" /></p>
-<p>Social interaction represents one of the key building blocks of society. Despite being unscripted, these interactions have strict unwritten rules. Breaking those rules, or being deviant, is a critical way of discovering what the norms are and what are the range of reactions to norm violations.</p>
-<div class="section" id="description">
-<h3>Description<a class="headerlink" href="#description" title="Permalink to this headline">¶</a></h3>
-<p>You will conduct an exercise that violates social norms and write a short paper about the experience. This exercise may be performed alone or in a group (of your choice) of four or fewer participants. The norm violation can not include illegal activities or those that might risk someone’s safety, health or well-being. In our current pandemic world, I would strongly encourage you to conduct your breach on social media, such as something defies our new norms of online courses, such as brushing your teeth during Zoom class. If conducting your experiment as a group, each group member will perform the breach once. When not performing the breach, the other group members should observe the interaction and write an observation log documenting people’s reaction to the breach.</p>
-<p>Write a brief research report that discusses your research and what you found. The report should include:</p>
-<ul class="simple">
-<li><p>A description of the norm you violated. (Remember, you cannot break a law).</p></li>
-<li><p>A description of the violation.</p></li>
-<li><p>A description of the most general way people responded as the violation was enacted.</p></li>
-<li><p>A description of how you felt enacting the norm violation.</p></li>
-<li><p>An analytic discussion of the sociological significance of the breach.</p></li>
-<li><p>Video or photographic proof that the breach occurred. Ideally, this would be a link to a video of the breach. If you are doing this solo, a photo of the situation pre or post breach is sufficient. If you have trouble submitting the video/picture, you can text it to me (919-381-7638) along with your name. As part of your assignment, put “I texted the video to Professor Caren from my phone, 919-xxx-xxxx.”</p></li>
-</ul>
-</div>
-<div class="section" id="requirements">
-<h3>Requirements<a class="headerlink" href="#requirements" title="Permalink to this headline">¶</a></h3>
-<ul class="simple">
-<li><p>No late assignments will be accepted.</p></li>
-<li><p>You may conduct your breach as part of a group, but each person must individually write and submit a research report.</p></li>
-<li><p>Your research report should be at least 250 words long.</p></li>
-</ul>
-</div>
-<div class="section" id="grading">
-<h3>Grading<a class="headerlink" href="#grading" title="Permalink to this headline">¶</a></h3>
-<ul class="simple">
-<li><p>Grading is High Pass (100); Pass (87) and Fail (0). Students who do not satisfactorily complete the exercise (i.e, Fail) will be allowed to revise and resubmit their application for a Pass within one week.</p></li>
-<li><p>To be eligible for a High Pass, you must go substantially beyond the assignment requirements <em>both in terms of research and analysis</em>. To qualify for a High Pass, you must include a section at the front of your paper called <strong>High Pass</strong> with at least 50 words detailing how you exceeded the requirements.</p></li>
-</ul>
-</div>
-</div>
-<span id="document-applications/families"></span><div class="section" id="families-on-television">
-<h2>Families on Television<a class="headerlink" href="#families-on-television" title="Permalink to this headline">¶</a></h2>
-<p><img alt="Some families" src="_images/REALWORLD7_FIG08_CO.jpg" /></p>
-<p>Many significant shifts have occurred over the last fifty years in how we think of the family and the experience of living in a household. These include changes in marital and living patterns, marriage and divorce rates, the gendered nature of housework, and labor force participation. There are many theories to explain the factors. In this application, you will focus on the potential role of culture in creating new norms about the family. Alternatively, culture may merely reflect other shifts i\n society. Is television responsible for the deinstitutionalization of the family? In this application, you will classify tv shows from four different decades to examine which changed first: changes in depictions of families on television or changes in families in society.</p>
-<div class="section" id="description">
-<h3>Description<a class="headerlink" href="#description" title="Permalink to this headline">¶</a></h3>
-<ul class="simple">
-<li><p>You will explore two hypotheses on the relationship between popular culture and the deinstitutionalization of the family. The first is provided below.</p>
-<ul>
-<li><p><strong>Hypothesis 1:</strong> TV shows began increasingly focusing on non-conjugal families prior to shifts in the larger society.</p></li>
-<li><p><strong>Hypothesis 2</strong> : Develop a second hypothesis. This could be related to any other aspect of changes in the family that happened over the last fifty years and whether or not it is reflected on television. Make sure to link this to a specific concept from the book and include your citation.</p></li>
-</ul>
-</li>
-<li><p>Our cultural data comes from TV shows. Randomly sample one year from every other decade (ie. the 1950s, 1970s, 1990s, 2010s). Find a listing of the 20 most popular TV shows those years.</p>
-<ul>
-<li><p>1950s- 1990s: <a class="reference external" href="http://www.classictvhits.com/tvratings/">Classic TV Hits</a></p></li>
-<li><p>2000s  on: Wikipedia (for example, <a class="reference external" href="https://en.wikipedia.org/wiki/Top-rated_United_States_television_programs_of_2006%E2%80%9307">Top-rated United States television programs of 2006–07</a>)</p></li>
-</ul>
-</li>
-</ul>
-<p>Calculate the percentage of shows for a year that were “household” centered (e.g. “Friends” or “The Simpsons”) as opposed to focused on the workplace (e.g. “The Office” or “CSI”) or something else. <strong>Overall, would you say that television has become more or less household focused?</strong> If so, when did the shift happen?</p>
-<ul class="simple">
-<li><p>Focus now on <strong>only</strong> the household shows. Come up with a coding scheme that will allow you to test your hypotheses. For example, you might want to look for presence or absence of marriage; whether or not a central character is divorced or widowed; whether adult children live in the home; or whether the couple is interracial.</p></li>
-<li><p>Record data for all your TV shows! You do not need to watch them. Wikipedia and other internet sources are your friends.</p></li>
-<li><p>Aggregate your results. Does the evidence support either of the hypotheses?</p></li>
-<li><p>Write a brief research report that discusses your research and what you found. The report should include:</p>
-<ul>
-<li><p>an introduction;</p></li>
-<li><p>a discussion of your hypotheses;</p></li>
-<li><p>a description of your data and methods of analysis;</p></li>
-<li><p>a description of what you found with respect to a shift in becoming more or less household focused and your two hypotheses. Include a table with your write up of your findings.</p></li>
-<li><p>An evaluation of what you learned about the media you studied. Did the findings surprise you?</p></li>
-</ul>
-</li>
-</ul>
-</div>
-<div class="section" id="requirements">
-<h3>Requirements<a class="headerlink" href="#requirements" title="Permalink to this headline">¶</a></h3>
-<ul class="simple">
-<li><p>No late assignments will be accepted.</p></li>
-<li><p>Your research report should be at least 250 words long.</p></li>
-</ul>
-</div>
-<div class="section" id="grading">
-<h3>Grading<a class="headerlink" href="#grading" title="Permalink to this headline">¶</a></h3>
-<ul class="simple">
-<li><p>Grading is High Pass (100); Pass (87) and Fail (0). Students who do not satisfactorily complete the exercise (i.e, Fail) will be allowed to revise and resubmit their application for a Pass within one week.</p></li>
-<li><p>To be eligible for a High Pass, you must go substantially beyond the assignment requirements <em>both in terms of research and analysis</em>. To qualify for a High Pass, you must include a section at the front of your paper called <strong>High Pass</strong> with at least 50 words detailing how you exceeded the requirements.</p></li>
-</ul>
-</div>
-</div>
-<span id="document-applications/snap"></span><div class="section" id="snap-challenge">
-<h2>SNAP Challenge<a class="headerlink" href="#snap-challenge" title="Permalink to this headline">¶</a></h2>
-<p><img alt="People sitting around a table" src="_images/REALWORLD7_FIG12_CO.jpg" /></p>
-<p>Social safety net programs are one way to combat economic inequality. These programs are frequently controversial. This exercise allows you to examine one of these programs - the Supplemental Nutrition Assistance Program (SNAP). In doing so you can think through sociological analyses of the causes of and solutions to poverty.</p>
-<div class="section" id="description">
-<h3>Description<a class="headerlink" href="#description" title="Permalink to this headline">¶</a></h3>
-<ul class="simple">
-<li><p>Approximately 15% of North Carolina residents receive SNAP benefits. In this assignment you will assume that you have a SNAP allotment of $121 per month/per person (the North Carolina average) for you and your 10-year old child for a total of $240 a month..</p></li>
-<li><p>Based on your <em>$60 per week food budget,</em> take a trip to your local grocery store (either online or in person) to plan a week of meals for yourself and your child. Make certain you allot yourself the amount of food you typically eat. As a reminder the recommended daily calories for a 10 year old are 1,400-1,800 and an adult are 1,800-2,600.</p></li>
-<li><p>Your analysis should include a grocery list (including the cost of each item) and one week’s menu (including the total calories for each meal) as in the following example:</p></li>
-</ul>
-<p><strong>Grocery list:</strong></p>
-<table class="colwidths-auto docutils align-default">
-<thead>
-<tr class="row-odd"><th class="head"><p>Purchase</p></th>
-<th class="head"><p>Cost</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="row-even"><td><p>Gallon of milk</p></td>
-<td><p>$4.20</p></td>
-</tr>
-<tr class="row-odd"><td><p>7 Banana</p></td>
-<td><p>$1.40</p></td>
-</tr>
-<tr class="row-even"><td><p>5 apples</p></td>
-<td><p>$2.35</p></td>
-</tr>
-</tbody>
-</table>
-<p><strong>Week’s menu:</strong></p>
-<p><em>Day One:</em></p>
-<ul class="simple">
-<li><p>Breakfast: 1 c cereal, 1 c milk, banana (336 Cal)</p></li>
-<li><p>Lunch: 2 slices bread, 1 slice lunchmeat, 1 apple (320 Cal)</p></li>
-<li><p>Dinner: 1 c pasta, .25 c pasta sauce, 1 c broccoli, 1 tbl butter (380 Cal)</p></li>
-<li><p>Snacks: 1 granola bar, 1 c carrot sticks (250)</p></li>
-</ul>
-<p><em>Day Two:</em>…</p>
-<ul class="simple">
-<li><p>With your shopping list and menu, include a one paragraph reflection on your experience. Was it easy to meet the guidelines? Difficult? What did you have to give up, if anything? Are your meals nutritionally balanced? How does this differ from your own diet growing up?</p></li>
-</ul>
-</div>
-<div class="section" id="requirements">
-<h3>Requirements<a class="headerlink" href="#requirements" title="Permalink to this headline">¶</a></h3>
-<ul class="simple">
-<li><p>No late assignments will be accepted.</p></li>
-</ul>
-</div>
-<div class="section" id="grading">
-<h3>Grading<a class="headerlink" href="#grading" title="Permalink to this headline">¶</a></h3>
-<ul class="simple">
-<li><p>Grading is High Pass (100); Pass (87) and Fail (0). Students who do not satisfactorily complete the exercise (i.e, Fail) will be allowed to revise and resubmit their application for a Pass within one week.</p></li>
-<li><p>To be eligible for a High Pass, you must go substantially beyond the assignment requirements <em>both in terms of research and analysis</em>. To qualify for a High Pass, you must include a section at the front of your paper called “High Pass” with at least 50 words detailing how you exceeded the requirements.</p></li>
-</ul>
-<p>*Assignment based on CJ Pascoe’s version of the “The Food Stamp Challenge” in <em>Sociology Through Active Learning</em> edited by Kathleen McKinney and Brabara S. Heyl. Los Angeles: Pine Forge Press. 2009.</p>
-</div>
-</div>
-<span id="document-applications/dotmap"></span><div class="section" id="racial-dot-map-and-segregation">
-<h2>Racial Dot Map and Segregation<a class="headerlink" href="#racial-dot-map-and-segregation" title="Permalink to this headline">¶</a></h2>
-<p><img alt="People moving in vehicles" src="_images/REALWORLD7_FIG07_CO.jpg" /></p>
-<p>As we discussed intthis lesson, racial and ethnic segregation is an important aspect of the American landscape. In this exercise, you will examine different patterns of segregation found in metropolitan areas.</p>
-<div class="section" id="description">
-<h3>Description<a class="headerlink" href="#description" title="Permalink to this headline">¶</a></h3>
-<p>Visit the <a class="reference external" href="https://demographics.virginia.edu/DotMap/">Racial Dot Map</a>. Click “Add Map Labels” in the upper left corner unless you are freakily good with geography.</p>
-<p>Your research report should respond to the following issues:</p>
-<ul class="simple">
-<li><p>On the racial dot map, visit Cleveland, Raleigh, Richmond, and Birmingham. For each city, how would you describe the level of Black-White segregation? Which of the four cities would rank the most segregated? The least?</p></li>
-<li><p>On the racial dot map, visit Albuquerque, NM and Oxnard, CA. How would you rank the level of Latino-non Latino segregation? How do Latino-White segregation compare to the Black-White segregation you explored in the four above cities?</p></li>
-<li><p>Finally, explore more fully one zone from one of these six cities. Your focus could either be the border between two racially different neighborhoods or some sort of surprising racial/ethnic concentration. Go over to Google Maps and locate the place. Use Street View to help get a sense of the neighborhood. Describe what you researched and what you found. Where appropriate, use pictures in your report.</p></li>
-</ul>
-</div>
-<div class="section" id="requirements">
-<h3>Requirements<a class="headerlink" href="#requirements" title="Permalink to this headline">¶</a></h3>
-<ul class="simple">
-<li><p>Your research report should be at least 250 words long.</p></li>
-<li><p>No late assignments will be accepted.</p></li>
-</ul>
-</div>
-<div class="section" id="grading">
-<h3>Grading<a class="headerlink" href="#grading" title="Permalink to this headline">¶</a></h3>
-<ul class="simple">
-<li><p>Grading is High Pass (100); Pass (87) and Fail (0). Students who do not satisfactorily complete the exercise (i.e, Fail) will be allowed to revise and resubmit their application for a Pass within one week.</p></li>
-<li><p>To be eligible for a High Pass, you must go substantially beyond the assignment requirements <em>both in terms of research and analysis</em>. To qualify for a High Pass, you must include a section at the front of your paper called “High Pass” with at least 50 words detailing how you exceeded the requirements.</p></li>
-</ul>
-</div>
-</div>
-<span id="document-applications/bechdel"></span><div class="section" id="bechdel-test">
-<h2>Bechdel Test<a class="headerlink" href="#bechdel-test" title="Permalink to this headline">¶</a></h2>
-<p><img alt="Gender Symbols" src="_images/REALWORLD7_FIG09_CO.jpg" />
-This assignment is an exercise in applying methods for measuring gender bias in popular culture. You will be required to watch and analyze episodes from three different television programs. The assignment will help you to think about gender inequality and measuring culture.</p>
-<div class="section" id="description">
-<h3>Description<a class="headerlink" href="#description" title="Permalink to this headline">¶</a></h3>
-<ul class="simple">
-<li><p>Watch <a class="reference external" href="https://www.youtube.com/watch?v=bLF6sAAMb4s">Anita Sarkeesian</a> discuss the Bechdel Test.</p></li>
-<li><p>Read Walt Hickey, Ella Koeze, Rachael Dottle and Gus Wezerek’s “<a class="reference external" href="https://projects.fivethirtyeight.com/next-bechdel/">The next Bechdel Test</a>.”</p></li>
-<li><p>Pick three different television programs to watch. Before you watch them, make a guess about whether each will pass the Bechdel test.</p></li>
-<li><p>Watch and code an episode from each of the three different television programs. Use the Bechdel test <em>and one other test discussed in the Hickey et al. article</em>. While watching, take notes on anything else meaniful you observe related to the sociological study of gender.</p></li>
-</ul>
-</div>
-<div class="section" id="requirements">
-<h3>Requirements<a class="headerlink" href="#requirements" title="Permalink to this headline">¶</a></h3>
-<ul class="simple">
-<li><p>Write a brief research report (of at least 250 words) that discusses your research and what you found. The report should include:</p>
-<ul>
-<li><p>an introduction</p></li>
-<li><p>a description of your data and methods of analysis.</p></li>
-<li><p>a description of what you found by analyzing the three episodes.</p></li>
-<li><p>An evaluation of what you learned about the media you studied. Did the findings surprise you?</p></li>
-</ul>
-</li>
-<li><p>An evaluation of the methods you employed. Based on your research, how would you revise the method?</p></li>
-<li><p>No late assignments will be accepted.</p></li>
-</ul>
-</div>
-<div class="section" id="grading">
-<h3>Grading<a class="headerlink" href="#grading" title="Permalink to this headline">¶</a></h3>
-<ul class="simple">
-<li><p>Grading is High Pass (100); Pass (87) and Fail (0). Students who do not satisfactorily complete the exercise (i.e, Fail) will be allowed to revise and resubmit their application for a Pass within one week.</p></li>
-<li><p>To be eligible for a High Pass, you must go substantially beyond the assignment requirements <em>both in terms of research and analysis</em>. To qualify for a High Pass, you must include a section at the front of your paper called “High Pass” with at least 50 words detailing how you exceeded the requirements.</p></li>
-</ul>
-</div>
-</div>
-<span id="document-applications/studydesign"></span><div class="section" id="study-design">
-<h2>Study Design<a class="headerlink" href="#study-design" title="Permalink to this headline">¶</a></h2>
-<p><img alt="People doing science" src="_images/REALWORLD7_FIG02_CO.jpg" /></p>
-<p>This exercise is an opportunity to practice a particular sociological research method. It will provide an opportunity for evaluating the strengths and weaknesses of this method, think seriously about research ethics as well as research design. and other sociological research methods.</p>
-<div class="section" id="description">
-<h3>Description<a class="headerlink" href="#description" title="Permalink to this headline">¶</a></h3>
-<ul class="simple">
-<li><p>Read the Yale Daily News article, “<a class="reference external" href="https://yaledailynews.com/blog/2018/03/08/dke-internal-review-finds-no-hostile-culture/">DKE internal review finds no hostile culture</a>” and the <a class="reference external" href="http://ydn-wpengine.netdna-ssl.com/wp-content/uploads/2018/03/20180219171837.pdf">study report</a>.</p></li>
-<li><p>Write a research proposal that evaluates the Yale DKE study and proposes an additional research project.</p></li>
-<li><p>As an additional resource, take a look at the “<a class="reference external" href="https://www.aau.edu/sites/default/files/%40%20Files/Climate%20Survey/Survey%20Instrument.pdf">Campus Climate Survey on Sexual Assault and Sexual Misconduct</a>” survey. This has some ideas for questions. If you are doing a survey, feel free to re-use their questions (although be sure to note this in your assignment).</p></li>
-</ul>
-</div>
-<div class="section" id="requirements">
-<h3>Requirements<a class="headerlink" href="#requirements" title="Permalink to this headline">¶</a></h3>
-<ul class="simple">
-<li><p>In addition to your one paragraph evaluation, your project proposal (of at least 300 words) needs to address the following questions:</p>
-<ul>
-<li><p>Is this a qualitative, quantitative or mixed-methods study?</p></li>
-<li><p>What are the important variables in this study? If possible and appropriate identify the dependent/independent variables.</p></li>
-<li><p>How are you going to operationalize these variables?</p></li>
-<li><p>If you are doing a deductive study, what is the hypothesis?</p></li>
-<li><p>What population will you be studying? Will it be a census or a sample of this population? Please describe.</p></li>
-<li><p>What type of research method will you use?</p></li>
-<li><p>Describe your research “instrument.” This means you need to answer the appropriate question for your method: What are some of your survey questions? What are some of your interview questions? How would you describe the experiment you are going to conduct? Where/when/how will you perform your observations? What content will you analyze?</p></li>
-<li><p>Be sure to address the three elements that sociologists take into account when performing ethical research.</p></li>
-<li><p>What are the limitations of this study?</p></li>
-</ul>
-</li>
-<li><p>No late assignments will be accepted.</p></li>
-</ul>
-</div>
-<div class="section" id="grading">
-<h3>Grading<a class="headerlink" href="#grading" title="Permalink to this headline">¶</a></h3>
-<ul class="simple">
-<li><p>Grading is High Pass (100); Pass (87) and Fail (0). Students who do not satisfactorily complete the exercise (i.e, Fail) will be allowed to revise and resubmit their application for a Pass within one week.</p></li>
-<li><p>To be eligible for a High Pass, you must go substantially beyond the assignment requirements <em>both in terms of research and analysis</em>. To qualify for a High Pass, you must include a section at the front of your paper called “High Pass” with at least 50 words detailing how you exceeded the requirements.</p></li>
-</ul>
-</div>
-</div>
-<span id="document-applications/education"></span><div class="section" id="education">
-<h2>Education<a class="headerlink" href="#education" title="Permalink to this headline">¶</a></h2>
-<p><img alt="Students in a classroom" src="_images/REALWORLD7_FIG10_CO.jpg" /></p>
-<div class="section" id="objective">
-<h3>Objective<a class="headerlink" href="#objective" title="Permalink to this headline">¶</a></h3>
-<p>As was discussed in the lesson materials, there is a relationship between race, income and educational performance. In this exercise, you will examine different patterns of student achievement.</p>
-</div>
-<div class="section" id="description">
-<h3>Description<a class="headerlink" href="#description" title="Permalink to this headline">¶</a></h3>
-<p>Go to the New York Times’ interactive site <a class="reference external" href="https://www.nytimes.com/interactive/2016/04/29/upshot/money-race-and-success-how-your-school-district-compares.html?mcubz=3">Money, Race, and Success: How Your School District Compares</a>.</p>
-<ul class="simple">
-<li><p>Start with the first graph, which gives student achievement and family income data for every school district in the country. What do you notice about the overall patterns? Are there any exceptions?</p>
-<ul>
-<li><p>Find and record data on average grade level, median income, and race/ethnicity for the following districts: City of Chicago, Evanston CCSD, and Kenilworth (all in Illinois).</p></li>
-</ul>
-</li>
-<li><p>Look at the second graph, which documents differences in achievement between White, Black, and Latino students.</p>
-<ul>
-<li><p>What is it showing you? In particular, what patterns do you observe around race, class, and achievement? What do you think could be responsible for these patterns? What diversity within groups do you see?</p></li>
-</ul>
-</li>
-<li><p>Pick three other districts you are interested in.</p>
-<ul>
-<li><p>Find and record their data. What patterns do you see with these?</p></li>
-</ul>
-</li>
-</ul>
-</div>
-<div class="section" id="requirements">
-<h3>Requirements<a class="headerlink" href="#requirements" title="Permalink to this headline">¶</a></h3>
-<ul class="simple">
-<li><p>Your research report, of at least 250 words, should address each of the questions above.</p></li>
-<li><p>No late assignments will be accepted.</p></li>
-</ul>
-</div>
-<div class="section" id="grading">
-<h3>Grading<a class="headerlink" href="#grading" title="Permalink to this headline">¶</a></h3>
-<ul class="simple">
-<li><p>Grading is High Pass (100); Pass (87) and Fail (0). Students who do not satisfactorily complete the exercise (i.e, Fail) will be allowed to revise and resubmit their application for a Pass within one week.</p></li>
-<li><p>To be eligible for a High Pass, you must go substantially beyond the assignment requirements <em>both in terms of research and analysis</em>. To qualify for a High Pass, you must include a section at the front of your paper called “High Pass” with at least 50 words detailing how you exceeded the requirements.</p></li>
-</ul>
-</div>
-</div>
 </div>
 <div class="toctree-wrapper compound">
-<span id="document-syllabus/credits"></span><div class="section" id="credits">
-<h2>Credits<a class="headerlink" href="#credits" title="Permalink to this headline">¶</a></h2>
-<p>Lesson information draws on text from the Real World textbook by Kerry Ferris and Jill Stein and related instructor resources.<br />
-Many of the applications are based on assignments originally developed by C.J. Pascoe.<br />
-America to Me images are from the <a class="reference external" href="https://www.americatomerealtalk.com">film’s website</a>.<br />
-Drawings are provided by W. W. Norton.<br />
-Code of Conduct draws on the <a class="reference external" href="http://speakup.io/coc.html">Speak Up! project</a> and <a class="reference external" href="https://www.brown.edu/sheridan/teaching-learning-resources/inclusive-teaching/statements">Brown’s Center for Teaching and Learning</a>.</p>
-</div>
 </div>
 </div>
 
@@ -1474,6 +235,7 @@ Code of Conduct draws on the <a class="reference external" href="http://speakup.
     
     <div class='prev-next-bottom'>
         
+    <a class='right-next' id="next-link" href="syllabus/overview.html" title="next page">Overview</a>
 
     </div>
     <footer class="footer mt-5 mt-md-0">

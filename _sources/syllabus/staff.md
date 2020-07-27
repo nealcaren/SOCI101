@@ -31,7 +31,8 @@ Rocio Rosa-Lebron is a teaching assistant for the course.  She is a PhD student 
 
 Bethany Stoutamire
 -------------------
-Bethany Stoutamire is a teaching assistant for the course. 
+![](https://www.cpc.unc.edu/wp-content/uploads/2020/06/stoutbet.jpg)
+Bethany Stoutamire is a teaching assistant for the course.
 
 Katherine Tait
 -------------------

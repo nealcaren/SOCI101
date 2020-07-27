@@ -81,12 +81,12 @@ Before Thursday:
 
 ## Questions
 
-```{admonition} Questions about assignments or the lesson?
+```{admonition} If you have any questions at all about what you are supposed to do on this assignment, please remember I am here to help. Reach out any time so I can support your success.
 :class: tip
-* Post it in the Slack #ask-a-prof channel!
-* Ask your peers in the Slack #ask-anyone chanel!
+* Post it in the Slack [#ask-a-prof](https://soci101.slack.com/archives/C0177NE888Y) channel!
+* Ask your peers in the Slack [#ask-anyone](https://soci101.slack.com/archives/C0177KHN1ML) chanel!
 * Signup for virtual office hours!
-* Email me or your TA.
+* [Email me](mailto:neal.caren@unc.edu) or your TA.
 ```
 
 ## Lesson Keywords

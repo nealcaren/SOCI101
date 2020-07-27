@@ -10,3 +10,10 @@ description: >- # this means to ignore newlines until "baseurl:"
 latex:
   latex_documents:
     targetname: book.tex
+
+html:
+  extra_navbar: ""
+  extra_footer: "University of North Carolina, Chapel Hill"
+
+repository:
+  wurl: https://github.com/nealcaren/SOCI101

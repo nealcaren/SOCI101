@@ -7,3 +7,8 @@ lessons/.ipynb_checkpoints/deviance-checkpoint.ipynb
 lessons/.ipynb_checkpoints/real-world-checkpoint.ipynb
 lessons/.ipynb_checkpoints/socialization-checkpoint.ipynb
 commands.txt
+*.docx
+syllabus/faq2.md
+syllabus/Convert markdown to docx.ipynb
+syllabus/.ipynb_checkpoints/Convert markdown to docx-checkpoint.ipynb
+_build/pdf/book.pdf

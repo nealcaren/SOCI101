@@ -32,7 +32,7 @@ I can't make it to the exam. What can I do?
 
 **Details to come.**
 
-Why does this class have a `{doc}code-of-conduct`?
+Why does this class have a {doc}code-of-conduct?
 ------------------------------------------------
 
 I intend that students from all diverse backgrounds and perspectives be
@@ -74,12 +74,12 @@ Learning online can be tougher than in a traditional classroom.
 What other campus resources can help me?
 ----------------------------------------
 
-The [[Writing Center ](https://writingcenter.unc.edu)is available
+The [[Writing Center ]{.ul}](https://writingcenter.unc.edu)is available
 to assist with papers. If you experience an emergency this semester,
 please contact the[[ Dean of Students
 Office]{.ul}](https://odos.unc.edu). They will notify all of your
 instructors so that you will not have to. [**[Student
-Wellness](https://studentwellness.unc.edu/) You have paid for
+Wellness]{.ul}**](https://studentwellness.unc.edu/) You have paid for
 all of these excellent resources. Please use them!
 
 Do academic integrity policies still apply to an online course?
@@ -116,20 +116,17 @@ How is the final grade determined?
 
 The final grade is based on the following elements:
 
-|Assignment  | Opportunities  |   Graded  |   % of Course Grade |
-|---|---|---|---|
-|Applications  |    7         |       5  |       20 |
-|Case Studies |      6      |          5    |     15 |
-|InQuizitive    |   12     |          10    |    15 | 
-|Film Responses  |   12     |          10     |   15 |
-|Exam 1      |      1       |         1     |    10 |
-|Exam 2    |        1       |         1     |    10 |
-|Exam 3      |      1     |           1   |      15 |
-|              |  |              |           100 |
-
-
-
-
+  Assignment       Opportunities   Graded   \% of Course Grade
+  ---------------- --------------- -------- --------------------
+  Applications     7               5        20
+  Case Studies     6               5        15
+  InQuizitive      12              10       15
+  Film Responses   12              10       15
+  Exam 1           1               1        10
+  Exam 2           1               1        10
+  Exam 3           1               1        15
+                                            
+                                            100
 
 All grading takes place on Sakai and you can find your current grade in
 the Sakai Gradebook.

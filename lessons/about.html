@@ -5,7 +5,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta charset="utf-8" />
-    <title>&lt;no title&gt;</title>
+    <title>Introduction</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha384-KA6wR/X5RY4zFAHpv/CnoG2UW1uogYfdnP67Uv7eULvTveboZJg0qUpmJZb5VqzN" crossorigin="anonymous">
     <link href="../_static/css/index.css" rel="stylesheet">
     <link rel="stylesheet" href="../_static/sphinx-book-theme.css" type="text/css" />
@@ -30,6 +30,8 @@
     <script src="https://unpkg.com/@jupyter-widgets/html-manager@^0.18.0/dist/embed-amd.js"></script>
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
+    <link rel="next" title="Sociological Perspectives" href="real-world.html" />
+    <link rel="prev" title="Staff" href="../syllabus/staff.html" />
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="docsearch:language" content="en">
@@ -66,46 +68,49 @@
 <p class="margin-caption">Getting Started</p>
 </li>
   <li class="">
-    <a href="overview.html">Overview</a>
+    <a href="../syllabus/overview.html">Overview</a>
   </li>
   <li class="">
-    <a href="schedule.html">Schedule</a>
+    <a href="../syllabus/schedule.html">Schedule</a>
   </li>
   <li class="">
-    <a href="assignments.html">Assignment Types</a>
+    <a href="../syllabus/assignments.html">Assignment Types</a>
   </li>
   <li class="">
-    <a href="technology.html">Technology</a>
+    <a href="../syllabus/technology.html">Technology</a>
   </li>
   <li class="">
-    <a href="code-of-conduct.html">Code of Conduct</a>
+    <a href="../syllabus/code-of-conduct.html">Code of Conduct</a>
   </li>
   <li class="">
-    <a href="faq.html">Frequently Asked Questions</a>
+    <a href="../syllabus/faq.html">Frequently Asked Questions</a>
   </li>
   <li class="">
-    <a href="checklist.html">First Week Checklist</a>
+    <a href="../syllabus/checklist.html">First Week Checklist</a>
   </li>
   <li class="">
-    <a href="staff.html">Staff</a>
+    <a href="../syllabus/staff.html">Staff</a>
   </li>
 <li class="navbar-special">
 <p class="margin-caption">Lessons</p>
 </li>
-  <li class="">
-    <a href="../lessons/real-world.html">Sociological Perspectives</a>
+  <li class="active">
+    <a href="">Introduction</a>
   </li>
   <li class="">
-    <a href="../lessons/culture.html">Culture</a>
+    <a href="real-world.html">Sociological Perspectives</a>
   </li>
   <li class="">
-    <a href="../lessons/socialization.html">Socialization</a>
+    <a href="culture.html">Culture</a>
   </li>
   <li class="">
-    <a href="../lessons/groups.html">Groups</a>
+    <a href="socialization.html">Socialization</a>
   </li>
   <li class="">
-    <a href="../lessons/deviance.html">Deviance</a>
+    <a href="groups.html">Groups</a>
+  </li>
+  <li class="">
+    <a href="deviance.html">Deviance</a>
   </li>
 <li class="navbar-special">
 <p class="margin-caption">Application</p>
@@ -135,7 +140,7 @@
 <p class="margin-caption">Credits</p>
 </li>
   <li class="">
-    <a href="credits.html">Credits</a>
+    <a href="../syllabus/credits.html">Credits</a>
   </li>
 </ul>
 </nav>
@@ -174,9 +179,9 @@
         <!-- ipynb file if we had a myst markdown file -->
         
         <!-- Download raw file -->
-        <a class="dropdown-buttons" href="../_sources/syllabus/Convert markdown to docx.ipynb"><button type="button"
+        <a class="dropdown-buttons" href="../_sources/lessons/about.md"><button type="button"
                 class="btn btn-secondary topbarbtn" title="Download source file" data-toggle="tooltip"
-                data-placement="left">.ipynb</button></a>
+                data-placement="left">.md</button></a>
         <!-- Download PDF via print -->
         <button type="button" id="download-print" class="btn btn-secondary topbarbtn" title="Print to PDF"
             onClick="window.print()" data-toggle="tooltip" data-placement="left">.pdf</button>
@@ -210,91 +215,15 @@
         
               <div>
                 
-  <div class="cell docutils container">
-<div class="cell_input docutils container">
-<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>mds = !ls *.md
-</pre></div>
-</div>
-</div>
-</div>
-<div class="cell docutils container">
-<div class="cell_input docutils container">
-<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>for md in mds:
-    name = md.split(&#39;.&#39;)[0]
-    
-    !pandoc -s {name}.md -o {name}.docx
-</pre></div>
-</div>
-</div>
-</div>
-<div class="cell docutils container">
-<div class="cell_input docutils container">
-<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>!pandoc -s staff.docx  -o staff.md
-</pre></div>
-</div>
-</div>
-</div>
-<div class="cell docutils container">
-<div class="cell_input docutils container">
-<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">faq</span> <span class="o">=</span> <span class="s1">&#39;1X7qCbdZdQdFFy4vzOpkwce3VavF5n8P1nzyNhDJrr7A&#39;</span>
-<span class="n">file_id</span> <span class="o">=</span> <span class="n">faq</span>
-<span class="n">url</span> <span class="o">=</span> <span class="s1">&#39;https://docs.google.com/document/d/&#39;</span><span class="o">+</span> <span class="n">file_id</span> <span class="o">+</span> <span class="s1">&#39;/export?format=doc&#39;</span>
-</pre></div>
-</div>
-</div>
-</div>
-<div class="cell docutils container">
-<div class="cell_input docutils container">
-<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="kn">import</span> <span class="nn">requests</span>
-</pre></div>
-</div>
-</div>
-</div>
-<div class="cell docutils container">
-<div class="cell_input docutils container">
-<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">r</span> <span class="o">=</span> <span class="n">requests</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="n">url</span><span class="p">)</span>
-</pre></div>
-</div>
-</div>
-</div>
-<div class="cell docutils container">
-<div class="cell_input docutils container">
-<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>with open(&#39;faq2.docx&#39;, &#39;wb&#39;) as outfile:
-    outfile.write(r.content)
-    
-!pandoc -s faq2.docx  -o faq2.md
-</pre></div>
-</div>
-</div>
-</div>
-<div class="cell docutils container">
-<div class="cell_input docutils container">
-<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="kn">from</span> <span class="nn">IPython.display</span> <span class="kn">import</span> <span class="n">Markdown</span>
-
-<span class="k">with</span> <span class="nb">open</span><span class="p">(</span><span class="s1">&#39;faq2.md&#39;</span><span class="p">,</span> <span class="s1">&#39;r&#39;</span><span class="p">)</span> <span class="k">as</span> <span class="n">infile</span><span class="p">:</span>
-    <span class="n">md</span> <span class="o">=</span> <span class="n">infile</span><span class="o">.</span><span class="n">read</span><span class="p">()</span>
-    
-<span class="n">Markdown</span><span class="p">(</span><span class="n">md</span><span class="p">)</span>
-</pre></div>
-</div>
-</div>
-<div class="cell_output docutils container">
-<div class="output text_plain highlight-none notranslate"><div class="highlight"><pre><span></span>&lt;IPython.core.display.Markdown object&gt;
-</pre></div>
-</div>
-</div>
-</div>
-<div class="cell docutils container">
-<div class="cell_input docutils container">
-<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>!pwd
-</pre></div>
-</div>
-</div>
-<div class="cell_output docutils container">
-<div class="output stream highlight-none notranslate"><div class="highlight"><pre><span></span>/Users/nealcaren/Documents/GitHub/SOCI101/syllabus
-</pre></div>
-</div>
-</div>
+  <div class="section" id="introduction">
+<h1>Introduction<a class="headerlink" href="#introduction" title="Permalink to this headline">¶</a></h1>
+<p>Each lesson page has the most important information you need to know for each week. Each page includes:</p>
+<ul class="simple">
+<li><p>Learning outcomes</p></li>
+<li><p>Link the relevant chapter videos</p></li>
+<li><p>Links</p></li>
+</ul>
+<p>Be sure to consult the schedule to know when we are doing which lesson.</p>
 </div>
 
 
@@ -306,6 +235,8 @@
     
     <div class='prev-next-bottom'>
         
+    <a class='left-prev' id="prev-link" href="../syllabus/staff.html" title="previous page">Staff</a>
+    <a class='right-next' id="next-link" href="real-world.html" title="next page">Sociological Perspectives</a>
 
     </div>
     <footer class="footer mt-5 mt-md-0">

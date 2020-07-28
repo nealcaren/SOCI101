@@ -11,6 +11,8 @@ and submit your film notes for that week's Film Response assignment on
 Sakai. Except for the exams, I drop one or more of the lowest grades for
 each assignment type.
 
+If you anticipate not being able to participate in class for an extended period of time, please email [Professor Caren](mailto:neal.caren@unc.edu).
+
 How do I prepare for an exam?
 -----------------------------
 
@@ -29,12 +31,11 @@ shown.
 
 I can't make it to the exam. What can I do?
 -------------------------------------------
+If  you are unable to take an exam because of a serious medical condition, religious observance, or athletic obligation, contact the [Dean of Students Office](https://odos.unc.edu/student-support/class-absences/request-university-approved-absences) to request a University Approved Absence in advance. If you have a exam day emergency, email [Professor Caren](mailto:neal.caren@unc.edu).
 
-**Details to come.**
 
-Why does this class have a `{doc}code-of-conduct`?
+Why does this class have a {doc}`code-of-conduct`?
 ------------------------------------------------
-
 I intend that students from all diverse backgrounds and perspectives be
 well served by this course, that students' learning needs be addressed
 both in and out of class, and that the diversity that students bring to
@@ -51,7 +52,7 @@ uncomfortable. Critically examining and assessing assumptions and values
 is not just one of sociology's tasks but is an activity vital to engaged
 citizenship. I will work to ensure a classroom environment that supports
 your taking these intellectual and emotional risks. The
-{doc}code-of-conduct helps ensure that everyone is aware of the types of
+{doc}`code-of-conduct` helps ensure that everyone is aware of the types of
 interactions that foster positive interactions and those that may not.
 
 Can I hand in work late?
@@ -78,7 +79,7 @@ The [[Writing Center ](https://writingcenter.unc.edu)is available
 to assist with papers. If you experience an emergency this semester,
 please contact the[[ Dean of Students
 Office]{.ul}](https://odos.unc.edu). They will notify all of your
-instructors so that you will not have to. [**[Student
+instructors so that you will not have to. [Student
 Wellness](https://studentwellness.unc.edu/) You have paid for
 all of these excellent resources. Please use them!
 
@@ -120,7 +121,7 @@ The final grade is based on the following elements:
 |---|---|---|---|
 |Applications  |    7         |       5  |       20 |
 |Case Studies |      6      |          5    |     15 |
-|InQuizitive    |   12     |          10    |    15 | 
+|InQuizitive    |   12     |          10    |    15 |
 |Film Responses  |   12     |          10     |   15 |
 |Exam 1      |      1       |         1     |    10 |
 |Exam 2    |        1       |         1     |    10 |

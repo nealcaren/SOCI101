@@ -17,7 +17,7 @@ Understanding how social science research is used to test theories is a unique s
 **(15% of course grade)**  
 Each non-exam week you are assigned a chapter from the textbook. To help you focus your reading on the central concepts and provide a quick check on your capacity to identify and use the new concepts, you are required to complete a weekly InQuizitive reading test. These quizzes are untimed and you can keep answering questions until you earn a perfect score.
 
-If you have never used InQuizitive before, I highly recommend that you complete the How To Use InQuizitive assignment at the beginning of the semester.
+If you have never used InQuizitive before, I highly recommend that you complete the [How To Use InQuizitive](https://ncia.wwnorton.com/111835) assignment at the beginning of the semester.
 
 (film-responses)=
 ## Film Responses   

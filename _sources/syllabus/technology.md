@@ -22,6 +22,7 @@ The course [Slack site](http://soci101.slack.com) is for text discussions.
 * The #ask-the-prof and #ask-anyone channels are always available for question on sociological concepts or course assignments.
 To access the Slack site...
 
+## InQuizitive
 
 ## Zoom
 

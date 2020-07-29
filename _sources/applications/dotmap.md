@@ -1,4 +1,5 @@
 # Racial Dot Map
+
 ![People moving in vehicles](../images/REALWORLD7_FIG07_CO.jpg)
 
 As we discussed in this lesson, racial and ethnic segregation is an important aspect of the American landscape. In this exercise, you will examine different patterns of segregation found in metropolitan areas.

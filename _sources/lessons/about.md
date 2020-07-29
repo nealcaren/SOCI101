@@ -1,9 +1,9 @@
 # Introduction
 
 Each lesson page has the most important information you need to know for each week. Each page includes:
-* Learning outcomes
-* Link the relevant chapter videos
-* Links 
+* Learning outcomes for the lesson.
+* Links to the relevant book chapter and videos.
+* Information on the week's film.
+* A list of weekly assignment and deadlines.
 
-
-Be sure to consult the schedule to know when we are doing which lesson.
+Be sure to consult the {doc}`..\syllabus\schedule` to know which lesson we are on!

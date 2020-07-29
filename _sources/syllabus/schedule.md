@@ -7,7 +7,7 @@ The plan for the semester is the {ref}`lesson-schedule`. Different assignments a
 ## Lesson schedule
 | Week  | Theme                            | RW Chapter | Thursday Film              | Assignments                                            |
 |-------|----------------------------------|------------|----------------------------|--------------------------------------------------------|
-| 8/10  | Sociological Perspectives        | 1          | Kentucky Derby         | InQuizitive; Film response      |
+| 8/10  | {doc}`Sociological Perspectives  <../lessons/real-world>`        | 1          | Kentucky Derby         | InQuizitive; Film response      |
 | 8/17  | Culture                          | 3          | Soul Food Junkies  | InQuizitive; Families on TV application, Film response |
 | 8/24  | Socialization                    | 4          | Crip Camp  | InQuizitive; Obesity case study, Film response         |
 | 8/31  | Groups                           | 5          | Holy Hell  | InQuizitive; Breaching application, , Film response       |

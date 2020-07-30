@@ -1,6 +1,11 @@
 Frequently Asked Questions
 ==========================
 
+What do I need to buy?
+-----------------------------
+The course textbook and access to Netflix.
+
+
 What's the attendance policy?
 -----------------------------
 

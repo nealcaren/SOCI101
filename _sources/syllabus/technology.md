@@ -10,7 +10,7 @@ The [official course website](http://soci101.org) is your primary source of info
 * The *Application* pages describe each of these assignments. Other assignment materials are on Sakai.
 
 ## Sakai
-[Sakai](link) is for grades, exams, and submitting your assignments.
+[Sakai](https://sakai.unc.edu/x/47btQ1) is for grades, exams, and submitting your assignments.
 * The *Gradebook* has all your grades for the semester.
 * You submit your Applications in the *Assignments* section.
 * Case Studies and the Exams are both available in the Test and Exams section. Each week's lesson will provide the relevant links.
@@ -23,7 +23,10 @@ The course [Slack site](http://soci101.slack.com) is for text discussions.
 To access the Slack site...
 
 ## InQuizitive
+The course [Slack site](http://soci101.slack.com) is for text discussions. It is where we will meet every Thursday at 9:45am.
 
 ## Zoom
+Office hours and other student meetings happen on Zoom.
 
 ## Email
+Always feel free to reach me at [neal.caren@unc.edu](mail:neal.caren@unc.edu).

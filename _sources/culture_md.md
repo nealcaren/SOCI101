@@ -8,9 +8,9 @@ This lesson introduces how sociologists think about culture. Culture is one of t
 ## Learning Objectives
 
 ```{admonition} By the end of this lesson, you will be able to:
-* Describe how sociologists define the components of culture. 
+* Describe how sociologists define the components of culture.
 * Identify variation in culture and cultural change.  
-* Analyze the relationship between culture and family. 
+* Analyze the relationship between culture and family.
 ```
 
 ## Read
@@ -23,10 +23,6 @@ This lesson introduces how sociologists think about culture. Culture is one of t
 * [Cultures, Subcultures, & Countercultures](https://www.youtube.com/watch?v=RV50AV7-Iwc)
 
 
-```python
-from IPython.display import YouTubeVideo
-YouTubeVideo('RV50AV7-Iwc')
-```
 
 
 
@@ -45,11 +41,6 @@ YouTubeVideo('RV50AV7-Iwc')
 
 * [Symbols, Values, & Norms](https://www.youtube.com/watch?v=kGrVhM_Gi8k)
 
-
-```python
-from IPython.display import YouTubeVideo
-YouTubeVideo('kGrVhM_Gi8k')
-```
 
 
 
@@ -78,7 +69,7 @@ YouTubeVideo('kGrVhM_Gi8k')
 
 
 We will be applying our sociological tools to the film  [Sould Food Junkies](https://unc.kanopy.com/video/soul-food-junkies). We will watch it together starting Thursday during class.    
-* Be sure to have the movie ready to roll at the start of class. 
+* Be sure to have the movie ready to roll at the start of class.
 * Login to the course Slack at 9:45am and say hi to your group!
 
 Before Thursday:
@@ -90,7 +81,7 @@ Before Thursday:
 
 This week you have your first application due. Many significant shifts have occurred over the last fifty years in how we think of the family and the experience of living in a household. These include changes in marital and living patterns, marriage and divorce rates, the gendered nature of housework, and labor force participation. There are many theories to explain the factors. In this application, you will focus on the **role of culture in creating new norms about the family.** Alternatively, culture may merely reflect other shifts i\n society. Is television responsible for the deinstitutionalization of the family? In this application, you will classify tv shows from four different decades to examine which changed first: changes in depictions of families on television or changes in families in society.
 
-{doc}`Complete assignment description<../applications/families>`. 
+{doc}`Complete assignment description<../applications/families>`.
 
 ## Deadlines
 
@@ -117,7 +108,7 @@ This week you have your first application due. Many significant shifts have occu
 - cultural relativism   
 - material culture     
 - symbolic culture       
-- Sapir-Whorf hypothesis 
+- Sapir-Whorf hypothesis
 - values                 
 - norms                
 - laws                  
@@ -132,7 +123,7 @@ This week you have your first application due. Many significant shifts have occu
 - Dominant culture
 - subculture
 - counterculture
-- ideal culture 
+- ideal culture
 - real culture
 - cultural diffusion
 - cultural imperialism

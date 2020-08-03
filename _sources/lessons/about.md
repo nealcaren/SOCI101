@@ -6,4 +6,4 @@ Each lesson page has the most important information you need to know for each we
 * Information on the week's film.
 * A list of weekly assignment and deadlines.
 
-Be sure to consult the {doc}`course schedule <..\syllabus\schedule>` to know which lesson we are on!
+Be sure to consult the {doc}`course schedule <..\syllabus\Schedule>` to know which lesson we are on!

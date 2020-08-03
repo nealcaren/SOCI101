@@ -6,4 +6,6 @@ Each lesson page has the most important information you need to know for each we
 * Information on the week's film.
 * A list of weekly assignment and deadlines.
 
+To avoid confusion, lesson pages for materials beyond the next exam are not available.
+
 Be sure to consult the [course schedule](https://soci101.org/syllabus/schedule.html) to know which lesson we are on!

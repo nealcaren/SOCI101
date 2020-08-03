@@ -20,13 +20,15 @@ If you don't have access to the course sakai site, email [Professor Caren](mailt
 The course [Slack site](http://soci101.slack.com) is for text discussions.
 * Each Thursday during class, film discussions will take place in on the Slack site.
 * The #ask-the-prof and #ask-anyone channels are always available for question on sociological concepts or course assignments.
-To access the Slack site...
+* If you did not receive an access link for the Slack site, let [me](mailto:neal.caren@unc.edu) know.
 
 ## InQuizitive
-The course [Slack site](http://soci101.slack.com) is for text discussions. It is where we will meet every Thursday at 9:45am.
+Each non-exam week you are assigned a chapter from the textbook. To help you focus your reading on the central concepts and provide a quick check on your capacity to identify and use the new concepts, you are required to complete a weekly InQuizitive reading test. These quizzes are untimed and you can keep answering questions until you earn a perfect score.
+
+If you have never used InQuizitive before, I highly recommend that you complete the [How To Use InQuizitive](https://ncia.wwnorton.com/111835) assignment at the beginning of the semester.
 
 ## Zoom
-Office hours and other student meetings happen on Zoom.
+{doc}`Student meetings  <../syllabus/meetings>`  happen on Zoom.
 
 ## Email
 Always feel free to reach me at [neal.caren@unc.edu](mail:neal.caren@unc.edu).

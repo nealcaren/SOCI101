@@ -7,7 +7,7 @@ The course has one textbook, [The Real World: An Introduction to Sociology, 7th 
 
 The 6th edition of the textbook is very similar, so feel to use that if you can find it. However, you will still need to purchase access to the "InQuizitive for The Real World" for the 7th edition from the [Norton website](https://digital.wwnorton.com/realworld7).
 
-You will also need access to Netflix starting the last week of August. We will be watching twelve documentaries during the semester. Several films are available through the UNC library, but their collection of contemporary movies is more limited, so five our films are available over Netflix. A standard Netflix account is $13 a month, but you get your first month free. 
+You will also need access to Netflix starting the last week of August. We will be watching twelve documentaries during the semester. Several films are available through the UNC library, but their collection of contemporary movies is more limited, so five our films are available over Netflix. A standard Netflix account is $13 a month, but you get your first month free.
 
 
 What's the attendance policy?
@@ -75,22 +75,7 @@ situation that impacts your ability to do academic work, such as a
 concussion or hospitalization, please email the instructor to make
 alternate arrangements.
 
-Where can I get extra help with sociological concepts?
-------------------------------------------------------
 
-Learning online can be tougher than in a traditional classroom.
-**Details to come.**
-
-What other campus resources can help me?
-----------------------------------------
-
-The [[Writing Center ](https://writingcenter.unc.edu)is available
-to assist with papers. If you experience an emergency this semester,
-please contact the[[ Dean of Students
-Office]{.ul}](https://odos.unc.edu). They will notify all of your
-instructors so that you will not have to. [Student
-Wellness](https://studentwellness.unc.edu/) You have paid for
-all of these excellent resources. Please use them!
 
 Do academic integrity policies still apply to an online course?
 ---------------------------------------------------------------
@@ -120,6 +105,19 @@ difficulties with accessing learning opportunities. All accommodations
 are coordinated through the Accessibility Resources and Service Office.
 If you are registered with ARS, be sure to confirm with me or the TA
 that we have received your accommodation request.
+
+What other campus resources can help me?
+----------------------------------------
+
+The [[Writing Center ](https://writingcenter.unc.edu)is available
+to assist with papers. If you experience an emergency this semester,
+please contact the[[ Dean of Students
+Office]{.ul}](https://odos.unc.edu). They will notify all of your
+instructors so that you will not have to. [Student
+Wellness](https://studentwellness.unc.edu/) You have paid for
+all of these excellent resources. Please use them!
+
+
 
 How is the final grade determined?
 ----------------------------------

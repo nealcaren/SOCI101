@@ -186,9 +186,3 @@ We start applying our sociological tools to film  with the short film [The Derby
 * [Social constructionism](https://youtu.be/5U2XAJNazik) (Khan Academy)
 * [Symbolic interactionism](https://youtu.be/Ux2E6uhEVk0) (Khan Academy)
 * [Macro and Micro](https://youtu.be/-BVeSykcQeE) (Khan Academy)
-
-
-
-```python
-
-```

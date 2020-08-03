@@ -1,3 +1,5 @@
-# Applications
+# Introduction
 
 This section includes project description for each of your research Applications. Unless otherwise noted, Grading is High Pass (100); Pass (87) and Fail (0). Students who do not satisfactorily complete the exercise (i.e, Fail) will be allowed to revise and resubmit their application for a Pass within one week. To be eligible for a High Pass, you must go substantially beyond the assignment requirements _both in terms of research and analysis_. To qualify for a High Pass, you must include a section at the front of your paper called &quot;High Pass&quot; with at least 50 words detailing how you exceeded the requirements.
+
+Be sure to consult the [course schedule](https://soci101.org/syllabus/schedule.html) or the lesson pages for the application due dates.

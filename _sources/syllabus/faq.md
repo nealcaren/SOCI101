@@ -3,7 +3,11 @@ Frequently Asked Questions
 
 What do I need to buy?
 -----------------------------
-The course textbook and access to Netflix.
+The course has one textbook, [The Real World: An Introduction to Sociology, 7th Edition](https://wwnorton.com/books/9780393419337), by Kerry Ferris and Jill Stein. You can purchase it through the bookstore or online. I strongly recommend the ebook version, which costs $39.95 and includes additional online resources we will use. (If you buy a used print version of the textbook, you will also need to purchase access to the extra online resources we will be using each week.)
+
+The 6th edition of the textbook is very similar, so feel to use that if you can find it. However, you will still need to purchase access to the "InQuizitive for The Real World" for the 7th edition from the [Norton website](https://digital.wwnorton.com/realworld7).
+
+You will also need access to Netflix starting the last week of August. We will be watching twelve documentaries during the semester. Several films are available through the UNC library, but their collection of contemporary movies is more limited, so five our films are available over Netflix. A standard Netflix account is $13 a month, but you get your first month free. 
 
 
 What's the attendance policy?

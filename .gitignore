@@ -12,3 +12,4 @@ syllabus/faq2.md
 syllabus/Convert markdown to docx.ipynb
 syllabus/.ipynb_checkpoints/Convert markdown to docx-checkpoint.ipynb
 _build/pdf/book.pdf
+*.icloud

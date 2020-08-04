@@ -130,7 +130,7 @@ The [[Writing Center](https://writingcenter.unc.edu)is available
 to assist with papers. If you experience an emergency this semester,
 please contact the[ Dean of Students
 Office](https://odos.unc.edu). They will notify all of your
-instructors so that you will not have to.  You can learn about  financial resources, academic support, and health and wellness information through the [CV19 Student Care Hub](https://keeplearning.unc.edu).  You have access  to these  excellent resources. Please use them!
+instructors so that you will not have to.  If you are navigating challenges presented by the coronavirus, information on financial resources, academic support, and health and wellness is available through the [CV19 Student Care Hub](https://keeplearning.unc.edu).  You have access  to these  excellent resources. Please use them!
 
 
 

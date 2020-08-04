@@ -33,9 +33,9 @@ _Day Two:_...
 ## Requirements
 
 * One page reflection on experiences.
-* Grocery list, including items and cost
-* Meal plan for one week for one adult and one child
-No late assignments will be accepted.
+* Grocery list, including items and cost.  
+* Meal plan for one week for one adult and one child.
+* No late assignments will be accepted.
 
 ## Grading
 

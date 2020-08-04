@@ -22,6 +22,23 @@ each assignment type.
 
 If you anticipate not being able to participate in class for an extended period of time, please email [Professor Caren](mailto:neal.caren@unc.edu).
 
+## What are we going to be doing during class?
+
+The core idea and concepts of the course are in the readings and videos posted with each lesson.  On Tuesday, I will be on our course [Slack](http://soci101.slack.com) previewing material for the week, reviewing assignments from the prior week, and answering questions.  Depending on the content, we might go live on Zoom, with the link posted in the Slack channel. The recording will be made available on the course website afterward.
+
+Our big day is Thursday. Each day we will be watching a different film together. We will meet in our course [Slack](http://soci101.slack.com) channel. After five minutes of introductions, everyone will press play and start their stream of the film. During the film, groups will discuss connections between the film and course concepts. If the film runs long, feel free to finish the movie at a later point.
+
+
+## What is a Teaching Assistant?
+Teaching assistants are graduate students in the sociology department whose job is to help you out in this course. Primarily, they are responsible for grading your work, but they are each quite knowledgeable about the course content. If you have any questions about your assignment grades or course content, feel free to reach out to a TA. Each TA is responsible for a portion of the class, based on your last name.
+
+|Last Name  | TA  |   email  |  
+|---|---|---|
+|A-G  |    Rocio Rosa-Lebron       |      [ktait@live.unc.edu](mailto:ktait@live.unc.edu)  |       
+|H-P |      Bethany Stoutamire      |         [stoutbet@live.unc.edu](mailto:stoutbet@live.unc.edu)    |     
+|Q-Z    |   Katherine Tait     |          [ktait@live.unc.edu](mailto:ktait@live.unc.edu)    |  
+
+
 How do I prepare for an exam?
 -----------------------------
 
@@ -109,13 +126,11 @@ that we have received your accommodation request.
 What other campus resources can help me?
 ----------------------------------------
 
-The [[Writing Center ](https://writingcenter.unc.edu)is available
+The [[Writing Center](https://writingcenter.unc.edu)is available
 to assist with papers. If you experience an emergency this semester,
-please contact the[[ Dean of Students
-Office]{.ul}](https://odos.unc.edu). They will notify all of your
-instructors so that you will not have to. [Student
-Wellness](https://studentwellness.unc.edu/) You have paid for
-all of these excellent resources. Please use them!
+please contact the[ Dean of Students
+Office](https://odos.unc.edu). They will notify all of your
+instructors so that you will not have to.  If you are navigating challenges presented by the coronavirus, information on financial resources, academic support, and health and wellness is available through the [CV19 Student Care Hub](https://keeplearning.unc.edu).  You have access  to these  excellent resources. Please use them!
 
 
 

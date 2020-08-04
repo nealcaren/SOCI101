@@ -59,7 +59,7 @@ This lesson introduces how sociologists think about culture. Culture is one of t
 
 ## Discuss (Thursday during class):
 
-### Sould Food Junkies
+### Soul Food Junkies
 
 
 ![](http://d1w3qdx2l9dyrg.cloudfront.net/webobjects/soul_food_junkies-clip-mezzanine.jpg)
@@ -68,7 +68,7 @@ This lesson introduces how sociologists think about culture. Culture is one of t
 
 
 
-We will be applying our sociological tools to the film  [Sould Food Junkies](https://unc.kanopy.com/video/soul-food-junkies). We will watch it together starting Thursday during class.    
+We will be applying our sociological tools to the film  [Soul Food Junkies](https://unc.kanopy.com/video/soul-food-junkies). We will watch it together starting Thursday during class.    
 * Be sure to have the movie ready to roll at the start of class.
 * Login to the course Slack at 9:45am and say hi to your group!
 

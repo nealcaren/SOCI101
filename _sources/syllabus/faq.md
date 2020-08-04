@@ -23,6 +23,7 @@ each assignment type.
 If you anticipate not being able to participate in class for an extended period of time, please email [Professor Caren](mailto:neal.caren@unc.edu).
 
 ## What is a Teaching Assistant?
+Teaching assistants are graduate students in the sociology department whose job is to help you out in this course. Primarily, they are responsible for grading your work, but they are each quite knowledgeable about the course content. If you have any questions about your assignment grades or course content, feel free to reach out to a TA. Each TA is responsible for a portion of the class, based on your last name. 
 
 |Last Name  | TA  |   email  |  
 |---|---|---|

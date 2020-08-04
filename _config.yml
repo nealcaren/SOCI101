@@ -1,6 +1,6 @@
 # Book settings
-title: ""
-author: Neal Caren
+title: "Sociology 101"
+author: ""
 logo: images/walkers.png
 email: neal.caren@unc.edu
 description: >- # this means to ignore newlines until "baseurl:"
@@ -13,7 +13,11 @@ latex:
 
 html:
   extra_navbar: ""
-  extra_footer: "University of North Carolina, Chapel Hill"
+  extra_footer: "Sociology 101<br> University of North Carolina, Chapel Hill"
 
 repository:
   wurl: https://github.com/nealcaren/SOCI101
+
+sphinx:
+  config:
+    html_show_copyright: false

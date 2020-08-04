@@ -7,17 +7,20 @@
 - file: /syllabus/code-of-conduct
 - file: /syllabus/faq
 - file: /syllabus/checklist
+- file: /syllabus/meetings
 - file: /syllabus/staff
 
 - header: Lessons
+- file: /lessons/about
 - file: /lessons/real-world
 - file: /lessons/culture
 - file: /lessons/socialization
 - file: /lessons/groups
-- file: /lessons/deviance
+- file: /lessons/exam1
 
 
-- header: Application
+- header: Applications
+- file: /applications/about
 - file: /applications/breach
 - file: /applications/families
 - file: /applications/snap

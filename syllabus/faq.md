@@ -1,6 +1,15 @@
 Frequently Asked Questions
 ==========================
 
+What do I need to buy?
+-----------------------------
+The course has one textbook, [The Real World: An Introduction to Sociology, 7th Edition](https://wwnorton.com/books/9780393419337), by Kerry Ferris and Jill Stein. You can purchase it through the bookstore or online. I strongly recommend the ebook version, which costs $39.95 and includes additional online resources we will use. (If you buy a used print version of the textbook, you will also need to purchase access to the extra online resources we will be using each week.)
+
+The 6th edition of the textbook is very similar, so feel to use that if you can find it. However, you will still need to purchase access to the "InQuizitive for The Real World" for the 7th edition from the [Norton website](https://digital.wwnorton.com/realworld7).
+
+You will also need access to Netflix starting the last week of August. We will be watching twelve documentaries during the semester. Several films are available through the UNC library, but their collection of contemporary movies is more limited, so five our films are available over Netflix. A standard Netflix account is $13 a month, but you get your first month free.
+
+
 What's the attendance policy?
 -----------------------------
 
@@ -10,6 +19,8 @@ you are unable to attend, you may write a more extended film response
 and submit your film notes for that week's Film Response assignment on
 Sakai. Except for the exams, I drop one or more of the lowest grades for
 each assignment type.
+
+If you anticipate not being able to participate in class for an extended period of time, please email [Professor Caren](mailto:neal.caren@unc.edu).
 
 How do I prepare for an exam?
 -----------------------------
@@ -29,12 +40,11 @@ shown.
 
 I can't make it to the exam. What can I do?
 -------------------------------------------
+If  you are unable to take an exam because of a serious medical condition, religious observance, or athletic obligation, contact the [Dean of Students Office](https://odos.unc.edu/student-support/class-absences/request-university-approved-absences) to request a University Approved Absence in advance. If you have a exam day emergency, email [Professor Caren](mailto:neal.caren@unc.edu).
 
-**Details to come.**
 
-Why does this class have a `{doc}code-of-conduct`?
+Why does this class have a {doc}`code-of-conduct`?
 ------------------------------------------------
-
 I intend that students from all diverse backgrounds and perspectives be
 well served by this course, that students' learning needs be addressed
 both in and out of class, and that the diversity that students bring to
@@ -51,7 +61,7 @@ uncomfortable. Critically examining and assessing assumptions and values
 is not just one of sociology's tasks but is an activity vital to engaged
 citizenship. I will work to ensure a classroom environment that supports
 your taking these intellectual and emotional risks. The
-{doc}code-of-conduct helps ensure that everyone is aware of the types of
+{doc}`code-of-conduct` helps ensure that everyone is aware of the types of
 interactions that foster positive interactions and those that may not.
 
 Can I hand in work late?
@@ -65,22 +75,7 @@ situation that impacts your ability to do academic work, such as a
 concussion or hospitalization, please email the instructor to make
 alternate arrangements.
 
-Where can I get extra help with sociological concepts?
-------------------------------------------------------
 
-Learning online can be tougher than in a traditional classroom.
-**Details to come.**
-
-What other campus resources can help me?
-----------------------------------------
-
-The [[Writing Center ](https://writingcenter.unc.edu)is available
-to assist with papers. If you experience an emergency this semester,
-please contact the[[ Dean of Students
-Office]{.ul}](https://odos.unc.edu). They will notify all of your
-instructors so that you will not have to. [**[Student
-Wellness](https://studentwellness.unc.edu/) You have paid for
-all of these excellent resources. Please use them!
 
 Do academic integrity policies still apply to an online course?
 ---------------------------------------------------------------
@@ -111,6 +106,19 @@ are coordinated through the Accessibility Resources and Service Office.
 If you are registered with ARS, be sure to confirm with me or the TA
 that we have received your accommodation request.
 
+What other campus resources can help me?
+----------------------------------------
+
+The [[Writing Center ](https://writingcenter.unc.edu)is available
+to assist with papers. If you experience an emergency this semester,
+please contact the[[ Dean of Students
+Office]{.ul}](https://odos.unc.edu). They will notify all of your
+instructors so that you will not have to. [Student
+Wellness](https://studentwellness.unc.edu/) You have paid for
+all of these excellent resources. Please use them!
+
+
+
 How is the final grade determined?
 ----------------------------------
 
@@ -120,7 +128,7 @@ The final grade is based on the following elements:
 |---|---|---|---|
 |Applications  |    7         |       5  |       20 |
 |Case Studies |      6      |          5    |     15 |
-|InQuizitive    |   12     |          10    |    15 | 
+|InQuizitive    |   12     |          10    |    15 |
 |Film Responses  |   12     |          10     |   15 |
 |Exam 1      |      1       |         1     |    10 |
 |Exam 2    |        1       |         1     |    10 |

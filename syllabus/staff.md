@@ -24,14 +24,16 @@ cyclocross racing. Pronouns: he/him.
 
 Rocio Rosa-Lebron
 -------------------
-![](https://sociology.unc.edu/files/2018/08/Rosa-Lebron1-150x150.jpg)
+![](../images/Rosa-Lebron.jpg)
 
 Rocio Rosa-Lebron is a teaching assistant for the course.  She is a PhD student in the Department of Sociology at UNC-Chapel Hill. She earned her BA in English and Political Science from Rice University before making the jump to Sociology. Her research interests are in race, racial identification, and migration, and her current research looks at how migration influences the racial identity of Puerto Rican migrants. Her previous teaching assignments include Social and Economic Justice and previous classes of SOCI 101. When not doing research, Rocio enjoys reading, writing, and playing video games. Pronouns: she/her
 
 
 Bethany Stoutamire
 -------------------
-Bethany Stoutamire is a teaching assistant for the course. 
+![](../images/stoutbet.png)
+
+Bethany Stoutamire is a teaching assistant for the course.
 
 Katherine Tait
 -------------------
@@ -56,8 +58,3 @@ undergraduate student activism for equal justice and opportunity. Her
 non-work hobbies include yoga, going to music and dance performances,
 taking care of her newborn son Vinnie, and, of course, streaming various
 TV shows in this "Golden Age of Television!" Pronouns: she/her.
-
-
-
-
-**Details to come on TAs.**

@@ -1,8 +1,6 @@
 # Education
 ![Students in a classroom](../images/REALWORLD7_FIG10_CO.jpg)
 
-## Objective
-
 As was discussed in the lesson materials, there is a relationship between race, income and educational performance. In this exercise, you will examine different patterns of student achievement.
 
 ## Description

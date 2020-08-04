@@ -14,7 +14,7 @@ Many significant shifts have occurred over the last fifty years in how we think 
 
 Calculate the percentage of shows for a year that were &quot;household&quot; centered (e.g. &quot;Friends&quot; or &quot;The Simpsons&quot;) as opposed to focused on the workplace (e.g. &quot;The Office&quot; or &quot;CSI&quot;) or something else. **Overall, would you say that television has become more or less household focused?** If so, when did the shift happen?
 
-- Focus now on **only** the household shows. Come up with a coding scheme that will allow you to test your hypotheses. For example, you might want to look for presence or absence of marriage; whether or not a central character is divorced or widowed; whether adult children live in the home; or whether the couple is interracial.
+- Focus now  **only**  on the household shows. Come up with a coding scheme that will allow you to test your hypotheses. For example, you might want to look for presence or absence of marriage; whether or not a central character is divorced or widowed; whether adult children live in the home; or whether the couple is interracial.
 - Record data for all your TV shows! You do not need to watch them. Wikipedia and other internet sources are your friends.
 - Aggregate your results. Does the evidence support either of the hypotheses?
 - Write a brief research report that discusses your research and what you found. The report should include:

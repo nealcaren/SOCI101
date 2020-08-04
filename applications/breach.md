@@ -6,11 +6,11 @@ Social interaction represents one of the key building blocks of society. Despite
 
 ## Description
 
-You will conduct an exercise that violates social norms and write a short paper about the experience. This exercise may be performed alone or in a group (of your choice) of four or fewer participants. The norm violation can not include illegal activities or those that might risk someone's safety, health or well-being. In our current pandemic world, I would strongly encourage you to conduct your breach on social media, such as something defies our new norms of online courses, such as brushing your teeth during Zoom class. If conducting your experiment as a group, each group member will perform the breach once. When not performing the breach, the other group members should observe the interaction and write an observation log documenting people's reaction to the breach.
+You will conduct an exercise that violates social norms and write a short paper about the experience. This exercise may be performed alone or in a group (of your choice) of four or fewer participants. The norm violation can not include illegal activities or those that might risk someone's safety, health, or well-being. In our current pandemic world, I would strongly encourage you to conduct your breach on social media, such as something that defies our evolving norms of online courses, such as brushing your teeth during Zoom class. If conducting your experiment as a group, each group member will perform the breach once. When not performing the breach, the other group members should observe the interaction and write an observation log documenting people's reaction to the breach.
 
 Write a brief research report that discusses your research and what you found. The report should include:
 
-- A description of the norm you violated. (Remember, you cannot break a law).
+- A description of the norm you violated. You cannot break a law.  You should also not violate any public health guidelines, such as mask wearing and social distancing.
 - A description of the violation.
 - A description of the most general way people responded as the violation was enacted.
 - A description of how you felt enacting the norm violation.

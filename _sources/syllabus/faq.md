@@ -22,6 +22,15 @@ each assignment type.
 
 If you anticipate not being able to participate in class for an extended period of time, please email [Professor Caren](mailto:neal.caren@unc.edu).
 
+## What is a Teaching Assistant?
+
+|Last Name  | TA  |   email  |  
+|---|---|---|
+|A-G  |    Rocio Rosa-Lebron       |      [ktait@live.unc.edu](mailto:ktait@live.unc.edu)  |       
+|H-P |      Bethany Stoutamire      |         [stoutbet@live.unc.edu](mailto:stoutbet@live.unc.edu)    |     
+|Q-Z    |   Katherine Tait     |          [ktait@live.unc.edu](mailto:ktait@live.unc.edu)    |  
+
+
 How do I prepare for an exam?
 -----------------------------
 

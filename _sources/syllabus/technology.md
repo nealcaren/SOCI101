@@ -3,6 +3,14 @@
 Since the course is online, we will use a couple of pieces of technology this semester.
 
 
+## Overview:
+* [Course website](http://soci101.org): Syllabus and weekly lesson materials
+* [Sakai](https://sakai.unc.edu/x/47btQ1): Gradebook, assignment submission, & exams
+* [Slack](http://soci101.slack.com): Where course will meet
+* [Texbook](https://digital.wwnorton.com/realworld7): Textbook
+* [InQuizitive](https://ncia.wwnorton.com/inquizitive-realworld7): Weekly reading quizes
+
+
 ## Course Website
 The [official course website](http://soci101.org) is your primary source of information on the course.
 * The *Getting Started* section contains all the information in a traditional syllabus across several pages.

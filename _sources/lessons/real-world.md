@@ -166,9 +166,6 @@ We start applying our sociological tools to film  with the short film [The Derby
 - Postmodernism
 - Modernism
 
-## The least you need to know
-
-![](../images/REALWORLD7_TABLE01.01.jpg)
 
 
 
@@ -183,6 +180,13 @@ We start applying our sociological tools to film  with the short film [The Derby
 
 
 ```
+
+## The least you need to know
+
+![](../images/REALWORLD7_TABLE01.01.jpg)
+
+
+
 
 
 

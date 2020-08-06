@@ -13,20 +13,6 @@ By the end of this lesson, you will be able to:
 
 
 
-
-
-## Deadlines
-
-```{admonition} Be sure to hand these assignments in this week:
-:class: caution
-* [Code of Conduct acknowledgment](https://sakai.unc.edu/portal/site/3bab92f4-af18-42cb-bc83-86c9231667b2/tool/8d6a21bb-cd86-4fe7-b793-7adf02263e08/jsf/index/mainIndex) (Sunday at 11:55pm)
-* [InQuizitive Chapter 1](https://ncia.wwnorton.com/78163) (Sunday at 11:55pm)
-* Kentucky Derby reflection (Sunday at 11:55pm)
-
-
-```
-
-
 ## Read
 * '[Sociology and the Real World](https://digital.wwnorton.com/87056/r/goto/cfi/20!/4)', Chapter 1 in Real World    
 
@@ -183,6 +169,22 @@ We start applying our sociological tools to film  with the short film [The Derby
 ## The least you need to know
 
 ![](../images/REALWORLD7_TABLE01.01.jpg)
+
+
+
+
+## Deadlines
+
+```{admonition} Be sure to hand these assignments in this week:
+:class: caution
+* [Code of Conduct acknowledgment](https://sakai.unc.edu/portal/site/3bab92f4-af18-42cb-bc83-86c9231667b2/tool/8d6a21bb-cd86-4fe7-b793-7adf02263e08/jsf/index/mainIndex) (Sunday at 11:55pm)
+* [InQuizitive Chapter 1](https://ncia.wwnorton.com/78163) (Sunday at 11:55pm)
+* Kentucky Derby reflection (Sunday at 11:55pm)
+
+
+```
+
+
 
 ## Extra Resources
 

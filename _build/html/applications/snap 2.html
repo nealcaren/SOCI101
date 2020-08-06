@@ -1,0 +1,337 @@
+
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta charset="utf-8" />
+    <title>SNAP Challenge &#8212; Sociology 101</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha384-KA6wR/X5RY4zFAHpv/CnoG2UW1uogYfdnP67Uv7eULvTveboZJg0qUpmJZb5VqzN" crossorigin="anonymous">
+    <link href="../_static/css/index.css" rel="stylesheet">
+    <link rel="stylesheet" href="../_static/sphinx-book-theme.css" type="text/css" />
+    <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="../_static/togglebutton.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/copybutton.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/mystnb.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/jupyter-sphinx.css" />
+    <script id="documentation_options" data-url_root="../" src="../_static/documentation_options.js"></script>
+    <script src="../_static/sphinx-book-theme.js"></script>
+    <script src="../_static/jquery.js"></script>
+    <script src="../_static/underscore.js"></script>
+    <script src="../_static/doctools.js"></script>
+    <script src="../_static/language_data.js"></script>
+    <script src="../_static/togglebutton.js"></script>
+    <script src="../_static/clipboard.min.js"></script>
+    <script src="../_static/copybutton.js"></script>
+    <script src="../_static/mystnb.js"></script>
+    <script src="../_static/sphinx-book-theme.js"></script>
+    <script >var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.4/require.min.js"></script>
+    <script src="https://unpkg.com/@jupyter-widgets/html-manager@^0.18.0/dist/embed-amd.js"></script>
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+    <link rel="next" title="Racial Dot Map" href="dotmap.html" />
+    <link rel="prev" title="Families on Television" href="families.html" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="docsearch:language" content="en">
+
+
+
+  </head>
+  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="80">
+    
+
+    <div class="container-xl">
+      <div class="row">
+          
+<div class="col-12 col-md-3 bd-sidebar site-navigation show" id="site-navigation">
+    
+        <div class="navbar-brand-box">
+<a class="navbar-brand text-wrap" href="../index.html">
+  
+  <img src="../_static/walkers.png" class="logo" alt="logo">
+  
+  
+  <h1 class="site-logo" id="site-title">Sociology 101</h1>
+  
+</a>
+</div>
+
+<form class="bd-search d-flex align-items-center" action="../search.html" method="get">
+  <i class="icon fas fa-search"></i>
+  <input type="search" class="form-control" name="q" id="search-input" placeholder="Search this book..." aria-label="Search this book..." autocomplete="off" >
+</form>
+
+<nav class="bd-links" id="bd-docs-nav" aria-label="Main navigation">
+  
+  <ul class="nav sidenav_l1">
+<li class="navbar-special">
+<p class="margin-caption">Getting Started</p>
+</li>
+  <li class="">
+    <a href="../syllabus/overview.html">Overview</a>
+  </li>
+  <li class="">
+    <a href="../syllabus/schedule.html">Schedule</a>
+  </li>
+  <li class="">
+    <a href="../syllabus/assignments.html">Assignment Types</a>
+  </li>
+  <li class="">
+    <a href="../syllabus/technology.html">Technology</a>
+  </li>
+  <li class="">
+    <a href="../syllabus/code-of-conduct.html">Code of Conduct</a>
+  </li>
+  <li class="">
+    <a href="../syllabus/faq.html">Frequently Asked Questions</a>
+  </li>
+  <li class="">
+    <a href="../syllabus/checklist.html">First Week Checklist</a>
+  </li>
+  <li class="">
+    <a href="../syllabus/meetings.html">Student meetings</a>
+  </li>
+  <li class="">
+    <a href="../syllabus/staff.html">Staff</a>
+  </li>
+<li class="navbar-special">
+<p class="margin-caption">Lessons</p>
+</li>
+  <li class="">
+    <a href="../lessons/about.html">Introduction</a>
+  </li>
+  <li class="">
+    <a href="../lessons/real-world.html">Sociological Perspectives</a>
+  </li>
+  <li class="">
+    <a href="../lessons/culture.html">Culture</a>
+  </li>
+  <li class="">
+    <a href="../lessons/socialization.html">Socialization</a>
+  </li>
+  <li class="">
+    <a href="../lessons/groups.html">Groups</a>
+  </li>
+  <li class="">
+    <a href="../lessons/exam1.html">Exam 1</a>
+  </li>
+<li class="navbar-special">
+<p class="margin-caption">Applications</p>
+</li>
+  <li class="">
+    <a href="about.html">Introduction</a>
+  </li>
+  <li class="">
+    <a href="breach.html">Breaching</a>
+  </li>
+  <li class="">
+    <a href="families.html">Families on Television</a>
+  </li>
+  <li class="active">
+    <a href="">SNAP Challenge</a>
+  </li>
+  <li class="">
+    <a href="dotmap.html">Racial Dot Map</a>
+  </li>
+  <li class="">
+    <a href="bechdel.html">Bechdel Test</a>
+  </li>
+  <li class="">
+    <a href="studydesign.html">Study Design</a>
+  </li>
+  <li class="">
+    <a href="education.html">Education</a>
+  </li>
+<li class="navbar-special">
+<p class="margin-caption">Credits</p>
+</li>
+  <li class="">
+    <a href="../syllabus/credits.html">Credits</a>
+  </li>
+</ul>
+</nav>
+
+ <!-- To handle the deprecated key -->
+
+</div>
+
+
+          
+
+
+          
+<main class="col py-md-3 pl-md-4 bd-content overflow-auto" role="main">
+    
+    <div class="row topbar fixed-top container-xl">
+    <div class="col-12 col-md-3 bd-topbar-whitespace site-navigation show">
+    </div>
+    <div class="col pl-2 topbar-main">
+        
+        <button id="navbar-toggler" class="navbar-toggler ml-0" type="button" data-toggle="collapse"
+            data-toggle="tooltip" data-placement="bottom" data-target=".site-navigation" aria-controls="navbar-menu"
+            aria-expanded="true" aria-label="Toggle navigation" aria-controls="site-navigation"
+            title="Toggle navigation" data-toggle="tooltip" data-placement="left">
+            <i class="fas fa-bars"></i>
+            <i class="fas fa-arrow-left"></i>
+            <i class="fas fa-arrow-up"></i>
+        </button>
+        
+        <div class="dropdown-buttons-trigger">
+    <button id="dropdown-buttons-trigger" class="btn btn-secondary topbarbtn" aria-label="Download this page"><i
+            class="fas fa-download"></i></button>
+
+    
+    <div class="dropdown-buttons">
+        <!-- ipynb file if we had a myst markdown file -->
+        
+        <!-- Download raw file -->
+        <a class="dropdown-buttons" href="../_sources/applications/snap.md"><button type="button"
+                class="btn btn-secondary topbarbtn" title="Download source file" data-toggle="tooltip"
+                data-placement="left">.md</button></a>
+        <!-- Download PDF via print -->
+        <button type="button" id="download-print" class="btn btn-secondary topbarbtn" title="Print to PDF"
+            onClick="window.print()" data-toggle="tooltip" data-placement="left">.pdf</button>
+    </div>
+    
+</div>
+        <!-- Source interaction buttons -->
+
+
+        <!-- Full screen (wrap in <a> to have style consistency -->
+        <a class="full-screen-button"><button type="button" class="btn btn-secondary topbarbtn" data-toggle="tooltip"
+                data-placement="bottom" onclick="toggleFullScreen()" title="Fullscreen mode"><i
+                    class="fas fa-expand"></i></button></a>
+
+        <!-- Launch buttons -->
+
+    </div>
+    <div class="d-none d-md-block col-md-2 bd-toc show">
+<div class="tocsection onthispage pt-5 pb-3">
+    <i class="fas fa-list"></i> On this page
+</div>
+
+<nav id="bd-toc-nav">
+    <ul class="nav section-nav flex-column">
+    
+        <li class="nav-item toc-entry toc-h2">
+            <a href="#description" class="nav-link">Description</a>
+        </li>
+    
+        <li class="nav-item toc-entry toc-h2">
+            <a href="#requirements" class="nav-link">Requirements</a>
+        </li>
+    
+        <li class="nav-item toc-entry toc-h2">
+            <a href="#grading" class="nav-link">Grading</a>
+        </li>
+    
+    </ul>
+</nav>
+
+
+    </div>
+</div>
+    <div id="main-content" class="row">
+        <div class="col-12 col-md-9 pl-md-3 pr-md-0">
+        
+              <div>
+                
+  <div class="section" id="snap-challenge">
+<h1>SNAP Challenge<a class="headerlink" href="#snap-challenge" title="Permalink to this headline">¶</a></h1>
+<p><img alt="People sitting around a table" src="../_images/REALWORLD7_FIG12_CO.jpg" /></p>
+<p>Social safety net programs are one way to combat economic inequality. These programs are frequently controversial. This exercise allows you to examine one of these programs - the Supplemental Nutrition Assistance Program (SNAP). In doing so, you can think through sociological analyses of the causes of and solutions to poverty.</p>
+<div class="section" id="description">
+<h2>Description<a class="headerlink" href="#description" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><p>Approximately 15% of North Carolina residents receive SNAP benefits. In this assignment, you will assume that you have a SNAP allotment of $121 per month/per person (the North Carolina average) for you and your 10-year old child for a total of $240 a month.</p></li>
+<li><p>Based on your <em>$60 per week food budget,</em> take a trip to your local grocery store (either online or in person) to plan a week of meals for yourself and your child. Make certain you allot yourself the amount of food you typically eat. As a reminder, the recommended daily calories for a 10 year old are 1,400-1,800 and an adult are 1,800-2,600.</p></li>
+<li><p>Your analysis should include a grocery list (including the cost of each item) and one week’s menu (including the total calories for each meal) as in the following example:</p></li>
+</ul>
+<p><strong>Grocery list:</strong></p>
+<table class="colwidths-auto table">
+<thead>
+<tr class="row-odd"><th class="head"><p>Purchase</p></th>
+<th class="head"><p>Cost</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>Gallon of milk</p></td>
+<td><p>$4.20</p></td>
+</tr>
+<tr class="row-odd"><td><p>7 Banana</p></td>
+<td><p>$1.40</p></td>
+</tr>
+<tr class="row-even"><td><p>5 apples</p></td>
+<td><p>$2.35</p></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Week’s menu:</strong></p>
+<p><em>Day One:</em></p>
+<ul class="simple">
+<li><p>Breakfast: 1 c cereal, 1 c milk, banana (336 Cal)</p></li>
+<li><p>Lunch: 2 slices bread, 1 slice lunchmeat, 1 apple (320 Cal)</p></li>
+<li><p>Dinner: 1 c pasta, .25 c pasta sauce, 1 c broccoli, 1 tbl butter (380 Cal)</p></li>
+<li><p>Snacks: 1 granola bar, 1 c carrot sticks (250)</p></li>
+</ul>
+<p><em>Day Two:</em>…</p>
+<ul class="simple">
+<li><p>With your shopping list and menu, include a one paragraph reflection on your experience. Was it easy to meet the guidelines? Difficult? What did you have to give up, if anything? Are your meals nutritionally balanced? How does this differ from your own diet growing up?</p></li>
+</ul>
+</div>
+<div class="section" id="requirements">
+<h2>Requirements<a class="headerlink" href="#requirements" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><p>One page reflection on experiences.</p></li>
+<li><p>Grocery list, including items and cost.</p></li>
+<li><p>Meal plan for one week for one adult and one child.</p></li>
+<li><p>No late assignments will be accepted.</p></li>
+</ul>
+</div>
+<div class="section" id="grading">
+<h2>Grading<a class="headerlink" href="#grading" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><p>Grading is High Pass (100); Pass (87) and Fail (0). Students who do not satisfactorily complete the exercise (i.e, Fail) will be allowed to revise and resubmit their application for a Pass within one week.</p></li>
+<li><p>To be eligible for a High Pass, you must go substantially beyond the assignment requirements <em>both in terms of research and analysis</em>. To qualify for a High Pass, you must include a section at the front of your paper called “High Pass” with at least 50 words detailing how you exceeded the requirements.</p></li>
+</ul>
+<p>*Assignment based on CJ Pascoe’s version of the “The Food Stamp Challenge” in <em>Sociology Through Active Learning</em> edited by Kathleen McKinney and Brabara S. Heyl. Los Angeles: Pine Forge Press. 2009.</p>
+</div>
+</div>
+
+
+              </div>
+              
+        </div>
+    </div>
+    
+    
+    <div class='prev-next-bottom'>
+        
+    <a class='left-prev' id="prev-link" href="families.html" title="previous page">Families on Television</a>
+    <a class='right-next' id="next-link" href="dotmap.html" title="next page">Racial Dot Map</a>
+
+    </div>
+    <footer class="footer mt-5 mt-md-0">
+    <div class="container">
+      <p>
+        
+          By Professor Neal Caren<br/>
+        
+          <div class="extra_footer">
+            Department of Sociology <br> University of North Carolina, Chapel Hill
+          </div>
+      </p>
+    </div>
+  </footer>
+</main>
+
+
+      </div>
+    </div>
+
+    <script src="../_static/js/index.js"></script>
+    
+  </body>
+</html>

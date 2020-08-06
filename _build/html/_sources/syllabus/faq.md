@@ -34,7 +34,7 @@ Teaching assistants are graduate students in the sociology department whose job 
 
 |Last Name  | TA  |   email  |  
 |---|---|---|
-|A-G  |    Rocio Rosa-Lebron       |      [ktait@live.unc.edu](mailto:ktait@live.unc.edu)  |       
+|A-G  |    Rocio Rosa-Lebron       |      [rocio@live.unc.edu](mailto:rocio@live.unc.edu)  |       
 |H-P |      Bethany Stoutamire      |         [stoutbet@live.unc.edu](mailto:stoutbet@live.unc.edu)    |     
 |Q-Z    |   Katherine Tait     |          [ktait@live.unc.edu](mailto:ktait@live.unc.edu)    |  
 

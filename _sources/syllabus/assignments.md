@@ -5,7 +5,7 @@ There are several different types of assignments in the course: {ref}`applicatio
 (applications)=
 ## Applications   
 **(20% of course grade)**  
-You will have seven opportunities to complete short research and writing assignments that employ concepts from the course to the outside world. You might shop at supermarket, watch a television show, or analyze housing data. For each Application, you will theories and concept from the course to develop expectations about what you'll find. After collecting the data, you will write up your study in a short research report. You will have eight opportunities to complete these, and your highest five grades will count.
+Applications are short research and writing assignments that employ concepts from the course to the outside world. You might shop at supermarket, watch a television show, or analyze housing data. For each Application, you will theories and concept from the course to develop expectations about what you'll find. After collecting the data, you will write up your study in a short research report. You will have seven opportunities to complete these, and your highest five grades will count.
 
 (case-studies)=
 ## Case Studies    

@@ -2,6 +2,11 @@
 There are several different types of assignments in the course: {ref}`applications`, {ref}`case-studies`, {ref}`InQuizitive`, {ref}`film-responses` and {ref}`exams`.
 
 
+## Visual Overview of the Assignments
+In this short video, I describe each of the assignment types for the course. You can watch it or read the rest of this page.
+<iframe height="360" width="640" src="https://media.unc.edu/w/s68BAA/" frameborder="0" scrolling="0" allow="autoplay; encrypted-media; fullscreen;  picture-in-picture;" allowfullscreen></iframe>
+
+
 (applications)=
 ## Applications   
 **(20% of course grade)**  

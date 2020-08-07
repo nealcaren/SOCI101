@@ -36,9 +36,9 @@ The course has three exams: two during the semester and a final. Exams are multi
 | InQuizitive     | Thursday, before class     |
 | Film Discussion | Thursday, during class |
 | Exams           | Thursday, during class |
-| Application     | Sunday, midnight       |
-| Case Study      | Sunday, midnight       |
-| Film Responses  | Sunday, midnight       |
+| Application     | Sunday, 11:55pm       |
+| Case Study      | Sunday, 11:55pm       |
+| Film Responses  | Sunday, 11:55pm       |
 
 ## Assignment Opportunities
 For {ref}`applications`, {ref}`case-studies`, {ref}`InQuizitive`, and {ref}`film-responses`, you can drop some of your lowest grades. For example, there are eight {ref}`applications` available, but only your five highest grades count. Historically, students who are happy with their grade in an assignment area tend to skip some near the end of the semester. Unlike the other assignments, no {ref}`exams` scores are dropped.

@@ -176,7 +176,7 @@ We start applying our sociological tools to film  with the short film [The Derby
 :class: caution
 * [Code of Conduct acknowledgment](https://sakai.unc.edu/portal/site/3bab92f4-af18-42cb-bc83-86c9231667b2/tool/8d6a21bb-cd86-4fe7-b793-7adf02263e08/jsf/index/mainIndex) (Sunday at 11:55pm)
 * [InQuizitive Chapter 1](https://ncia.wwnorton.com/78163) (Sunday at 11:55pm)
-* Kentucky Derby reflection (Sunday at 11:55pm)
+* [Kentucky Derby reflection](https://sakai.unc.edu/x/p97ji5) (Sunday at 11:55pm)
 
 
 ```

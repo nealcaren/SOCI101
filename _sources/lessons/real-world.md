@@ -13,6 +13,19 @@ By the end of this lesson, you will be able to:
 
 
 
+
+## Deadlines
+
+```{admonition} Be sure to hand these assignments in this week:
+:class: caution
+* [Code of Conduct acknowledgment](https://sakai.unc.edu/portal/site/3bab92f4-af18-42cb-bc83-86c9231667b2/tool/8d6a21bb-cd86-4fe7-b793-7adf02263e08/jsf/index/mainIndex) (Sunday at 11:55pm)
+* [InQuizitive Chapter 1](https://ncia.wwnorton.com/78163) (Sunday at 11:55pm)
+* [Kentucky Derby reflection](https://sakai.unc.edu/x/p97ji5) (Sunday at 11:55pm)
+
+
+```
+
+
 ## Read
 * '[Sociology and the Real World](https://digital.wwnorton.com/87056/r/goto/cfi/20!/4)', Chapter 1 in Real World    
 
@@ -120,9 +133,8 @@ We start applying our sociological tools to film  with the short film [The Derby
 
 ```{admonition} If you have any questions at all about what you are supposed to do on this assignment, please remember I am here to help. Reach out any time so I can support your success.
 :class: tip
-* Post it in the Slack [#ask-a-prof](https://soci101.slack.com/archives/C0177NE888Y) channel!
-* Ask your peers in the Slack [#ask-anyone](https://soci101.slack.com/archives/C0177KHN1ML) chanel!
-* Signup for virtual office hours!
+* Post it in the Slack [#lesson-sociological-perspectives](https://soci101.slack.com/archives/C017S5REVEK) channel!
+* Signup for [virtual office hours](https://calendly.com/prof-caren/meeting)!
 * [Email me](mailto:neal.caren@unc.edu) or your TA.
 ```
 
@@ -167,19 +179,6 @@ We start applying our sociological tools to film  with the short film [The Derby
 - Modernism
 
 
-
-
-
-## Deadlines
-
-```{admonition} Be sure to hand these assignments in this week:
-:class: caution
-* [Code of Conduct acknowledgment](https://sakai.unc.edu/portal/site/3bab92f4-af18-42cb-bc83-86c9231667b2/tool/8d6a21bb-cd86-4fe7-b793-7adf02263e08/jsf/index/mainIndex) (Sunday at 11:55pm)
-* [InQuizitive Chapter 1](https://ncia.wwnorton.com/78163) (Sunday at 11:55pm)
-* [Kentucky Derby reflection](https://sakai.unc.edu/x/p97ji5) (Sunday at 11:55pm)
-
-
-```
 
 ## The least you need to know
 

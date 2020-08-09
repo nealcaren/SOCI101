@@ -2,10 +2,15 @@
 There are several different types of assignments in the course: {ref}`applications`, {ref}`case-studies`, {ref}`InQuizitive`, {ref}`film-responses` and {ref}`exams`.
 
 
+## Visual Overview of the Assignments
+In this short video, I describe each of the assignment types for the course. You can watch it or read the rest of this page.
+<iframe height="360" width="640" src="https://media.unc.edu/w/s68BAA/" frameborder="0" scrolling="0" allow="autoplay; encrypted-media; fullscreen;  picture-in-picture;" allowfullscreen></iframe>
+
+
 (applications)=
 ## Applications   
 **(20% of course grade)**  
-You will have eight opportunities to complete short research and writing assignments that employ concepts from the course to the outside world. You might shop at supermarket, watch a television show, or analyze housing data. For each Application, you will theories and concept from the course to develop expectations about what you'll find. After collecting the data, you will write up your study in a short research report. You will have eight opportunities to complete these, and your highest five grades will count.
+Applications are short research and writing assignments that employ concepts from the course to the outside world. You might shop at supermarket, watch a television show, or analyze housing data. For each Application, you will theories and concept from the course to develop expectations about what you'll find. After collecting the data, you will write up your study in a short research report. You will have seven opportunities to complete these, and your highest five grades will count.
 
 (case-studies)=
 ## Case Studies    
@@ -36,9 +41,9 @@ The course has three exams: two during the semester and a final. Exams are multi
 | InQuizitive     | Thursday, before class     |
 | Film Discussion | Thursday, during class |
 | Exams           | Thursday, during class |
-| Application     | Sunday, midnight       |
-| Case Study      | Sunday, midnight       |
-| Film Responses  | Sunday, midnight       |
+| Application     | Sunday, 11:55pm       |
+| Case Study      | Sunday, 11:55pm       |
+| Film Responses  | Sunday, 11:55pm       |
 
 ## Assignment Opportunities
 For {ref}`applications`, {ref}`case-studies`, {ref}`InQuizitive`, and {ref}`film-responses`, you can drop some of your lowest grades. For example, there are eight {ref}`applications` available, but only your five highest grades count. Historically, students who are happy with their grade in an assignment area tend to skip some near the end of the semester. Unlike the other assignments, no {ref}`exams` scores are dropped.

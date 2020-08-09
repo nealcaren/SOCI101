@@ -25,10 +25,10 @@ The [official course website](http://soci101.org) is your primary source of info
 If you don't have access to the course sakai site, email [Professor Caren](mailto:neal.caren@unc.edu).
 
 ## Slack
-The course [Slack site](http://soci101.slack.com) is for text discussions.
-* Each Thursday during class, film discussions will take place in on the Slack site.
-* The #ask-the-prof and #ask-anyone channels are always available for question on sociological concepts or course assignments.
-* If you did not receive an access link for the Slack site, let [me](mailto:neal.caren@unc.edu) know.
+The course [Slack space](http://soci101.slack.com) is for text discussions.
+* Each Thursday during class, film discussions will take place in on the Slack space.
+* The #questions channel is always available for question on sociological concepts or course assignments.
+* [Sign up for the course Slack space using your UNC email address](https://soci101.slack.com/signup#/). 
 
 ## InQuizitive
 Each non-exam week you are assigned a chapter from the textbook. To help you focus your reading on the central concepts and provide a quick check on your capacity to identify and use the new concepts, you are required to complete a weekly InQuizitive reading test. These quizzes are untimed and you can keep answering questions until you earn a perfect score.

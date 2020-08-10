@@ -19,7 +19,7 @@ Before you begin, be sure to watch:
 <iframe
     width="400"
     height="300"
-    src="https://www.youtube.com/embed/RV50AV7-Iwc"
+    src="https://www.youtube.com/embed/YnCJU6PaCio"
     frameborder="0"
     allowfullscreen
 ></iframe>
@@ -27,17 +27,6 @@ Before you begin, be sure to watch:
 
 
 
-
-
-
-
-    <iframe
-        width="400"
-        height="300"
-        src="https://www.youtube.com/embed/RV50AV7-Iwc"
-        frameborder="0"
-        allowfullscreen
-    ></iframe>
 
 
 

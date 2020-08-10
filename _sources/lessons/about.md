@@ -23,11 +23,3 @@ Before you begin, be sure to watch:
     frameborder="0"
     allowfullscreen
 ></iframe>
-
-
-
-
-
-
-
-* [What is Sociology](https://www.youtube.com/watch?v=YnCJU6PaCio)

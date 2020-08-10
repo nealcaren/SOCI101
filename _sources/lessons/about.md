@@ -14,12 +14,6 @@ Before you begin, be sure to watch:
 
 
 
-<iframe
-    width="400"
-    height="300"
-    src="https://www.youtube.com/watch?v=YnCJU6PaCio"
-    frameborder="0"></iframe>
-
 
 
 

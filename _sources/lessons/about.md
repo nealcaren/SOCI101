@@ -13,4 +13,17 @@ Be sure to consult the [course schedule](https://soci101.org/syllabus/schedule.h
 Before you begin, be sure to watch **What is Sociology**:
 
 
-<iframe width="400" height="300" src="https://www.youtube.com/watch?v=YnCJU6PaCio" frameborder="0" allowfullscreen=""></iframe>
+## Watch
+
+
+* [What is Sociology](https://www.youtube.com/watch?v=YnCJU6PaCio)
+
+
+
+<iframe
+    width="400"
+    height="300"
+    src="https://www.youtube.com/embed/DbTt_ySTjaY"
+    frameborder="0"
+    allowfullscreen
+></iframe>

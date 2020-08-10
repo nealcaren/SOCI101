@@ -17,5 +17,4 @@ Before you begin, be sure to watch **What is Sociology**:
     height="300"
     src="https://www.youtube.com/watch?v=YnCJU6PaCio"
     frameborder="0"
-    allowfullscreen
-></iframe>
+    allowfullscreen></iframe>

@@ -10,13 +10,7 @@ To avoid confusion, lesson pages for materials beyond the next exam are not avai
 
 Be sure to consult the [course schedule](https://soci101.org/syllabus/schedule.html) to know which lesson we are on!
 
-Before you begin, be sure to watch **What is Sociology**:
-
-
-## Watch
-
-
-* [What is Sociology](https://www.youtube.com/watch?v=YnCJU6PaCio)
+Before you begin, be sure to watch:
 
 
 
@@ -27,3 +21,4 @@ Before you begin, be sure to watch **What is Sociology**:
     frameborder="0"
     allowfullscreen
 ></iframe>
+* [What is Sociology](https://www.youtube.com/watch?v=YnCJU6PaCio)

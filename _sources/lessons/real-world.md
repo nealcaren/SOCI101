@@ -199,4 +199,7 @@ We start applying our sociological tools to film  with the short film [The Derby
 * [Symbolic interactionism](https://youtu.be/Ux2E6uhEVk0) (Khan Academy)
 * [Macro and Micro](https://youtu.be/-BVeSykcQeE) (Khan Academy)
 * [Introduction to Sociology](https://youtu.be/dpn1EIib9bM) (A Sociology Experiment)
+* [Durkheim](https://www.youtube.com/watch?v=gQv90bo2E6M) (A Sociology Experiment)
+* [Marx](https://www.youtube.com/watch?v=DHdPP7X3T_4) (A Sociology Experiment)
+* [Weber](https://www.youtube.com/watch?v=OBhUvrHMeQ0) (A Sociology Experiment)
 * [Intro to Soc Week 1: Sociological History](https://youtu.be/xJsmocete5Y) (Professor Melendez)

@@ -127,6 +127,10 @@ We start applying our sociological tools to film  with the short film [The Derby
 * Be sure to have [The Derby](https://vimeo.com/333091980) ready to roll at the start of class.
 * Login to the course Slack by 9:45am and say hi to your group! If you can, it might be easier to have your phone on one device and Slack on another.
 
+Things to think and discuss as you watch the film:
+* What evidence did you see that was consistent with a structural-functionalist understanding of American society?
+* What evidence did you see that was consistent with a conflict theory understanding of American society?
+* Overall, which of the two did you find more convincing?
 
 
 ## Questions

@@ -3,7 +3,7 @@
 Since the course is online, we will use a couple of pieces of technology this semester.
 
 
-## Overview
+##  Overview
 * [Course website](http://soci101.org): Syllabus and weekly lesson materials
 * [Sakai](https://sakai.unc.edu/x/47btQ1): Gradebook, assignment submission, & exams
 * [Slack](http://soci101.slack.com): Where course will meet

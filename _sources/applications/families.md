@@ -7,7 +7,7 @@ Many significant shifts have occurred over the last fifty years in how we think 
 
 - You will explore two hypotheses on the relationship between popular culture and the deinstitutionalization of the family. The first is provided below.
   - **Hypothesis 1:** *TV shows began increasingly focusing on non-nuclear families prior to shifts in the larger society.* In other words, the earlier time period is more likely to depict families consisting of a married couple and their children (by birth or adoption) than the later time period.
-  - **Hypothesis 2** : Develop a second hypothesis. This hypothesis could be related to any other aspect of family life and how it is reflected on television. For example, your hypothesis could be on depictions of divorce, interracial marriages, non-married couples, or employed mothers.
+  - **Hypothesis 2** : Develop a second hypothesis. This hypothesis could be related to any other aspect of American family life and how it is reflected on television. For example, your hypothesis could be on depictions of divorce, interracial marriages, non-married couples, or employed mothers.
 - Our cultural data comes from TV shows. Randomly sample one year from every other decade (*i.e.*, the 1950s, 1970s, 1990s, 2010s).
 - Find a listing of the 20 most popular TV shows those years.
   - 1950s- 1990s: [Classic TV Hits](http://www.classictvhits.com/tvratings/)

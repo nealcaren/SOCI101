@@ -7,10 +7,19 @@ This lesson introduces how sociologists think about culture. Culture is one of t
 
 ## Learning Objectives
 
-```{admonition} By the end of this lesson, you will be able to:
+By the end of this lesson, you will be able to:
 * Describe how sociologists define the components of culture.
 * Identify variation in culture and cultural change.  
 * Analyze the relationship between culture and family.
+
+
+## Deadlines
+
+```{admonition} Be sure to hand these in before the deadline   
+* [Inquizitive Chapter 3](https://ncia.wwnorton.com/78597) (Thursday at 9:30am)
+* {doc}`../applications/families` application (Sunday at 11:59pm)
+* Soul Food Junkies reflection (Sunday at 11:59pm)
+
 ```
 
 ## Read
@@ -83,24 +92,15 @@ This week you have your first application due. Many significant shifts have occu
 
 {doc}`Complete assignment description<../applications/families>`.
 
-## Deadlines
-
-```{admonition} Be sure to hand these in before the deadline   
-* [Inquizitive Chapter 3](https://ncia.wwnorton.com/78597) (Thursday at 9:30am)
-* {doc}`../applications/families` application (Sunday at 11:59pm)
-* Soul Food Junkies reflection (Sunday at 11:59pm)
-
-```
-
 ## Questions
 
-```{admonition} Questions about assignments or the sociology of culture?
+```{admonition} If you have any questions at all about what you are supposed to do on this assignment, please remember I am here to help. Reach out any time so I can support your success.
 :class: tip
-* Post it in the Slack #ask-the-prof channel!
-* Ask your peers in the Slack #ask-anyone chanel!
-* Signup for virtual office hours!
-* Email me or your TA.
+* Post it in the Slack [#questions](https://soci101.slack.com/archives/C0177KHN1ML) channel!
+* Signup for [virtual office hours](https://calendly.com/prof-caren/meeting)!
+* [Email me](mailto:neal.caren@unc.edu) or your TA.
 ```
+
 
 ## Lesson Keywords
 
@@ -130,7 +130,7 @@ This week you have your first application due. Many significant shifts have occu
 - sanction
 
 ## The least you need to know
-Theoritical perspectives and culture
+Theoretical perspectives and culture
 
 ![](../images/REALWORLD7_TABLE03.01.jpg)
 

@@ -17,8 +17,8 @@ By the end of this lesson, you will be able to:
 
 ```{admonition} Be sure to hand these in before the deadline   
 * [Inquizitive Chapter 3](https://ncia.wwnorton.com/78597) (Thursday at 9:30am)
-* {doc}`../applications/families` application (Sunday at 11:59pm)
-* Soul Food Junkies reflection (Sunday at 11:59pm)
+* {doc}`../applications/families` application (Sunday at 11:55pm)
+* Soul Food Junkies reflection (Sunday at 11:55pm)
 
 ```
 

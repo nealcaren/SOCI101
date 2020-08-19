@@ -1,6 +1,6 @@
 # Exam 1
 
-The first course exam is Thursday, September 10th during class.  [Details of the exam, including that it is on Sakai, and also about the other assignment that is due that week.]
+The midterm exam is Thursday, September 28th during class.
 
 
 The exam is multiple-choice and administered on Sakai. There are three

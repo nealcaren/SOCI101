@@ -54,8 +54,7 @@ For {ref}`applications`, {ref}`case-studies`, {ref}`InQuizitive`, and {ref}`film
 | Case Studies   | 6              | 5                | 15                |
 | InQuizitive    | 12             | 10               | 15                |
 | Film Responses | 12             | 10               | 15                |
-| Exam 1         | 1              | 1                | 10                |
-| Exam 2         | 1              | 1                | 10                |
-| Exam 3         | 1              | 1                | 15                |
+| Midterm         | 1              | 1                | 15                |
+| Final Exam        | 1              | 1                | 20                |
 |                |                |                  |                   |
 |                |                |                  | 100               |

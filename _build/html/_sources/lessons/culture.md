@@ -7,10 +7,19 @@ This lesson introduces how sociologists think about culture. Culture is one of t
 
 ## Learning Objectives
 
-```{admonition} By the end of this lesson, you will be able to:
+By the end of this lesson, you will be able to:
 * Describe how sociologists define the components of culture.
 * Identify variation in culture and cultural change.  
 * Analyze the relationship between culture and family.
+
+
+## Deadlines
+
+```{admonition} Be sure to hand these in before the deadline   
+* [Inquizitive Chapter 3](https://ncia.wwnorton.com/78597) (Thursday at 9:30am)
+* {doc}`../applications/families` application (Sunday at 11:55pm)
+* Soul Food Junkies reflection (Sunday at 11:55pm)
+
 ```
 
 ## Read
@@ -83,24 +92,15 @@ This week you have your first application due. Many significant shifts have occu
 
 {doc}`Complete assignment description<../applications/families>`.
 
-## Deadlines
-
-```{admonition} Be sure to hand these in before the deadline   
-* [Inquizitive Chapter 3](https://ncia.wwnorton.com/78597) (Thursday at 9:30am)
-* {doc}`../applications/families` application (Sunday at 11:59pm)
-* Soul Food Junkies reflection (Sunday at 11:59pm)
-
-```
-
 ## Questions
 
-```{admonition} Questions about assignments or the sociology of culture?
+```{admonition} If you have any questions at all about what you are supposed to do on this assignment, please remember I am here to help. Reach out any time so I can support your success.
 :class: tip
-* Post it in the Slack #ask-the-prof channel!
-* Ask your peers in the Slack #ask-anyone chanel!
-* Signup for virtual office hours!
-* Email me or your TA.
+* Post it in the Slack [#questions](https://soci101.slack.com/archives/C0177KHN1ML) channel!
+* Signup for [virtual office hours](https://calendly.com/prof-caren/meeting)!
+* [Email me](mailto:neal.caren@unc.edu) or your TA.
 ```
+
 
 ## Lesson Keywords
 
@@ -130,15 +130,19 @@ This week you have your first application due. Many significant shifts have occu
 - sanction
 
 ## The least you need to know
-Theoritical perspectives and culture
+Theoretical perspectives and culture
 
 ![](../images/REALWORLD7_TABLE03.01.jpg)
 
 ## Extra Resources
-
+### Teaching Videos
 * [Overview of culture](https://youtu.be/Vo6W4kDv0cA) (Khan Academy)
 * [Culture and society](https://youtu.be/QQsBM1dZLO4) (Khan Academy)
 * [Subculture vs counterculture](https://youtu.be/4qoE3OVy4Vo) (Khan Academy)
 * [Culture lag and culture shock](https://youtu.be/rm4pzNYDHAI) (Khan Academy)
 * [Diffusion](https://youtu.be/W3_A_A0XBiY) (Khan Academy)
 * [What is normal? Exploring folkways, mores, and taboos](https://youtu.be/tOEz6RC0aVo) (Khan Academy)
+### Other Resources
+* [To Code Switch or Not to Code Switch?](https://www.youtube.com/watch?v=sncGGjaYJ5I) (8 minute TEDx Talk by Katelynn Duggins)
+* [Tropes vs. Women in Video Games](https://feministfrequency.com/tag/tropes-vs-women-in-video-games/)(Anita Sarkeesian’s series of video essays on gender and the gamer community)
+* [The Story of Stuff](http://storyofstuff.org/movies/story-of-stuff/) (Annie Leonard on where our stuff comes from.]

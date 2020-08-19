@@ -33,7 +33,8 @@ Bethany Stoutamire
 -------------------
 ![](../images/stoutbet.png)
 
-Bethany Stoutamire is a teaching assistant for the course.
+Bethany Stoutamire is a teaching assistant for the course.  She is a PhD student in the Department of Sociology at UNC-Chapel Hill and a pre-doctoral trainee at the Carolina Population Center. She earned her BA in sociology with a minor in biological sciences from the University of Nebraska-Lincoln.  Her research interests include aging, family formation, natural disasters, and survey research methodology.  When not taking classes or conducting research, Bethany enjoys reading, baking, and Pilates.   Pronouns: she/her
+
 
 Katherine Tait
 -------------------

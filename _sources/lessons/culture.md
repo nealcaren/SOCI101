@@ -135,10 +135,14 @@ Theoretical perspectives and culture
 ![](../images/REALWORLD7_TABLE03.01.jpg)
 
 ## Extra Resources
-
+### Teaching Videos
 * [Overview of culture](https://youtu.be/Vo6W4kDv0cA) (Khan Academy)
 * [Culture and society](https://youtu.be/QQsBM1dZLO4) (Khan Academy)
 * [Subculture vs counterculture](https://youtu.be/4qoE3OVy4Vo) (Khan Academy)
 * [Culture lag and culture shock](https://youtu.be/rm4pzNYDHAI) (Khan Academy)
 * [Diffusion](https://youtu.be/W3_A_A0XBiY) (Khan Academy)
 * [What is normal? Exploring folkways, mores, and taboos](https://youtu.be/tOEz6RC0aVo) (Khan Academy)
+### Other Resources
+* [To Code Switch or Not to Code Switch?](https://www.youtube.com/watch?v=sncGGjaYJ5I) (8 minute TEDx Talk by Katelynn Duggins)
+* [Tropes vs. Women in Video Games](https://feministfrequency.com/tag/tropes-vs-women-in-video-games/)(Anita Sarkeesian’s series of video essays on gender and the gamer community)
+* [The Story of Stuff](http://storyofstuff.org/movies/story-of-stuff/) (Annie Leonard on where our stuff comes from.]

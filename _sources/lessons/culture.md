@@ -18,7 +18,7 @@ By the end of this lesson, you will be able to:
 ```{admonition} Be sure to hand these in before the deadline   
 * [Inquizitive Chapter 3](https://ncia.wwnorton.com/78597) (Thursday at 9:30am)
 * {doc}`../applications/families` application (Sunday at 11:55pm)
-* Soul Food Junkies reflection (Sunday at 11:55pm)
+* ~~Soul Food Junkies reflection (Sunday at 11:55pm)~~
 
 ```
 
@@ -68,7 +68,7 @@ By the end of this lesson, you will be able to:
 
 ## Discuss (Thursday during class):
 
-### Soul Food Junkies
+### ~~Soul Food Junkies~~
 
 
 ![](http://d1w3qdx2l9dyrg.cloudfront.net/webobjects/soul_food_junkies-clip-mezzanine.jpg)
@@ -77,13 +77,13 @@ By the end of this lesson, you will be able to:
 
 
 
-We will be applying our sociological tools to the film  [Soul Food Junkies](https://unc.kanopy.com/video/soul-food-junkies). We will watch it together starting Thursday during class.    
+~~We will be applying our sociological tools to the film  [Soul Food Junkies](https://unc.kanopy.com/video/soul-food-junkies). We will watch it together starting Thursday during class.    
 * Be sure to have the movie ready to roll at the start of class.
 * Login to the course Slack at 9:45am and say hi to your group!
 
 Before Thursday:
-* What are some of your memories, feelings, or other associations with food?
-* Is eating just a matter of personal behavior and preference? When do eating habits—or the effects of eating habits and food choices—step over into the public realm?
+* ~~What are some of your memories, feelings, or other associations with food?~~
+* ~~Is eating just a matter of personal behavior and preference? When do eating habits—or the effects of eating habits and food choices—step over into the public realm?~~
 
 
 ## Application: Families

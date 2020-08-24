@@ -77,7 +77,7 @@ By the end of this lesson, you will be able to:
 
 
 
-~~We will be applying our sociological tools to the film  [Soul Food Junkies](https://unc.kanopy.com/video/soul-food-junkies). We will watch it together starting Thursday during class.    
+~~We will be applying our sociological tools to the film  [Soul Food Junkies](https://unc.kanopy.com/video/soul-food-junkies). We will watch it together starting Thursday during class.~~    
 * Be sure to have the movie ready to roll at the start of class.
 * Login to the course Slack at 9:45am and say hi to your group!
 

@@ -6,10 +6,18 @@ In this lesson, you will learn how the self is connected to social phenomena, su
 
 ## Learning Objectives
 
-```{admonition} By the end of this lesson, you will be able to:
+By the end of this lesson, you will be able to:
 * Identify processes of socialization and theories of the self
 * Evaluate research on social networks.
 * Compare socialization agents.
+
+
+## Deadlines
+
+```{admonition} Be sure to hand these in before the deadline   
+* [InQuizitive Chapter 4](https://ncia.wwnorton.com/75374) (Thusday at 9:30am)
+* Is Obesity Contagious Case Study (Sunday at 11:55pm)
+* Crip Camp reflection (Sunday at 11:55pm)
 ```
 
 ## Read
@@ -93,24 +101,15 @@ In this assignment, you will read about a sociological study that examined wheth
 [You can find the case study on Sakai under Tests and Quizzes.](https://sakai.unc.edu/x/NEuY89) It is only available during this lesson week.
 
 
-## Deadlines
-
-```{admonition} Be sure to hand these in before the deadline   
-* [Inquizitive Chapter 4](https://ncia.wwnorton.com/75374) (Thusday at 9:30am)
-* Is Obesity Contagious Case Study (Sunday at 11:55pm)
-* Crip Camp reflection (Sunday at 11:55pm)
-
-```
-
 ## Questions
 
-```{admonition} Questions about assignments or the lesson?
+```{admonition} If you have any questions at all about what you are supposed to do this week, please remember I am here to help. Reach out any time so we can support your success.
 :class: tip
-* Post it in the Slack #ask-a-prof channel!
-* Ask your peers in the Slack #ask-anyone chanel!
-* Signup for virtual office hours!
-* Email me or your TA.
+* Post it in the Slack [#questions](https://soci101.slack.com/archives/C0177KHN1ML) channel!
+* Signup for [virtual office hours](https://calendly.com/prof-caren/meeting)!
+* [Email me](mailto:neal.caren@unc.edu) or your TA.
 ```
+
 
 ## Lesson Keywords
 

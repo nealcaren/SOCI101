@@ -64,6 +64,20 @@ By the end of this lesson, you will be able to:
 
 
 
+## Class Lecture
+Recorded Thursday, 8/27. First part is missing because I forgot to press record.
+<iframe
+    width="400"
+    height="300"
+    src="https://media.unc.edu/w/CxMCAA/"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
+
 ## Application: Families
 
 This week you have your first application due. Many significant shifts have occurred over the last fifty years in how we think of the family and the experience of living in a household. These include changes in marital and living patterns, marriage and divorce rates, the gendered nature of housework, and labor force participation. There are many theories to explain the factors. In this application, you will focus on the **role of culture in creating new norms about the family.** Alternatively, culture may merely reflect other shifts i\n society. Is television responsible for the deinstitutionalization of the family? In this application, you will classify tv shows from four different decades to examine which changed first: changes in depictions of families on television or changes in families in society.

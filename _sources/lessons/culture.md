@@ -64,7 +64,7 @@ By the end of this lesson, you will be able to:
 
 
 
-## Class Lecture
+* Class Lecture
 Recorded Thursday, 8/27. First part is missing because I forgot to press record.
 <iframe
     width="400"

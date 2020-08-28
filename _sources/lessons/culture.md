@@ -72,6 +72,7 @@ Recorded Thursday, 8/27. First part is missing because I forgot to press record.
     src="https://media.unc.edu/w/CxMCAA/"
     frameborder="0"
     allowfullscreen></iframe>
+
 [Lecture slides](https://www.dropbox.com/s/ikq00ymaa8gujni/SOCI%20101%20Culture.pptx?dl=1)
 
 

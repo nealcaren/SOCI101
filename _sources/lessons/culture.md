@@ -74,7 +74,9 @@ Recorded Thursday, 8/27. First part is missing because I forgot to press record.
     allowfullscreen
 ></iframe>
 
-
+* Lecture slides
+<embed src="https://drive.google.com/viewerng/
+viewer?embedded=true&url=http://example.com/the.pdf" width="500" height="375">
 
 
 

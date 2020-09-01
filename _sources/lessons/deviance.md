@@ -16,7 +16,7 @@ By the end of this lesson, you will be able to:
 ```{admonition} Be sure to hand these in before the deadline   
 * InQuizitive Chapter Set 6 (Tuesday at 9:45am)
 * Does imprisonment reduce violent crime? case study (Sunday at 11:59pm)
-* America to Me Episode 3 reflection (Sunday at 11:59pm)
+* Circle of Books reflection (Sunday at 11:59pm)
 
 ```
 

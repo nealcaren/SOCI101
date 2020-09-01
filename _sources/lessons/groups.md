@@ -6,10 +6,17 @@ This lesson explores some of the different ways we organize our lives in groups.
 
 ## Learning Objectives
 
-```{admonition} By the end of this lesson, you will be able to:
+By the end of this lesson, you will be able to:
 * Describe how sociologists define groups, organizations and networks.
 * Distinguish between theoretical perspectives on groups.
 * Analyze how personal identity is related to groups.
+
+## Deadlines
+```{admonition} Be sure to hand these in before the deadline   
+* [Inquizitive Chapter 5](https://ncia.wwnorton.com/80771) (Thursday at 9:30am)
+* {doc}`../applications/breach` application (Sunday at 11:55pm)
+* Holy Hell reflection (Sunday at 11:55pm)
+
 ```
 
 ## Read
@@ -89,25 +96,15 @@ We will use the documentary film [Holy Hell](https://www.netflix.com/title/80097
 Before Thursday, start thinking about what concepts are likely to be most relevant.
 
 
-
-## Assignments
-
-```{admonition} Be sure to hand these in before the deadline   
-* [Inquizitive Chapter 5](https://ncia.wwnorton.com/80771) (Thursday at 9:30am)
-* {doc}`../applications/breach` application (Sunday at 11:55pm)
-* Holy Hell reflection (Sunday at 11:55pm)
-
-```
-
 ## Questions
 
-```{admonition} Questions about assignments or the lesson?
+```{admonition} If you have any questions at all about what you are supposed to do on this assignment, please remember I am here to help. Reach out any time so I can support your success.
 :class: tip
-* Post it in the Slack #ask-the-prof channel!
-* Ask your peers in the Slack #ask-anyone chanel!
-* Signup for virtual office hours!
-* Email me or your TA.
+* Post it in the Slack [#questions](https://soci101.slack.com/archives/C0177KHN1ML) channel!
+* Signup for [virtual office hours](https://calendly.com/prof-caren/meeting)!
+* [Email me](mailto:neal.caren@unc.edu) or your TA.
 ```
+
 
 ## Lesson Keywords
 

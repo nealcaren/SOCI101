@@ -31,6 +31,8 @@ By the end of this lesson, you will be able to:
 
 * [Class Lecture](https://unc.zoom.us/j/96531859232) Live on Tuesday at 9:45am.
 
+![Zoom](https://cuit.columbia.edu/sites/default/files/styles/cu_crop/public/content/zoom-logo-transparent-6.png?itok=PJk3QEss)
+
 * [Deviance](https://www.youtube.com/watch?v=BGq9zW9w3Fw)
 
 

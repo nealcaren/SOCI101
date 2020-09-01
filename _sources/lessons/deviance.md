@@ -29,6 +29,7 @@ By the end of this lesson, you will be able to:
 
 ## Watch
 
+* [Class Lecture](https://unc.zoom.us/j/96531859232) Live on Tuesday at 9:45am.
 
 * [Deviance](https://www.youtube.com/watch?v=BGq9zW9w3Fw)
 
@@ -81,11 +82,18 @@ By the end of this lesson, you will be able to:
 
 
 
+
 ## Discuss (Thursday during class):
 ### Circle of Books
 
-![Image from film](https://www.americatomerealtalk.com/imager/images/360/ATME_104sg_1405097_a_964c802cbc40b77f9fad3d3fb62906e7.jpg)
+![Image from film](https://flxt.tmsimg.com/assets/p16869165_i_h10_aa.jpg)
 
+> For over 35 years, the gay porn shop, Circus of Books, served as the epicenter for LGBT life and culture in Los Angeles. Unbeknownst to many in the community it served, the store was cultivated and cared for by its owners, Karen and Barry Mason; a straight couple with three children. CIRCUS OF BOOKS is an intimate portrait of the Masons and their journey to become one of the biggest distributors of hardcore gay porn in the United States. Their story unfolds through the lens of their daughter, filmmaker and artist, Rachel Mason. [rt](https://www.rottentomatoes.com/m/circus_of_books)
+
+
+We will use the documentary film [Circus of Books](https://www.netflix.com/title/81011569) as an opportunity to explore how deviance is constructed and contested.  We will watch it together during class.    
+* Be sure to have [the movie](https://www.netflix.com/title/81011569) ready to go at the start of class.
+* Login to the course Slack by 9:45am and say hi to your group!
 
 
 
@@ -123,7 +131,7 @@ By the end of this lesson, you will be able to:
 * uniform crime report
 * Criminal Justice System
 * retribution
-* deternce
+* deterence
 * rehabilitation
 * positive deviance
 

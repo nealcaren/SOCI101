@@ -79,6 +79,17 @@ By the end of this lesson, you will be able to:
 
 
 
+* Class Lecture
+Recorded Tuesday, 9/1. [Slides](https://www.dropbox.com/s/1zyi9xguygxf5yb/SOCI%20101%20Socialization.pptx?dl=0)
+<iframe
+    width="400"
+    height="300"
+    src="https://media.unc.edu/w/xSECAA/"
+    frameborder="0"
+    allowfullscreen></iframe>
+
+
+
 ## Discuss: Crip Camp
 
 ![](../images/crip_camp.jpg)

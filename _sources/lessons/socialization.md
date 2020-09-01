@@ -88,7 +88,7 @@ Recorded Tuesday, 9/1. [Slides](https://www.dropbox.com/s/1zyi9xguygxf5yb/SOCI%2
     frameborder="0"
     allowfullscreen></iframe>
 
-
+<iframe src="https://embed.polleverywhere.com/free_text_polls/eFaZYafGcAwG0ZZ4Lmmiu?controls=none&short_poll=true" width="400" height="300" frameBorder="0"></iframe>
 
 ## Discuss: Crip Camp
 

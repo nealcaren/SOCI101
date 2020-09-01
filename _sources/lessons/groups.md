@@ -21,6 +21,9 @@ This lesson explores some of the different ways we organize our lives in groups.
 
 ## Watch
 
+* [Class Lecture](https://unc.zoom.us/j/96531859232) Live on Tuesday at 9:45am.
+![Zoom](https://cuit.columbia.edu/sites/default/files/styles/cu_crop/public/content/zoom-logo-transparent-6.png?itok=PJk3QEss)
+
 
 * [Social Groups](https://www.youtube.com/watch?v=_wFZ5Dbj8DA)
 

@@ -83,13 +83,13 @@ By the end of this lesson, you will be able to:
 ## Discuss: Holy Hell
 
 
-![](../images/holy_hell.jpg)
-> Just out of college, a young filmmaker joins a loving, secretive, and spiritual community led by a charismatic teacher in 1980s West Hollywood. Twenty years later, the group is shockingly torn apart. Told through over two decades of the filmmaker’s archival materials, this is their story. [Official description](http://www.holyhellthedocumentary.com/new-page-1)
+![](https://www-tc.pbs.org/wgbh/americanexperience/media/canonical_images/film/Jonestown_2800x1576.jpg)
+> award-winning filmmakers Stanley Nelson, Marcia Smith, and Noland Walker reveal the true, tragic story behind enigmatic preacher Jim Jones and his promise of a world of economic and racial equality that ultimately led to the largest mass murder-suicide in history. This documentary tells the story of the people who joined Peoples Temple, following Jones from Indiana to California and ultimately to their deaths in Guyana in November 1978. [PBS](https://www.pbs.org/wgbh/americanexperience/films/jonestown/)
 
 
 
-We will use the documentary film [Holy Hell](https://www.netflix.com/title/80097438) as an opportunity to identify and evaluate concepts related to the sociology of groups.  We will watch it together during class.    
-* Be sure to have [the movie](https://www.netflix.com/title/80097438) ready to go at the start of class.
+We will use the documentary film [Jonestown: the life and death of Peoples Temple](http://libproxy.lib.unc.edu/login?url=https://www.nclive.org/cgi-bin/nclsm?url=https://fod.infobase.com/PortalPlaylists.aspx?customID=53983) as an opportunity to identify and evaluate concepts related to the sociology of groups.  We will watch it together during class.    
+* Be sure to have [the movie](http://libproxy.lib.unc.edu/login?url=https://www.nclive.org/cgi-bin/nclsm?url=https://fod.infobase.com/PortalPlaylists.aspx?customID=53983) ready to go at the start of class.
 * Login to the course Slack by 9:45am and say hi to your group!
 
 

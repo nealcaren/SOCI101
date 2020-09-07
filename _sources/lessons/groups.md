@@ -15,7 +15,7 @@ By the end of this lesson, you will be able to:
 ```{admonition} Be sure to hand these in before the deadline   
 * [Inquizitive Chapter 5](https://ncia.wwnorton.com/80771) (Thursday at 9:30am)
 * {doc}`../applications/breach` application (Sunday at 11:55pm)
-* Holy Hell reflection (Sunday at 11:55pm)
+* Jonestown reflection (Sunday at 11:55pm)
 
 ```
 
@@ -80,7 +80,7 @@ By the end of this lesson, you will be able to:
 
 
 
-## Discuss: Holy Hell
+## Discuss: Jonestown
 
 
 ![](https://www-tc.pbs.org/wgbh/americanexperience/media/canonical_images/film/Jonestown_2800x1576.jpg)

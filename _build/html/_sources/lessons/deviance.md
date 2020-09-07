@@ -6,10 +6,18 @@ This lesson introduces the sociology of deviance and crime. In sociology, devian
 
 ## Learning Objectives
 
-```{admonition} By the end of this lesson, you will be able to:
+By the end of this lesson, you will be able to:
 * Differentiate between competing theories of deviance.
 * Describe trends in crime and incarceration.
 * Evaluate the relationship between imprisonment and recidivism.
+
+## Deadlines
+
+```{admonition} Be sure to hand these in before the deadline   
+* InQuizitive Chapter Set 6 (Tuesday at 9:45am)
+* Does imprisonment reduce violent crime? case study (Sunday at 11:59pm)
+* Circle of Books reflection (Sunday at 11:59pm)
+
 ```
 
 ## Read
@@ -20,7 +28,8 @@ This lesson introduces the sociology of deviance and crime. In sociology, devian
 
 
 ## Watch
-
+* [Class Lecture](https://unc.zoom.us/j/96531859232) Live on Tuesday at 9:45am.
+[![Zoom](https://cuit.columbia.edu/sites/default/files/styles/cu_crop/public/content/zoom-logo-transparent-6.png?itok=PJk3QEss)](https://unc.zoom.us/j/96531859232)
 
 * [Deviance](https://www.youtube.com/watch?v=BGq9zW9w3Fw)
 
@@ -73,39 +82,33 @@ This lesson introduces the sociology of deviance and crime. In sociology, devian
 
 
 
+
 ## Discuss (Thursday during class):
-### Racialized Relationships in Families and Communities
+### Circle of Books
 
-![Image from film](https://www.americatomerealtalk.com/imager/images/360/ATME_104sg_1405097_a_964c802cbc40b77f9fad3d3fb62906e7.jpg)
+![Image from film](https://flxt.tmsimg.com/assets/p16869165_i_h10_aa.jpg)
 
-We will continue with the fourth episode of [American to Me](http://libproxy.lib.unc.edu/login?url=https://www-filmplatform-net.libproxy.lib.unc.edu/product/america-to-me).  We will watch it together starting Thursday at 9:50am.    
-* Be sure to have the movie ready to roll at the start of class.
-* Login to the course Slack at 9:45am and say hi to your group!
-
-Before Thursday:
-* How does race inform your sense of agency, the ability to feel empowered to take control of your own choices and actions, and advocate for yourself, around your racial identity?
-* How does your sense of agency shift depending on who you are or who you are with?
-* Where in your high school do you see agency around racial identity? Is it specific to only certain racial identities?
+> For over 35 years, the gay porn shop, Circus of Books, served as the epicenter for LGBT life and culture in Los Angeles. Unbeknownst to many in the community it served, the store was cultivated and cared for by its owners, Karen and Barry Mason; a straight couple with three children. CIRCUS OF BOOKS is an intimate portrait of the Masons and their journey to become one of the biggest distributors of hardcore gay porn in the United States. Their story unfolds through the lens of their daughter, filmmaker and artist, Rachel Mason. [rt](https://www.rottentomatoes.com/m/circus_of_books)
 
 
-## Assignments
+We will use the documentary film [Circus of Books](https://www.netflix.com/title/81011569) as an opportunity to explore how deviance is constructed and contested.  We will watch it together during class.    
+* Be sure to have [the movie](https://www.netflix.com/title/81011569) ready to go at the start of class.
+* Login to the course Slack by 9:45am and say hi to your group!
 
-```{admonition} Be sure to hand these in before the deadline   
-* Inquizitive Chapter Set 6 (Tuesday at 9:45am)
-* Does imprisonment reduce violent crime? case study (Sunday at 11:59pm)
-* America to Me Episode 3 reflection (Sunday at 11:59pm)
 
-```
+
+
+
 
 ## Questions
 
-```{admonition} Questions about assignments or the lesson?
+```{admonition} If you have any questions at all about what you are supposed to do on this assignment, please remember I am here to help. Reach out any time so I can support your success.
 :class: tip
-* Post it in the Slack #ask-a-prof channel!
-* Ask your peers in the Slack #ask-anyone chanel!
-* Signup for virtual office hours!
-* Email me or your TA.
+* Post it in the Slack [#questions](https://soci101.slack.com/archives/C0177KHN1ML) channel!
+* Signup for [virtual office hours](https://calendly.com/prof-caren/meeting)!
+* [Email me](mailto:neal.caren@unc.edu) or your TA.
 ```
+
 
 ## Lesson Keywords
 
@@ -128,7 +131,7 @@ Before Thursday:
 * uniform crime report
 * Criminal Justice System
 * retribution
-* deternce
+* deterence
 * rehabilitation
 * positive deviance
 

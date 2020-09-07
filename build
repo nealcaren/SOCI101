@@ -3,4 +3,6 @@
 jupyter-book clean  .
 jupyter-book build .
 cp CNAME _build/html
+mkdir _build/html/slides
+cp slides/*.pdf _build/html/slides
 ghp-import -n -p -f _build/html

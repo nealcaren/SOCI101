@@ -18,7 +18,6 @@ By the end of this lesson, you will be able to:
 ```{admonition} Be sure to hand these in before the deadline   
 * [Inquizitive Chapter 3](https://ncia.wwnorton.com/78597) (Thursday at 9:30am)
 * {doc}`../applications/families` application (Sunday at 11:55pm)
-* Soul Food Junkies reflection (Sunday at 11:55pm)
 
 ```
 
@@ -65,25 +64,16 @@ By the end of this lesson, you will be able to:
 
 
 
-
-## Discuss (Thursday during class):
-
-### Soul Food Junkies
-
-
-![](http://d1w3qdx2l9dyrg.cloudfront.net/webobjects/soul_food_junkies-clip-mezzanine.jpg)
-
-> a culinary journey to understand a quintessential American cuisine: Soul Food. Filmmaker Byron Hurt examines the rich history and social significance of foods tied closely to black cultural identity as well as their health implications on the modern American diet. Join Hurt as he investigates the ups and downs of Soul Food and a growing food justice movement to make healthier foods more affordable and accessible. [PBS](http://www.pbs.org/black-culture/shows/list/soul-food-junkies/)
-
+* Class Lecture
+Recorded Thursday, 8/27. First part is missing because I forgot to press record. [Slides](https://www.dropbox.com/s/ikq00ymaa8gujni/SOCI%20101%20Culture.pptx?dl=1)
+<iframe
+    width="400"
+    height="300"
+    src="https://media.unc.edu/w/CxMCAA/"
+    frameborder="0"
+    allowfullscreen></iframe>
 
 
-We will be applying our sociological tools to the film  [Soul Food Junkies](https://unc.kanopy.com/video/soul-food-junkies). We will watch it together starting Thursday during class.    
-* Be sure to have the movie ready to roll at the start of class.
-* Login to the course Slack at 9:45am and say hi to your group!
-
-Before Thursday:
-* What are some of your memories, feelings, or other associations with food?
-* Is eating just a matter of personal behavior and preference? When do eating habits—or the effects of eating habits and food choices—step over into the public realm?
 
 
 ## Application: Families

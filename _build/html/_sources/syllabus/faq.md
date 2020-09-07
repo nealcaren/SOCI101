@@ -3,9 +3,9 @@ Frequently Asked Questions
 
 What do I need to buy?
 -----------------------------
-The course has one textbook, [The Real World: An Introduction to Sociology, 7th Edition](https://wwnorton.com/books/9780393419337), by Kerry Ferris and Jill Stein. You can purchase it through the bookstore or online. I strongly recommend the ebook version, which costs $39.95 and includes additional online resources we will use. (If you buy a used print version of the textbook, you will also need to purchase access to the extra online resources we will be using each week.)
+The course has one textbook, [The Real World: An Introduction to Sociology, 7th Edition](https://sakai.unc.edu/access/basiclti/site/3bab92f4-af18-42cb-bc83-86c9231667b2/d3bee9f1-86b5-4113-a605-2c6203e66332), by Kerry Ferris and Jill Stein. You can purchase it through the bookstore or online. I strongly recommend the ebook version, which costs $39.95 and includes additional online resources we will use. (If you buy a used print version of the textbook, you will also need to purchase access to the extra online resources we will be using each week.)
 
-The 6th edition of the textbook is very similar, so feel to use that if you can find it. However, you will still need to purchase access to the "InQuizitive for The Real World" for the 7th edition from the [Norton website](https://digital.wwnorton.com/realworld7).
+The 6th edition of the textbook is very similar, so feel to use that if you can find it. However, you will still need to purchase access to the "InQuizitive for The Real World" for the 7th edition from the [Norton website](https://sakai.unc.edu/access/basiclti/site/3bab92f4-af18-42cb-bc83-86c9231667b2/efa9f5ff-20ce-4836-b60d-1b22ce9bce1a).
 
 You will also need access to Netflix starting the last week of August. We will be watching twelve documentaries during the semester. Several films are available through the UNC library, but their collection of contemporary movies is more limited, so five our films are available over Netflix. A standard Netflix account is $13 a month, but you get your first month free.
 
@@ -24,7 +24,7 @@ If you anticipate not being able to participate in class for an extended period 
 
 ## What are we going to be doing during class?
 
-The core idea and concepts of the course are in the readings and videos posted with each lesson.  On Tuesday, I will be on our course [Slack](http://soci101.slack.com) previewing material for the week, reviewing assignments from the prior week, and answering questions.  Depending on the content, we might go live on Zoom, with the link posted in the Slack channel. The recording will be made available on the course website afterward.
+The core idea and concepts of the course are in the readings and videos posted with each lesson.   On Tuesdays, we will meet on Zoom. I'll be reviewing the homework, explaining the central concepts for the lesson, and detailing future assignments. A recording will be made available on the lesson page for those of you who cannot join us. No attendance will be taken.
 
 Our big day is Thursday. Each day we will be watching a different film together. We will meet in our course [Slack](http://soci101.slack.com) channel. After five minutes of introductions, everyone will press play and start their stream of the film. During the film, groups will discuss connections between the film and course concepts. If the film runs long, feel free to finish the movie at a later point.
 

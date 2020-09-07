@@ -6,10 +6,17 @@ This lesson explores some of the different ways we organize our lives in groups.
 
 ## Learning Objectives
 
-```{admonition} By the end of this lesson, you will be able to:
+By the end of this lesson, you will be able to:
 * Describe how sociologists define groups, organizations and networks.
 * Distinguish between theoretical perspectives on groups.
 * Analyze how personal identity is related to groups.
+
+## Deadlines
+```{admonition} Be sure to hand these in before the deadline   
+* [Inquizitive Chapter 5](https://ncia.wwnorton.com/80771) (Thursday at 9:30am)
+* {doc}`../applications/breach` application (Sunday at 11:55pm)
+* Jonestown reflection (Sunday at 11:55pm)
+
 ```
 
 ## Read
@@ -20,6 +27,9 @@ This lesson explores some of the different ways we organize our lives in groups.
 
 
 ## Watch
+
+* [Class Lecture](https://unc.zoom.us/j/96531859232) Live on Tuesday at 9:45am.
+[![Zoom](https://cuit.columbia.edu/sites/default/files/styles/cu_crop/public/content/zoom-logo-transparent-6.png?itok=PJk3QEss)](https://unc.zoom.us/j/96531859232)
 
 
 * [Social Groups](https://www.youtube.com/watch?v=_wFZ5Dbj8DA)
@@ -70,41 +80,31 @@ This lesson explores some of the different ways we organize our lives in groups.
 
 
 
-## Discuss: Holy Hell
+## Discuss: Jonestown
 
 
-![](../images/holy_hell.jpg)
-> Just out of college, a young filmmaker joins a loving, secretive, and spiritual community led by a charismatic teacher in 1980s West Hollywood. Twenty years later, the group is shockingly torn apart. Told through over two decades of the filmmaker’s archival materials, this is their story. [Official description](http://www.holyhellthedocumentary.com/new-page-1)
+![](https://www-tc.pbs.org/wgbh/americanexperience/media/canonical_images/film/Jonestown_2800x1576.jpg)
+> award-winning filmmakers Stanley Nelson, Marcia Smith, and Noland Walker reveal the true, tragic story behind enigmatic preacher Jim Jones and his promise of a world of economic and racial equality that ultimately led to the largest mass murder-suicide in history. This documentary tells the story of the people who joined Peoples Temple, following Jones from Indiana to California and ultimately to their deaths in Guyana in November 1978. [PBS](https://www.pbs.org/wgbh/americanexperience/films/jonestown/)
 
 
 
-We will use the documentary film [Holy Hell](https://www.netflix.com/title/80097438) as an opportunity to identify and evaluate concepts related to the sociology of groups.  We will watch it together during class.    
-* Be sure to have [the movie](https://www.netflix.com/title/80097438) ready to go at the start of class.
+We will use the documentary film [Jonestown: the life and death of Peoples Temple](http://libproxy.lib.unc.edu/login?url=https://www.nclive.org/cgi-bin/nclsm?url=https://fod.infobase.com/PortalPlaylists.aspx?customID=53983) as an opportunity to identify and evaluate concepts related to the sociology of groups.  We will watch it together during class.    
+* Be sure to have [the movie](http://libproxy.lib.unc.edu/login?url=https://www.nclive.org/cgi-bin/nclsm?url=https://fod.infobase.com/PortalPlaylists.aspx?customID=53983) ready to go at the start of class.
 * Login to the course Slack by 9:45am and say hi to your group!
 
 
 Before Thursday, start thinking about what concepts are likely to be most relevant.
 
 
-
-## Assignments
-
-```{admonition} Be sure to hand these in before the deadline   
-* [Inquizitive Chapter 5](https://ncia.wwnorton.com/80771) (Thursday at 9:30am)
-* {doc}`../applications/breach` application (Sunday at 11:55pm)
-* Holy Hell reflection (Sunday at 11:55pm)
-
-```
-
 ## Questions
 
-```{admonition} Questions about assignments or the lesson?
+```{admonition} If you have any questions at all about what you are supposed to do on this assignment, please remember I am here to help. Reach out any time so I can support your success.
 :class: tip
-* Post it in the Slack #ask-the-prof channel!
-* Ask your peers in the Slack #ask-anyone chanel!
-* Signup for virtual office hours!
-* Email me or your TA.
+* Post it in the Slack [#questions](https://soci101.slack.com/archives/C0177KHN1ML) channel!
+* Signup for [virtual office hours](https://calendly.com/prof-caren/meeting)!
+* [Email me](mailto:neal.caren@unc.edu) or your TA.
 ```
+
 
 ## Lesson Keywords
 

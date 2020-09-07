@@ -16,13 +16,14 @@
 - file: /lessons/culture
 - file: /lessons/socialization
 - file: /lessons/groups
+- file: /lessons/deviance
 - file: /lessons/exam1
 
 
 - header: Applications
 - file: /applications/about
-- file: /applications/breach
 - file: /applications/families
+- file: /applications/breach
 - file: /applications/snap
 - file: /applications/dotmap
 - file: /applications/bechdel

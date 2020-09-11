@@ -11,9 +11,9 @@ The plan for the semester is the {ref}`lesson-schedule`. Different assignments a
 | 8/24  | {doc}`Culture  <../lessons/culture>`                        | 3          | Soul Food Junkies  | InQuizitive; Families on TV application, Film response |
 | 8/31  | {doc}`Socialization  <../lessons/socialization>`                  | 4          | Crip Camp  | InQuizitive; Obesity case study, Film response         |
 | 9/7  | {doc}`Groups    <../lessons/groups>`                       | 5          | Jonestown  | InQuizitive; Breaching application, , Film response       |
-| 9/14  | Deviance                         | 6          | Circle of Books  | InQuizitive; Imprisonment case study, Film response    |
+| 9/14  | {doc}`Deviance    <../lessons/deviance>`                           | 6          | Circle of Books  | InQuizitive; Imprisonment case study, Film response    |
 | 9/21  | Social Class                     | 7          | American Factory  | InQuizitive; SNAP application, Film response           |
-| 9/28 | Exam                             |            |                            | Cohabit case study; Exam 1                             |
+| 9/28 | Exam                             |            |                            | Cohabit case study; Exam is Thursday 10/1 1                             |
 | 10/5  | Race and Ethnicity               | 8          | Strong Island  | InQuizitive; Map application, Film response            |
 | 10/12  | Gender and Sexuality             | 9          | Pushout  | InQuizitive; Bechdel application, Film response        |
 | 10/19 | Research Methods                 | 2          | TBA  | InQuizitive; Study Design application, Film response   |

@@ -138,4 +138,4 @@ We will use the documentary film [Circus of Books](https://www.netflix.com/title
 ## The least you need to know
 Theoretical perspectives on deviance
 
-![Table 1 from Chapter 6 in the textbook](../images/REALWORLD7_TABLE05.01.jpg "Table 1 from Chapter 5 in the textbook")
+![Table 1 from Chapter 6 in the textbook](../images/REALWORLD7_TABLE06.01.jpg "Table 1 from Chapter 5 in the textbook")

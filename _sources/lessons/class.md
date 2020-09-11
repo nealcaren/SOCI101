@@ -112,7 +112,7 @@ CC:
 
 ![Image from film](https://flxt.tmsimg.com/assets/p16791268_v_h10_aa.jpg)
 
-> American Factory 美国工𠂆 documents the revitalization of one long-shuttered factory in Dayton, Ohio, while providing a startling glimpse into the economic overhaul happening in towns and cities across the country — and the world. [rt](https://www.rottentomatoes.com/m/circus_of_books)
+> American Factory 美国工𠂆 documents the revitalization of one long-shuttered factory in Dayton, Ohio, while providing a startling glimpse into the economic overhaul happening in towns and cities across the country — and the world. [link](https://americanfactoryfilm.com)
 
 
 We will use the documentary film [American Factory 美国工𠂆](https://www.netflix.com/title/81090071) as an opportunity to explore the sociology of work.  We will watch it together during class.
@@ -168,4 +168,4 @@ We will use the documentary film [American Factory 美国工𠂆](https://www.ne
 ## The least you need to know
 Theoretical perspectives on social class
 
-![Table 1 from Chapter 7 in the textbook](../images/REALWORLD7_TABLE07.01.jpg "Table 1 from Chapter 7 in the textbook")
+![Table 1 from Chapter 7 in the textbook](../images/REALWORLD7_TABLE07.02.jpg "Table 2 from Chapter 7 in the textbook")

@@ -7,10 +7,10 @@ In this lesson, we will examine the stratification phenomenon that occurs in all
 ## Learning Objectives
 
 By the end of this lesson, you will be able to:   
-• Understand systems of social mobility and stratification.
-• Describe social classes in the United States.
-• Differentiate theoretical perspectives on social stratification.
-• Apply appropriate research methods to understanding food insecurity.
+• Understand systems of social mobility and stratification.    
+• Describe social classes in the United States.    
+• Differentiate theoretical perspectives on social stratification.    
+• Apply appropriate research methods to understanding food insecurity.    
 
 
 ## Deadlines

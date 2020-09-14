@@ -14,8 +14,8 @@ By the end of this lesson, you will be able to:
 ## Deadlines
 
 ```{admonition} Be sure to hand these in before the deadline   
-* InQuizitive Chapter Set 6 (Thursday at 9:30am)
-* Does imprisonment reduce violent crime? case study (Sunday at 11:55pm)
+* [InQuizitive ChapterSet 6](https://sakai.unc.edu/access/basiclti/site/3bab92f4-af18-42cb-bc83-86c9231667b2/efa9f5ff-20ce-4836-b60d-1b22ce9bce1a) (Thursday at 9:30am)
+* [Case Study: Marijuana usage as social behavior](https://sakai.unc.edu/x/NEuY89) (Sunday at 11:55pm)
 * Circle of Books reflection (Sunday at 11:55pm)
 
 ```

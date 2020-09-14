@@ -30,6 +30,6 @@ The plan for the semester is the {ref}`lesson-schedule`. Different assignments a
 | InQuizitive     | Thursday, before class     |
 | Film Discussion | Thursday, during class |
 | Exams           | Thursday, during class |
-| Application     | Sunday, midnight       |
-| Case Study      | Sunday, midnight       |
-| Film Responses  | Sunday, midnight       |
+| Application     | Sunday, 11:55pm       |
+| Case Study      | Sunday, 11:55pm         |
+| Film Responses  | Sunday, 11:55pm         |

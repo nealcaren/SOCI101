@@ -136,41 +136,36 @@ We will use the documentary film [American Factory 美国工𠂆](https://www.ne
 
 ## Lesson Keywords
 
-•        Social stratification
-•        social inequality
-•        caste system
-•        apartheid
-•        Social class
-•        socioeconomic status (SES)
-•        intersectionality
-•        The U.S. Social Class Ladder
-•        Status Inconsistency
-•        Feudal System
-•        Wealth
-•        Prestige
-•        Cultural capital
-•        Social Reproduction
-•        everyday class consciousness,
-•        Social mobility
-•        Closed System
-•        Open System
-•        Intergenerational mobility
-•        Intragenerational mobility
-•        Structural mobility
-•        Relative and absolute deprivation
-•        Federal poverty line
-•        Culture of poverty
-•        Residential segregation
-•        Disenfranchisement
-•        digital divide.
+•        Social stratification    
+•        social inequality    
+•        caste system    
+•        apartheid    
+•        Social class    
+•        socioeconomic status (SES)    
+•        intersectionality    
+•        The U.S. Social Class Ladder    
+•        Status Inconsistency    
+•        Feudal System    
+•        Wealth    
+•        Prestige    
+•        Cultural capital    
+•        Social Reproduction    
+•        everyday class consciousness    
+•        Social mobility    
+•        Closed System    
+•        Open System    
+•        Intergenerational mobility    
+•        Intragenerational mobility    
+•        Structural mobility    
+•        Relative and absolute deprivation    
+•        Federal poverty line    
+•        Culture of poverty    
+•        Residential segregation    
+•        Disenfranchisement    
+•        digital divide    
 
 
 ## The least you need to know
 Theoretical perspectives on social class
 
 ![Table 1 from Chapter 7 in the textbook](../images/REALWORLD7_TABLE07.02.jpg "Table 2 from Chapter 7 in the textbook")
-
-
-```{dropdown} :fa:`eye,mr-1` Bottom-left panel
-Hidden content
-```

@@ -169,3 +169,28 @@ We will use the documentary film [American Factory 美国工𠂆](https://www.ne
 Theoretical perspectives on social class
 
 ![Table 1 from Chapter 7 in the textbook](../images/REALWORLD7_TABLE07.02.jpg "Table 2 from Chapter 7 in the textbook")
+
+
+````{panels}
+Content of the top-left panel
+
+---
+
+Content of the top-right panel
+
+{badge}`example,badge-primary`
+
+---
+
+```{dropdown} :fa:`eye,mr-1` Bottom-left panel
+Hidden content
+```
+
+---
+
+```{link-button} https://example.com
+:text: Clickable Panel
+:classes: stretched-link
+```
+
+````

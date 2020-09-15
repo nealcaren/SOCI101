@@ -28,8 +28,18 @@ By the end of this lesson, you will be able to:
 
 
 ## Watch
-* [Class Lecture](https://unc.zoom.us/j/96531859232) Live on Tuesday at 9:45am.
-[![Zoom](https://cuit.columbia.edu/sites/default/files/styles/cu_crop/public/content/zoom-logo-transparent-6.png?itok=PJk3QEss)](https://unc.zoom.us/j/96531859232)
+
+* Class Lecture
+Recorded Tuesday, 9/15.  [Slides](https://www.dropbox.com/s/4k19dgq25cf2g8y/deviance.pptx?dl=1)
+
+<iframe
+    width="400"
+    height="300"
+    src="https://media.unc.edu/w/O0wCAA/"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
 
 * [Deviance](https://www.youtube.com/watch?v=BGq9zW9w3Fw)
 

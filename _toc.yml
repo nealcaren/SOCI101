@@ -1,35 +1,45 @@
 - file: index
-- header: Getting Started
-- file: /syllabus/overview
-- file: /syllabus/schedule
-- file: /syllabus/assignments
-- file: /syllabus/technology
-- file: /syllabus/code-of-conduct
-- file: /syllabus/faq
-- file: /syllabus/checklist
-- file: /syllabus/meetings
-- file: /syllabus/staff
-
-- header: Lessons
-- file: /lessons/about
-- file: /lessons/real-world
-- file: /lessons/culture
-- file: /lessons/socialization
-- file: /lessons/groups
-- file: /lessons/deviance
-- file: /lessons/class
-- file: /lessons/exam1
 
 
-- header: Applications
-- file: /applications/about
-- file: /applications/families
-- file: /applications/breach
-- file: /applications/snap
-- file: /applications/dotmap
-- file: /applications/bechdel
-- file: /applications/studydesign
-- file: /applications/education
+- part: Getting Started
+  chapters:
+  - file: /syllabus/overview
+  - file: /syllabus/schedule
+  - file: /syllabus/assignments
+  - file: /syllabus/technology
+  - file: /syllabus/code-of-conduct
+  - file: /syllabus/faq
+  - file: /syllabus/checklist
+  - file: /syllabus/meetings
+  - file: /syllabus/staff
 
-- header: Credits
-- file: /syllabus/credits
+
+- part: Lessons
+  chapters:
+  - file: /lessons/about
+  - file: /lessons/real-world
+  - file: /lessons/culture
+  - file: /lessons/socialization
+  - file: /lessons/groups
+  - file: /lessons/deviance
+  - file: /lessons/class
+  - file: /lessons/exam1
+
+
+
+- part: Applications
+  chapters:
+  - file: /applications/about
+  - file: /applications/families
+  - file: /applications/breach
+  - file: /applications/snap
+  - file: /applications/dotmap
+  - file: /applications/bechdel
+  - file: /applications/studydesign
+  - file: /applications/education
+
+
+
+- part: Credits
+  chapters:
+  - file: /syllabus/credits

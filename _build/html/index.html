@@ -2,9 +2,10 @@
 
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
   <head>
     <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Sociology 101 &#8212; Sociology 101</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha384-KA6wR/X5RY4zFAHpv/CnoG2UW1uogYfdnP67Uv7eULvTveboZJg0qUpmJZb5VqzN" crossorigin="anonymous">
     <link href="_static/css/index.css" rel="stylesheet">
@@ -13,9 +14,9 @@
     <link rel="stylesheet" type="text/css" href="_static/togglebutton.css" />
     <link rel="stylesheet" type="text/css" href="_static/copybutton.css" />
     <link rel="stylesheet" type="text/css" href="_static/mystnb.css" />
-    <link rel="stylesheet" type="text/css" href="_static/jupyter-sphinx.css" />
+    <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css" />
+    <link rel="stylesheet" type="text/css" href="_static/sphinx-dropdown.css" />
     <script id="documentation_options" data-url_root="./" src="_static/documentation_options.js"></script>
-    <script src="_static/sphinx-book-theme.js"></script>
     <script src="_static/jquery.js"></script>
     <script src="_static/underscore.js"></script>
     <script src="_static/doctools.js"></script>
@@ -23,11 +24,17 @@
     <script src="_static/togglebutton.js"></script>
     <script src="_static/clipboard.min.js"></script>
     <script src="_static/copybutton.js"></script>
-    <script src="_static/mystnb.js"></script>
     <script src="_static/sphinx-book-theme.js"></script>
     <script >var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.4/require.min.js"></script>
-    <script src="https://unpkg.com/@jupyter-widgets/html-manager@^0.18.0/dist/embed-amd.js"></script>
+    <script async="async" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    <script type="text/x-mathjax-config">MathJax.Hub.Config({"tex2jax": {"inlineMath": [["\\(", "\\)"]], "displayMath": [["\\[", "\\]"]], "processRefs": false, "processEnvironments": false}})</script>
+    <script async="async" src="https://unpkg.com/thebelab@latest/lib/index.js"></script>
+    <script >
+        const thebe_selector = ".thebe"
+        const thebe_selector_input = "pre"
+        const thebe_selector_output = ".output"
+    </script>
+    <script async="async" src="_static/sphinx-thebe.js"></script>
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
     <link rel="next" title="Overview" href="syllabus/overview.html" />
@@ -63,99 +70,172 @@
 </form>
 
 <nav class="bd-links" id="bd-docs-nav" aria-label="Main navigation">
-  
   <ul class="nav sidenav_l1">
-<li class="navbar-special">
-<p class="margin-caption">Getting Started</p>
-</li>
-  <li class="">
-    <a href="syllabus/overview.html">Overview</a>
-  </li>
-  <li class="">
-    <a href="syllabus/schedule.html">Schedule</a>
-  </li>
-  <li class="">
-    <a href="syllabus/assignments.html">Assignment Types</a>
-  </li>
-  <li class="">
-    <a href="syllabus/technology.html">Technology</a>
-  </li>
-  <li class="">
-    <a href="syllabus/code-of-conduct.html">Code of Conduct</a>
-  </li>
-  <li class="">
-    <a href="syllabus/faq.html">Frequently Asked Questions</a>
-  </li>
-  <li class="">
-    <a href="syllabus/checklist.html">First Week Checklist</a>
-  </li>
-  <li class="">
-    <a href="syllabus/meetings.html">Student meetings</a>
-  </li>
-  <li class="">
-    <a href="syllabus/staff.html">Staff</a>
-  </li>
-<li class="navbar-special">
-<p class="margin-caption">Lessons</p>
-</li>
-  <li class="">
-    <a href="lessons/about.html">Introduction</a>
-  </li>
-  <li class="">
-    <a href="lessons/real-world.html">Sociological Perspectives</a>
-  </li>
-  <li class="">
-    <a href="lessons/culture.html">Culture</a>
-  </li>
-  <li class="">
-    <a href="lessons/socialization.html">Socialization</a>
-  </li>
-  <li class="">
-    <a href="lessons/groups.html">Groups</a>
-  </li>
-  <li class="">
-    <a href="lessons/deviance.html">Deviance</a>
-  </li>
-  <li class="">
-    <a href="lessons/class.html">Social class</a>
-  </li>
-  <li class="">
-    <a href="lessons/exam1.html">Exam 1</a>
-  </li>
-<li class="navbar-special">
-<p class="margin-caption">Applications</p>
-</li>
-  <li class="">
-    <a href="applications/about.html">Introduction</a>
-  </li>
-  <li class="">
-    <a href="applications/families.html">Families on Television</a>
-  </li>
-  <li class="">
-    <a href="applications/breach.html">Breaching</a>
-  </li>
-  <li class="">
-    <a href="applications/snap.html">SNAP Challenge</a>
-  </li>
-  <li class="">
-    <a href="applications/dotmap.html">Racial Dot Map</a>
-  </li>
-  <li class="">
-    <a href="applications/bechdel.html">Bechdel Test</a>
-  </li>
-  <li class="">
-    <a href="applications/studydesign.html">Study Design</a>
-  </li>
-  <li class="">
-    <a href="applications/education.html">Education</a>
-  </li>
-<li class="navbar-special">
-<p class="margin-caption">Credits</p>
-</li>
-  <li class="">
-    <a href="syllabus/credits.html">Credits</a>
-  </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="#">
+   Sociology 101
+  </a>
+ </li>
 </ul>
+<p class="caption">
+ <span class="caption-text">
+  Getting Started
+ </span>
+</p>
+<ul class="nav sidenav_l1">
+ <li class="toctree-l1">
+  <a class="reference internal" href="syllabus/overview.html">
+   Overview
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="syllabus/schedule.html">
+   Schedule
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="syllabus/assignments.html">
+   Assignment Types
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="syllabus/technology.html">
+   Technology
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="syllabus/code-of-conduct.html">
+   Code of Conduct
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="syllabus/faq.html">
+   Frequently Asked Questions
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="syllabus/checklist.html">
+   First Week Checklist
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="syllabus/meetings.html">
+   Student meetings
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="syllabus/staff.html">
+   Staff
+  </a>
+ </li>
+</ul>
+<p class="caption">
+ <span class="caption-text">
+  Lessons
+ </span>
+</p>
+<ul class="nav sidenav_l1">
+ <li class="toctree-l1">
+  <a class="reference internal" href="lessons/about.html">
+   Introduction
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="lessons/real-world.html">
+   Sociological Perspectives
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="lessons/culture.html">
+   Culture
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="lessons/socialization.html">
+   Socialization
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="lessons/groups.html">
+   Groups
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="lessons/deviance.html">
+   Deviance
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="lessons/class.html">
+   Social class
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="lessons/exam1.html">
+   Exam 1
+  </a>
+ </li>
+</ul>
+<p class="caption">
+ <span class="caption-text">
+  Applications
+ </span>
+</p>
+<ul class="nav sidenav_l1">
+ <li class="toctree-l1">
+  <a class="reference internal" href="applications/about.html">
+   Introduction
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="applications/families.html">
+   Families on Television
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="applications/breach.html">
+   Breaching
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="applications/snap.html">
+   SNAP Challenge
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="applications/dotmap.html">
+   Racial Dot Map
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="applications/bechdel.html">
+   Bechdel Test
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="applications/studydesign.html">
+   Study Design
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="applications/education.html">
+   Education
+  </a>
+ </li>
+</ul>
+<p class="caption">
+ <span class="caption-text">
+  Credits
+ </span>
+</p>
+<ul class="nav sidenav_l1">
+ <li class="toctree-l1">
+  <a class="reference internal" href="syllabus/credits.html">
+   Credits
+  </a>
+ </li>
+</ul>
+
 </nav>
 
  <!-- To handle the deprecated key -->
@@ -212,15 +292,15 @@
         <!-- Launch buttons -->
 
     </div>
+
+    <!-- Table of contents -->
     <div class="d-none d-md-block col-md-2 bd-toc show">
-
-<nav id="bd-toc-nav">
-    <ul class="nav section-nav flex-column">
-    
-    </ul>
-</nav>
-
-
+        <div class="tocsection onthispage pt-5 pb-3">
+            <i class="fas fa-list"></i> Contents
+        </div>
+        <nav id="bd-toc-nav">
+            
+        </nav>
     </div>
 </div>
     <div id="main-content" class="row">
@@ -243,6 +323,25 @@
 </div>
 </div>
 
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            kernelName: "python3",
+            path: "./."
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
 
               </div>
               

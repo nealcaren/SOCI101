@@ -136,33 +136,33 @@ We will use the documentary film [American Factory 美国工𠂆](https://www.ne
 
 ## Lesson Keywords
 
-•        Social stratification
-•        social inequality
-•        caste system
-•        apartheid
-•        Social class
-•        socioeconomic status (SES)
-•        intersectionality
-•        The U.S. Social Class Ladder
-•        Status Inconsistency
-•        Feudal System
-•        Wealth
-•        Prestige
-•        Cultural capital
-•        Social Reproduction
-•        everyday class consciousness,
-•        Social mobility
-•        Closed System
-•        Open System
-•        Intergenerational mobility
-•        Intragenerational mobility
-•        Structural mobility
-•        Relative and absolute deprivation
-•        Federal poverty line
-•        Culture of poverty
-•        Residential segregation
-•        Disenfranchisement
-•        digital divide.
+•        Social stratification    
+•        social inequality    
+•        caste system    
+•        apartheid    
+•        Social class    
+•        socioeconomic status (SES)    
+•        intersectionality    
+•        The U.S. Social Class Ladder    
+•        Status Inconsistency    
+•        Feudal System    
+•        Wealth    
+•        Prestige    
+•        Cultural capital    
+•        Social Reproduction    
+•        everyday class consciousness    
+•        Social mobility    
+•        Closed System    
+•        Open System    
+•        Intergenerational mobility    
+•        Intragenerational mobility    
+•        Structural mobility    
+•        Relative and absolute deprivation    
+•        Federal poverty line    
+•        Culture of poverty    
+•        Residential segregation    
+•        Disenfranchisement    
+•        digital divide    
 
 
 ## The least you need to know

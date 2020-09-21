@@ -43,4 +43,4 @@ If you have never used InQuizitive before, I highly recommend that you complete 
 {doc}`Student meetings  <../syllabus/meetings>`  happen on Zoom.
 
 ## Email
-Always feel free to reach me at [neal.caren@unc.edu](mail:neal.caren@unc.edu).
+Always feel free to reach me at [neal.caren@unc.edu](mailto:neal.caren@unc.edu).

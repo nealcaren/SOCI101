@@ -2,9 +2,10 @@
 
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
   <head>
     <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Staff &#8212; Sociology 101</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha384-KA6wR/X5RY4zFAHpv/CnoG2UW1uogYfdnP67Uv7eULvTveboZJg0qUpmJZb5VqzN" crossorigin="anonymous">
     <link href="../_static/css/index.css" rel="stylesheet">
@@ -13,9 +14,9 @@
     <link rel="stylesheet" type="text/css" href="../_static/togglebutton.css" />
     <link rel="stylesheet" type="text/css" href="../_static/copybutton.css" />
     <link rel="stylesheet" type="text/css" href="../_static/mystnb.css" />
-    <link rel="stylesheet" type="text/css" href="../_static/jupyter-sphinx.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/sphinx-thebe.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/sphinx-dropdown.css" />
     <script id="documentation_options" data-url_root="../" src="../_static/documentation_options.js"></script>
-    <script src="../_static/sphinx-book-theme.js"></script>
     <script src="../_static/jquery.js"></script>
     <script src="../_static/underscore.js"></script>
     <script src="../_static/doctools.js"></script>
@@ -23,11 +24,17 @@
     <script src="../_static/togglebutton.js"></script>
     <script src="../_static/clipboard.min.js"></script>
     <script src="../_static/copybutton.js"></script>
-    <script src="../_static/mystnb.js"></script>
     <script src="../_static/sphinx-book-theme.js"></script>
     <script >var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.4/require.min.js"></script>
-    <script src="https://unpkg.com/@jupyter-widgets/html-manager@^0.18.0/dist/embed-amd.js"></script>
+    <script async="async" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    <script type="text/x-mathjax-config">MathJax.Hub.Config({"tex2jax": {"inlineMath": [["\\(", "\\)"]], "displayMath": [["\\[", "\\]"]], "processRefs": false, "processEnvironments": false}})</script>
+    <script async="async" src="https://unpkg.com/thebelab@latest/lib/index.js"></script>
+    <script >
+        const thebe_selector = ".thebe"
+        const thebe_selector_input = "pre"
+        const thebe_selector_output = ".output"
+    </script>
+    <script async="async" src="../_static/sphinx-thebe.js"></script>
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
     <link rel="next" title="Introduction" href="../lessons/about.html" />
@@ -64,99 +71,172 @@
 </form>
 
 <nav class="bd-links" id="bd-docs-nav" aria-label="Main navigation">
-  
   <ul class="nav sidenav_l1">
-<li class="navbar-special">
-<p class="margin-caption">Getting Started</p>
-</li>
-  <li class="">
-    <a href="overview.html">Overview</a>
-  </li>
-  <li class="">
-    <a href="schedule.html">Schedule</a>
-  </li>
-  <li class="">
-    <a href="assignments.html">Assignment Types</a>
-  </li>
-  <li class="">
-    <a href="technology.html">Technology</a>
-  </li>
-  <li class="">
-    <a href="code-of-conduct.html">Code of Conduct</a>
-  </li>
-  <li class="">
-    <a href="faq.html">Frequently Asked Questions</a>
-  </li>
-  <li class="">
-    <a href="checklist.html">First Week Checklist</a>
-  </li>
-  <li class="">
-    <a href="meetings.html">Student meetings</a>
-  </li>
-  <li class="active">
-    <a href="">Staff</a>
-  </li>
-<li class="navbar-special">
-<p class="margin-caption">Lessons</p>
-</li>
-  <li class="">
-    <a href="../lessons/about.html">Introduction</a>
-  </li>
-  <li class="">
-    <a href="../lessons/real-world.html">Sociological Perspectives</a>
-  </li>
-  <li class="">
-    <a href="../lessons/culture.html">Culture</a>
-  </li>
-  <li class="">
-    <a href="../lessons/socialization.html">Socialization</a>
-  </li>
-  <li class="">
-    <a href="../lessons/groups.html">Groups</a>
-  </li>
-  <li class="">
-    <a href="../lessons/deviance.html">Deviance</a>
-  </li>
-  <li class="">
-    <a href="../lessons/class.html">Social class</a>
-  </li>
-  <li class="">
-    <a href="../lessons/exam1.html">Exam 1</a>
-  </li>
-<li class="navbar-special">
-<p class="margin-caption">Applications</p>
-</li>
-  <li class="">
-    <a href="../applications/about.html">Introduction</a>
-  </li>
-  <li class="">
-    <a href="../applications/families.html">Families on Television</a>
-  </li>
-  <li class="">
-    <a href="../applications/breach.html">Breaching</a>
-  </li>
-  <li class="">
-    <a href="../applications/snap.html">SNAP Challenge</a>
-  </li>
-  <li class="">
-    <a href="../applications/dotmap.html">Racial Dot Map</a>
-  </li>
-  <li class="">
-    <a href="../applications/bechdel.html">Bechdel Test</a>
-  </li>
-  <li class="">
-    <a href="../applications/studydesign.html">Study Design</a>
-  </li>
-  <li class="">
-    <a href="../applications/education.html">Education</a>
-  </li>
-<li class="navbar-special">
-<p class="margin-caption">Credits</p>
-</li>
-  <li class="">
-    <a href="credits.html">Credits</a>
-  </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../index.html">
+   Sociology 101
+  </a>
+ </li>
 </ul>
+<p class="caption">
+ <span class="caption-text">
+  Getting Started
+ </span>
+</p>
+<ul class="current nav sidenav_l1">
+ <li class="toctree-l1">
+  <a class="reference internal" href="overview.html">
+   Overview
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="schedule.html">
+   Schedule
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="assignments.html">
+   Assignment Types
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="technology.html">
+   Technology
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="code-of-conduct.html">
+   Code of Conduct
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="faq.html">
+   Frequently Asked Questions
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="checklist.html">
+   First Week Checklist
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="meetings.html">
+   Student meetings
+  </a>
+ </li>
+ <li class="toctree-l1 current active">
+  <a class="current reference internal" href="#">
+   Staff
+  </a>
+ </li>
+</ul>
+<p class="caption">
+ <span class="caption-text">
+  Lessons
+ </span>
+</p>
+<ul class="nav sidenav_l1">
+ <li class="toctree-l1">
+  <a class="reference internal" href="../lessons/about.html">
+   Introduction
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../lessons/real-world.html">
+   Sociological Perspectives
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../lessons/culture.html">
+   Culture
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../lessons/socialization.html">
+   Socialization
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../lessons/groups.html">
+   Groups
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../lessons/deviance.html">
+   Deviance
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../lessons/class.html">
+   Social class
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../lessons/exam1.html">
+   Exam 1
+  </a>
+ </li>
+</ul>
+<p class="caption">
+ <span class="caption-text">
+  Applications
+ </span>
+</p>
+<ul class="nav sidenav_l1">
+ <li class="toctree-l1">
+  <a class="reference internal" href="../applications/about.html">
+   Introduction
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../applications/families.html">
+   Families on Television
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../applications/breach.html">
+   Breaching
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../applications/snap.html">
+   SNAP Challenge
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../applications/dotmap.html">
+   Racial Dot Map
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../applications/bechdel.html">
+   Bechdel Test
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../applications/studydesign.html">
+   Study Design
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../applications/education.html">
+   Education
+  </a>
+ </li>
+</ul>
+<p class="caption">
+ <span class="caption-text">
+  Credits
+ </span>
+</p>
+<ul class="nav sidenav_l1">
+ <li class="toctree-l1">
+  <a class="reference internal" href="credits.html">
+   Credits
+  </a>
+ </li>
+</ul>
+
 </nav>
 
  <!-- To handle the deprecated key -->
@@ -213,34 +293,37 @@
         <!-- Launch buttons -->
 
     </div>
+
+    <!-- Table of contents -->
     <div class="d-none d-md-block col-md-2 bd-toc show">
-<div class="tocsection onthispage pt-5 pb-3">
-    <i class="fas fa-list"></i> On this page
-</div>
+        <div class="tocsection onthispage pt-5 pb-3">
+            <i class="fas fa-list"></i> Contents
+        </div>
+        <nav id="bd-toc-nav">
+            <ul class="nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#professor-neal-caren">
+   Professor Neal Caren
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#rocio-rosa-lebron">
+   Rocio Rosa-Lebron
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#bethany-stoutamire">
+   Bethany Stoutamire
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#katherine-tait">
+   Katherine Tait
+  </a>
+ </li>
+</ul>
 
-<nav id="bd-toc-nav">
-    <ul class="nav section-nav flex-column">
-    
-        <li class="nav-item toc-entry toc-h2">
-            <a href="#professor-neal-caren" class="nav-link">Professor Neal Caren</a>
-        </li>
-    
-        <li class="nav-item toc-entry toc-h2">
-            <a href="#rocio-rosa-lebron" class="nav-link">Rocio Rosa-Lebron</a>
-        </li>
-    
-        <li class="nav-item toc-entry toc-h2">
-            <a href="#bethany-stoutamire" class="nav-link">Bethany Stoutamire</a>
-        </li>
-    
-        <li class="nav-item toc-entry toc-h2">
-            <a href="#katherine-tait" class="nav-link">Katherine Tait</a>
-        </li>
-    
-    </ul>
-</nav>
-
-
+        </nav>
     </div>
 </div>
     <div id="main-content" class="row">
@@ -275,7 +358,7 @@ cyclocross racing. Pronouns: he/him.</p>
 <div class="section" id="bethany-stoutamire">
 <h2>Bethany Stoutamire<a class="headerlink" href="#bethany-stoutamire" title="Permalink to this headline">¶</a></h2>
 <p><img alt="" src="../_images/stoutbet.png" /></p>
-<p>Bethany Stoutamire is a teaching assistant for the course.</p>
+<p>Bethany Stoutamire is a teaching assistant for the course.  She is a PhD student in the Department of Sociology at UNC-Chapel Hill and a pre-doctoral trainee at the Carolina Population Center. She earned her BA in sociology with a minor in biological sciences from the University of Nebraska-Lincoln.  Her research interests include aging, family formation, natural disasters, and survey research methodology.  When not taking classes or conducting research, Bethany enjoys reading, baking, and Pilates.   Pronouns: she/her</p>
 </div>
 <div class="section" id="katherine-tait">
 <h2>Katherine Tait<a class="headerlink" href="#katherine-tait" title="Permalink to this headline">¶</a></h2>
@@ -300,6 +383,25 @@ TV shows in this “Golden Age of Television!” Pronouns: she/her.</p>
 </div>
 </div>
 
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            kernelName: "python3",
+            path: "./syllabus"
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
 
               </div>
               

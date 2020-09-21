@@ -7,7 +7,7 @@ Social safety net programs are one way to combat economic inequality. These prog
 
 - Approximately 15% of North Carolina residents receive SNAP benefits. In this assignment, you will assume that you have a SNAP allotment of $121 per month/per person (the North Carolina average) for you and your 10-year old child for a total of $240 a month.
 - Based on your _$60 per week food budget,_ take a trip to your local grocery store (either online or in person) to plan a week of meals for yourself and your child. Make certain you allot yourself the amount of food you typically eat. As a reminder, the recommended daily calories for a 10 year old are 1,400-1,800 and an adult are 1,800-2,600.
-- Your analysis should include a grocery list (including the cost of each item) and one week&#39;s menu (including the total calories for each meal) as in the following example:
+- Your analysis should include a grocery list (including the cost of each item) and one week's menu (including the total calories for each meal) as in the following example:
 
 **Grocery list:**
 
@@ -32,9 +32,9 @@ _Day Two:_...
 
 ## Requirements
 
-* One page reflection on experiences.
 * Grocery list, including items and cost.  
 * Meal plan for one week for one adult and one child.
+* One paragraph reflection on experiences.
 * No late assignments will be accepted.
 
 ## Grading

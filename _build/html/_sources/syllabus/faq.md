@@ -139,16 +139,16 @@ How is the final grade determined?
 
 The final grade is based on the following elements:
 
-|Assignment  | Opportunities  |   Graded  |   % of Course Grade |
-|---|---|---|---|
-|Applications  |    7         |       5  |       20 |
-|Case Studies |      6      |          5    |     15 |
-|InQuizitive    |   12     |          10    |    15 |
-|Film Responses  |   12     |          10     |   15 |
-|Exam 1      |      1       |         1     |    10 |
-|Exam 2    |        1       |         1     |    10 |
-|Exam 3      |      1     |           1   |      15 |
-|              |  |              |           100 |
+| Assignment     | Opportunities  | Graded | % of Course Grade |
+|----------------|----------------|------------------|-------------------|
+| Applications   | 7              | 5                | 20                |
+| Case Studies   | 6              | 5                | 15                |
+| InQuizitive    | 12             | 10               | 15                |
+| Film Responses | 12             | 10               | 15                |
+| Midterm         | 1              | 1                | 15                |
+| Final Exam        | 1              | 1                | 20                |
+|                |                |                  |                   |
+|                |                |                  | 100               |
 
 
 

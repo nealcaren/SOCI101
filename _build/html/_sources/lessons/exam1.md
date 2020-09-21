@@ -1,6 +1,6 @@
 # Exam 1
 
-The midterm exam is Thursday, September 28th during class.
+The midterm exam is Thursday, October 1st.
 
 
 The exam is multiple-choice and administered on Sakai. There are three

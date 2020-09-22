@@ -14,7 +14,7 @@ The plan for the semester is the {ref}`lesson-schedule`. Different assignments a
 | 9/14  | {doc}`Deviance    <../lessons/deviance>`                           | 6          | Circle of Books  | InQuizitive; Marijuana case study, Film response    |
 | 9/21  | {doc}`Social Class      <../lessons/class>`                  | 7          | American Factory 美国工𠂆  | InQuizitive; SNAP application, Film response           |
 | 9/28 | Exam                             |            |                            | Cohabit case study; Exam is Thursday 10/1                             |
-| 10/5  | Race and Ethnicity               | 8          | Strong Island  | InQuizitive; Map application, Film response            |
+| 10/5  | {doc}`Race and Ethnicity <../lessons/race>`              | 8          | Strong Island  | InQuizitive; Map application, Film response            |
 | 10/12  | Gender and Sexuality             | 9          | Pushout  | InQuizitive; Bechdel application, Film response        |
 | 10/19 | Research Methods                 | 2          | TBA  | InQuizitive; Study Design application, Film response   |
 | 10/26 | Politics, Education and Religion | 10         | We Are The Radical Monarchs  | InQuizitive; Education application, Film response      |

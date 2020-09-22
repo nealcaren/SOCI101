@@ -1,29 +1,28 @@
-![Picture from book](../images/REALWORLD7_FIG07_CO.jpg)
+![Picture from book](../images/REALWORLD7_FIG08_CO.jpg)
 
-# Social class
+# Race and Ethnicity
 
-In this lesson, we will examine the stratification phenomenon that occurs in all human societies, our own included. Despite rhetorical claims about equality of opportunity for all, America is a profoundly hierarchical society, with the benefits and rewards of living here unequally distributed among its people. A sociological perspective on stratification will increase your understanding in several essential ways. First, it will help you recognize inequities in places you may have overlooked, such as your own town, neighborhood, or school. Second, it will help you consider how social divisions and hierarchies of privilege and disadvantage appear across many of our institutions; access to health care, the justice system, employment, and housing are all governed by structures of inequality. Third, it should enable you to identify your place in these social arrangements and see how your position (or your family’s position) in certain hierarchies has shaped your life chances. Finally, a knowledge of stratification may help you play a role in changing systems of inequality.
+Central to the sociology is the understanding that race and ethnicity are socially constructed categories. While each is based on traits we may see as biological, such as skin color or facial features, the meanings attached to race and ethnicity are created, maintained, and modified over time through social processes in which we all take part. When a society categorizes people based on their race and ethnicity (and all do), it creates a system of stratification that leads to inequality. Society’s resources—wealth, power, privilege, opportunity—are distributed according to these categories, thereby perpetuating inequalities that are all too familiar here in the United States. In this lesson, you will also come to understand the importance of race and ethnicity in forming individual identity. Our racial and ethnic identities have profound effects on our sense of self, and our bonds to other people may be based on shared identities—or may transcend those categories entirely.
 
 ## Learning Objectives
 
-By the end of this lesson, you will be able to:   
-• Understand systems of social mobility and stratification.    
-• Describe social classes in the United States.    
-• Differentiate theoretical perspectives on social stratification.    
-• Apply appropriate research methods to understanding food insecurity.    
+By the end of this lesson, you will be able to:     
+• Understand central concepts in the sociology of race and ethnicity and how major sociological perspectives view race and ethnicity.    
+• Describe the impact of racism on life chances.    
+• Apply appropriate research methods for cultural depictions of gender.    
 
 
 ## Deadlines
 
 ```{admonition} Be sure to hand these in before the deadline
-* [InQuizitive Chapter Set 7](https://sakai.unc.edu/access/basiclti/site/3bab92f4-af18-42cb-bc83-86c9231667b2/efa9f5ff-20ce-4836-b60d-1b22ce9bce1a) (Thursday at 9:30am)
-* [SNAP Challenge application](https://soci101.org/applications/snap.html) (Sunday at 11:55pm)
+* [InQuizitive Chapter Set 8](https://sakai.unc.edu/access/basiclti/site/3bab92f4-af18-42cb-bc83-86c9231667b2/efa9f5ff-20ce-4836-b60d-1b22ce9bce1a) (Thursday at 9:30am)
+* [Racial Dot Map application](https://soci101.org/applications/dotmap.html) (Sunday at 11:55pm)
 * American Factory 美国工𠂆 reflection (Sunday at 11:55pm)
 
 ```
 
 ## Read
-* '[Social Class](https://ncia.wwnorton.com/87056)', Chapter 7 in Real World
+* '[Race and Ethnicity](https://ncia.wwnorton.com/87056/r/goto/cfi/148!/4)', Chapter 8 in Real World
 
 ![Textbook cover](https://cdn.wwnorton.com/dam_booktitles/733/img/cover/9780393419337_300.jpeg)
 
@@ -34,12 +33,7 @@ By the end of this lesson, you will be able to:
 [![Zoom](https://cuit.columbia.edu/sites/default/files/styles/cu_crop/public/content/zoom-logo-transparent-6.png?itok=PJk3QEss)](https://unc.zoom.us/j/96531859232)
 
 
-CC:
-
-"
-
-
-* [Social Stratification](https://www.youtube.com/watch?v=SlkIKCMt-Fs)
+* [Race & Ethnicity](https://www.youtube.com/watch?v=7myLgdZhzjo)
 
 
 
@@ -47,7 +41,7 @@ CC:
 <iframe
     width="400"
     height="300"
-    src="https://www.youtube.com/embed/SlkIKCMt-Fs"
+    src="https://www.youtube.com/embed/7myLgdZhzjo"
     frameborder="0"
     allowfullscreen
 ></iframe>
@@ -56,67 +50,31 @@ CC:
 
 
 
-* [Why Is There Social Stratification?](https://www.youtube.com/watch?v=RtxtI5IGrfw)
+* [Racial/Ethnic Prejudice & Discrimination](https://www.youtube.com/watch?v=gSddUPkVD24)
 
 
 <iframe
     width="400"
     height="300"
-    src="https://www.youtube.com/embed/RtxtI5IGrfw"
+    src="https://www.youtube.com/embed/gSddUPkVD24"
     frameborder="0"
     allowfullscreen
 ></iframe>
 
-
-
-
-* [Social Stratification in the US](https://www.youtube.com/watch?v=DeiHz5tzlws)
-
-
-<iframe
-    width="400"
-    height="300"
-    src="https://www.youtube.com/embed/DeiHz5tzlws"
-    frameborder="0"
-    allowfullscreen
-></iframe>
-
-
-* [Social Class & Poverty in the US](https://www.youtube.com/watch?v=c8PEv5SV4sU)
-
-
-<iframe
-    width="400"
-    height="300"
-    src="https://www.youtube.com/embed/c8PEv5SV4sU"
-    frameborder="0"
-    allowfullscreen
-></iframe>
-
-
-* [The Impacts of Social Class](https://www.youtube.com/watch?v=0a21mndoORE)
-
-<iframe
-    width="400"
-    height="300"
-    src="https://www.youtube.com/embed/0a21mndoORE"
-    frameborder="0"
-    allowfullscreen
-></iframe>
 
 
 
 
 ## Discuss (Thursday during class):
-### American Factory 美国工𠂆
+### Strong Island
 
-![Image from film](https://flxt.tmsimg.com/assets/p16791268_v_h10_aa.jpg)
+![Image from film](https://flxt.tmsimg.com/assets/p13925270_v_h10_aa.jpg)
 
-> American Factory 美国工𠂆 documents the revitalization of one long-shuttered factory in Dayton, Ohio, while providing a startling glimpse into the economic overhaul happening in towns and cities across the country — and the world. [link](https://americanfactoryfilm.com)
+> Strong Island chronicles the arc of a family across history, geography and tragedy - from the racial segregation of the Jim Crow South to the promise of New York City; from the presumed safety of middle class suburbs, to the maelstrom of an unexpected, violent death. It is the story of the Ford family: Barbara Dunmore, William Ford and their three children and how their lives were shaped by the enduring shadow of race in America. A deeply intimate and meditative film, Strong Island asks what one can do when the grief of loss is entwined with historical injustice, and how one grapples with the complicity of silence, which can bind a family in an imitation of life, and a nation with a false sense of justice. [Official description](https://www.strongislandfilm.com)
 
 
-We will use the documentary film [American Factory 美国工𠂆](https://www.netflix.com/title/81090071) as an opportunity to explore the sociology of work.  We will watch it together during class.
-* Be sure to have [the movie](https://www.netflix.com/title/81090071) ready to go at the start of class.
+We will use the documentary film [Strong Island](https://www.netflix.com/title/80168230) as an opportunity to explore the sociology of race and ethnicity.  We will watch it together during class.
+* Be sure to have [the movie](https://www.netflix.com/title/80168230) ready to go at the start of class.
 * Login to the course Slack by 9:45am and say hi to your group!
 
 
@@ -136,36 +94,32 @@ We will use the documentary film [American Factory 美国工𠂆](https://www.ne
 
 ## Lesson Keywords
 
-•        Social stratification    
-•        social inequality    
-•        caste system    
-•        apartheid    
-•        Social class    
-•        socioeconomic status (SES)    
-•        intersectionality    
-•        The U.S. Social Class Ladder    
-•        Status Inconsistency    
-•        Feudal System    
-•        Wealth    
-•        Prestige    
-•        Cultural capital    
-•        Social Reproduction    
-•        everyday class consciousness    
-•        Social mobility    
-•        Closed System    
-•        Open System    
-•        Intergenerational mobility    
-•        Intragenerational mobility    
-•        Structural mobility    
-•        Relative and absolute deprivation    
-•        Federal poverty line    
-•        Culture of poverty    
-•        Residential segregation    
-•        Disenfranchisement    
-•        digital divide    
+* race    
+* ethnicity    
+* symbolic & situational ethnicity    
+* minority group    
+* racism    
+* prejudice    
+* discrimination    
+* individual and institutional discrimination    
+* white nationalism    
+* privilege    
+* color-blind racism    
+*  race consciousness    
+*  microaggressions    
+*  Reverse racism    
+*  antiracist allies    
+*  Critical race theory     
+*  passing    
+*   double-consciousness    
+*   embodied identity    
+*   Intersectionality    
+*   Race, Ethnicity, and Life    
+Chances    
+* racial and cultural assimilation    
 
 
 ## The least you need to know
-Theoretical perspectives on social class
+Theoretical perspectives on race
 
-![Table 1 from Chapter 7 in the textbook](../images/REALWORLD7_TABLE07.02.jpg "Table 2 from Chapter 7 in the textbook")
+![Table 1 from Chapter 8 in the textbook](../images/REALWORLD7_TABLE08.01.jpg "Table 1 from Chapter 7 in the textbook")

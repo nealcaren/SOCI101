@@ -7,9 +7,9 @@ Central to the sociology is the understanding that race and ethnicity are social
 ## Learning Objectives
 
 By the end of this lesson, you will be able to:     
-• Understand central concepts in the sociology of race and ethnicity and how major sociological perspectives view race and ethnicity.    
-• Describe the impact of racism on life chances.    
-• Apply appropriate research methods for cultural depictions of gender.    
+* Understand central concepts in the sociology of race and ethnicity and how major sociological perspectives view race and ethnicity.    
+* Describe the impact of racism on life chances.    
+* Apply appropriate research methods for cultural depictions of gender.    
 
 
 ## Deadlines

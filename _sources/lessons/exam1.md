@@ -18,3 +18,16 @@ there will be questions that ask you to make connections between the
 films and course concepts. They don't require detailed knowledge of each
 scene, but be sure to be familiar with the major themes of each film
 shown.
+
+
+
+* Class Lecture
+Recorded Tuesday, 9/29.  [Slides](https://www.dropbox.com/s/jum1az0hn3q7jir/SOCI%20101%20Exam%20Review.pptx?dl=1)
+
+<iframe
+    width="400"
+    height="300"
+    src="https://media.unc.edu/w/43MCAA/"
+    frameborder="0"
+    allowfullscreen
+></iframe>

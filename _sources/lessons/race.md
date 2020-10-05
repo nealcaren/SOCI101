@@ -17,7 +17,7 @@ By the end of this lesson, you will be able to:
 ```{admonition} Be sure to hand these in before the deadline
 * [InQuizitive Chapter Set 8](https://sakai.unc.edu/access/basiclti/site/3bab92f4-af18-42cb-bc83-86c9231667b2/efa9f5ff-20ce-4836-b60d-1b22ce9bce1a) (Thursday at 9:30am)
 * [Racial Dot Map application](https://soci101.org/applications/dotmap.html) (Sunday at 11:55pm)
-* American Factory 美国工𠂆 reflection (Sunday at 11:55pm)
+* Strong Island reflection (Sunday at 11:55pm)
 
 ```
 

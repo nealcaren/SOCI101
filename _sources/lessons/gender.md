@@ -129,4 +129,4 @@ life chances
 ## The least you need to know
 Theoretical perspectives on gender
 
-![Table 1 from Chapter 9 in the textbook](../images/REALWORLD7_TABLE09.01.jpg "Table 1 from Chapter 9 in the textbook")
+![Table 1 from Chapter 9 in the textbook](../images/REALWORLD7_TABLE09.02.jpg "Table 2 from Chapter 9 in the textbook")

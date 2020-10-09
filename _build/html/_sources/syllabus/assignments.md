@@ -31,7 +31,7 @@ For each film that we watch in class, you are expected to participate in course 
 
 (exams)=
 ## Exams  
-**(45% of course grade)**  
+**(35% of course grade)**  
 The course has three exams: two during the semester and a final. Exams are multiple-choice and administered through Sakai. Exams during the semester are taken Thursday during class time. Those with registered accommodations will be provided additional times. The final exam will be cumulative.
 
 ## Weekly deadlines

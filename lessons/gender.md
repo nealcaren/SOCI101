@@ -60,12 +60,12 @@ By the end of this lesson, you will be able to:
 ></iframe>
 
 
-* [Theories of Gender](https://www.youtube.com/watch?v=Kqt-_ILgv5c)
+* [Theories of Gender](https://www.youtube.com/watch?v=CquRz_cceH8)
 
 <iframe
     width="400"
     height="300"
-    src="https://www.youtube.com/embed/Kqt-_ILgv5c
+    src="https://www.youtube.com/embed/CquRz_cceH8"
     frameborder="0"
     allowfullscreen
 ></iframe>

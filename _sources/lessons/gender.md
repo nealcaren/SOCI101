@@ -1,28 +1,32 @@
-![Picture from book](../images/REALWORLD7_FIG08_CO.jpg)
+![Picture from book](../images/REALWORLD7_FIG09_CO.jpg)
 
-# Race and Ethnicity
+# Gender
 
-Central to the sociology is the understanding that race and ethnicity are socially constructed categories. While each is based on traits we may see as biological, such as skin color or facial features, the meanings attached to race and ethnicity are created, maintained, and modified over time through social processes in which we all take part. When a society categorizes people based on their race and ethnicity (and all do), it creates a system of stratification that leads to inequality. Society’s resources—wealth, power, privilege, opportunity—are distributed according to these categories, thereby perpetuating inequalities that are all too familiar here in the United States. In this lesson, you will also come to understand the importance of race and ethnicity in forming individual identity. Our racial and ethnic identities have profound effects on our sense of self, and our bonds to other people may be based on shared identities—or may transcend those categories entirely.
+This lesson focuses on the processes involved in constructing the meanings of genders and sexualities and the real consequences of gender and sexual inequality.  Gender and sexuality are often portrayed as part of our biological inheritance, unchanging, and unchangeable. Sociologists see sex, gender, sexual orientation, and trans identities are status categories that structure social inequality and shape individual identities. We all experience their overlap in our everyday lives. A sociological perspective allows us to see the cultural and environmental influences on what may be considered biologically based identities and lets us identify and critique the stratification systems that have resulted from these influences.
 
 ## Learning Objectives
 
 By the end of this lesson, you will be able to:     
-* Understand central concepts in the sociology of race and ethnicity and how major sociological perspectives view race and ethnicity.    
-* Describe the impact of racism on life chances.    
-* Apply appropriate research methods for cultural depictions of gender.    
+* Understand central concepts in the sociology of gender and sexuality and how major sociological perspectives view gender and sexuality.   
+* Describe major sources of gender socialization and the impact of gender and sexuality on  life chances.    
+* Apply appropriate research methods for cultural depictions of gender.        
 
 
 ## Deadlines
 
 ```{admonition} Be sure to hand these in before the deadline
-* [InQuizitive Chapter Set 8](https://sakai.unc.edu/access/basiclti/site/3bab92f4-af18-42cb-bc83-86c9231667b2/efa9f5ff-20ce-4836-b60d-1b22ce9bce1a) (Thursday at 9:30am)
-* [Racial Dot Map application](https://soci101.org/applications/dotmap.html) (Sunday at 11:55pm)
+
+
+
+
+* [InQuizitive Chapter Set 9](https://sakai.unc.edu/access/basiclti/site/3bab92f4-af18-42cb-bc83-86c9231667b2/efa9f5ff-20ce-4836-b60d-1b22ce9bce1a) (Thursday at 9:30am)
+* [Bechdel Test application](https://soci101.org/applications/bechdel.html) (Sunday at 11:55pm)
 * Strong Island reflection (Sunday at 11:55pm)
 
 ```
 
 ## Read
-* '[Race and Ethnicity](https://ncia.wwnorton.com/87056/r/goto/cfi/148!/4)', Chapter 8 in Real World
+* '[Gender](https://ncia.wwnorton.com/87056)', Chapter 9 in Real World
 
 ![Textbook cover](https://cdn.wwnorton.com/dam_booktitles/733/img/cover/9780393419337_300.jpeg)
 
@@ -33,50 +37,58 @@ By the end of this lesson, you will be able to:
 [![Zoom](https://cuit.columbia.edu/sites/default/files/styles/cu_crop/public/content/zoom-logo-transparent-6.png?itok=PJk3QEss)](https://unc.zoom.us/j/96531859232)
 
 
-* [Race & Ethnicity](https://www.youtube.com/watch?v=7myLgdZhzjo)
 
-
-
+* [Sex & Sexuality](https://www.youtube.com/watch?v=Kqt-_ILgv5c)
 
 <iframe
     width="400"
     height="300"
-    src="https://www.youtube.com/embed/7myLgdZhzjo"
+    src="https://www.youtube.com/embed/Kqt-_ILgv5c"
     frameborder="0"
     allowfullscreen
 ></iframe>
 
 
-
-
-
-* [Racial/Ethnic Prejudice & Discrimination](https://www.youtube.com/watch?v=gSddUPkVD24)
-
+* [Gender Stratification](https://www.youtube.com/watch?v=Yb1_4FPtzrI)
 
 <iframe
     width="400"
     height="300"
-    src="https://www.youtube.com/embed/gSddUPkVD24"
+    src="https://www.youtube.com/embed/Yb1_4FPtzrI"
     frameborder="0"
     allowfullscreen
 ></iframe>
+
+
+* [Theories of Gender](https://www.youtube.com/watch?v=Kqt-_ILgv5c)
+
+<iframe
+    width="400"
+    height="300"
+    src="https://www.youtube.com/embed/Kqt-_ILgv5c
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
 
 
 
 
 
 ## Discuss (Thursday during class):
-### Strong Island
+### Pushout: The Criminalization of Black Girls in Schools
 
-![Image from film](https://flxt.tmsimg.com/assets/p13925270_v_h10_aa.jpg)
+![Image from film](https://pushoutfilm.com/wp-content/uploads/2019/09/pushout-poster.jpg)
 
-> Strong Island chronicles the arc of a family across history, geography and tragedy - from the racial segregation of the Jim Crow South to the promise of New York City; from the presumed safety of middle class suburbs, to the maelstrom of an unexpected, violent death. It is the story of the Ford family: Barbara Dunmore, William Ford and their three children and how their lives were shaped by the enduring shadow of race in America. A deeply intimate and meditative film, Strong Island asks what one can do when the grief of loss is entwined with historical injustice, and how one grapples with the complicity of silence, which can bind a family in an imitation of life, and a nation with a false sense of justice. [Official description](https://www.strongislandfilm.com)
+> Inspired by the groundbreaking book of the same name by Monique W. Morris, Ed.D, PUSHOUT: THE CRIMINALIZATION OF BLACK GIRLS IN SCHOOLS, takes a deep dive into the lives of Black girls and the practices, cultural beliefs and policies that disrupts one of the most important factors in their lives - education. Alarmingly, African American girls are the fastest-growing population in the juvenile justice system and the only group of girls to disproportionately experience criminalization at every education level.
+
+>  The film underscores the challenges Black girls face with insights from multiple experts across the country who have worked extensively in the fields of social and criminal justice, gender equality and educational equity, giving context to the crisis and providing a roadmap for how our educational system and those who interact with Black girls can provide a positive rather than punitive response to behaviors that are often misunderstood or misrepresented. [Official description](https://unc.kanopy.com/video/pushout-criminalization-black-girls-school-1)
 
 
-We will use the documentary film [Strong Island](https://www.netflix.com/title/80168230) as an opportunity to explore the sociology of race and ethnicity.  We will watch it together during class.
-* Be sure to have [the movie](https://www.netflix.com/title/80168230) ready to go at the start of class.
-* Login to the course Slack by 9:45am and say hi to your group!
-
+We will use the documentary film [Pushout](https://unc.kanopy.com/video/pushout-criminalization-black-girls-school-1) as an opportunity to explore the sociology of gender.  We will watch it together during class.
+* Be sure to have [the movie](https://unc.kanopy.com/video/pushout-criminalization-black-girls-school-1) ready to go at the start of class.
+* We will start the movie at 9:45am promptly!
 
 
 
@@ -94,32 +106,27 @@ We will use the documentary film [Strong Island](https://www.netflix.com/title/8
 
 ## Lesson Keywords
 
-* race    
-* ethnicity    
-* symbolic & situational ethnicity    
-* minority group    
-* racism    
-* prejudice    
-* discrimination    
-* individual and institutional discrimination    
-* white nationalism    
-* privilege    
-* color-blind racism    
-*  race consciousness    
-*  microaggressions    
-*  Reverse racism    
-*  antiracist allies    
-*  Critical race theory     
-*  passing    
-*   double-consciousness    
-*   embodied identity    
-*   Intersectionality    
-*   Race, Ethnicity, and Life    
-Chances    
-* racial and cultural assimilation    
+* sex
+* gender
+* essentialists
+* constructionist
+* gender binary
+* gender identity
+* cisgender & transgender
+* gender expression
+* sexual orientations or identities
+* gender role socialization
+* heteronormativity
+* rape culture
+*  institutions for gender socialization
+*  microaggression
+*  Gender, sexuality, and
+life chances
+* feminization of poverty
+
 
 
 ## The least you need to know
-Theoretical perspectives on race
+Theoretical perspectives on gender
 
-![Table 1 from Chapter 8 in the textbook](../images/REALWORLD7_TABLE08.01.jpg "Table 1 from Chapter 7 in the textbook")
+![Table 1 from Chapter 9 in the textbook](../images/REALWORLD7_TABLE09.01.jpg "Table 1 from Chapter 9 in the textbook")

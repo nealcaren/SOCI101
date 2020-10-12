@@ -21,7 +21,7 @@ By the end of this lesson, you will be able to:
 
 * [InQuizitive Chapter Set 9](https://sakai.unc.edu/access/basiclti/site/3bab92f4-af18-42cb-bc83-86c9231667b2/efa9f5ff-20ce-4836-b60d-1b22ce9bce1a) (Thursday at 9:30am)
 * [Bechdel Test application](https://soci101.org/applications/bechdel.html) (Sunday at 11:55pm)
-* Knock Down The House reflection (Sunday at 11:55pm)
+* Strong Island reflection (Sunday at 11:55pm)
 
 ```
 
@@ -77,16 +77,20 @@ By the end of this lesson, you will be able to:
 
 
 ## Discuss (Thursday during class):
-### Knock Down The House
+### Pushout: The Criminalization of Black Girls in Schools
 
-![Image from film](https://6ydqa15l8v-flywheel.netdna-ssl.com/wp-content/uploads/2019/05/KnockDowntheHouse_Cover_RGB300_900px-1.gif)
+![Image from film](https://pushoutfilm.com/wp-content/uploads/2019/09/pushout-poster.jpg)
 
-> Knock Down the House is the story of four working-class women who embraced the challenge of running for Congressional office in the 2018 midterm elections. They are four of the record numbers who organized grassroots campaigns, rejected corporate PAC money and challenged the notion that everyday people cannot run successful campaigns against sitting incumbents. Collectively these candidates herald a cultural and political shift to transform the process of running and electing our representatives. Such changes do not occur in a vacuum, nor are they about a singular issue. Rather they are about changing the attitudes, behaviors, terms, and outcomes of existing and entrenched norms and building to- wards a more inclusive and representative government.  [Official description](https://knockdownthehouse.com)
+> Inspired by the groundbreaking book of the same name by Monique W. Morris, Ed.D, PUSHOUT: THE CRIMINALIZATION OF BLACK GIRLS IN SCHOOLS, takes a deep dive into the lives of Black girls and the practices, cultural beliefs and policies that disrupts one of the most important factors in their lives - education. Alarmingly, African American girls are the fastest-growing population in the juvenile justice system and the only group of girls to disproportionately experience criminalization at every education level.
+
+>  The film underscores the challenges Black girls face with insights from multiple experts across the country who have worked extensively in the fields of social and criminal justice, gender equality and educational equity, giving context to the crisis and providing a roadmap for how our educational system and those who interact with Black girls can provide a positive rather than punitive response to behaviors that are often misunderstood or misrepresented. [Official description](https://unc.kanopy.com/video/pushout-criminalization-black-girls-school-1)
 
 
-We will use the documentary film [Knock Down the House](https://www.netflix.com/watch/81080637) as an opportunity to explore the sociology of gender.  We will watch it together during class.
-* Be sure to have [the movie](https://www.netflix.com/watch/81080637) ready to go at the start of class. It is available on Netflix.
-* We will start the movie at 9:50am promptly!
+We will use the documentary film [Pushout](https://unc.kanopy.com/video/pushout-criminalization-black-girls-school-1) as an opportunity to explore the sociology of gender.  We will watch it together during class.
+* Be sure to have [the movie](https://unc.kanopy.com/video/pushout-criminalization-black-girls-school-1) ready to go at the start of class.
+* We will start the movie at 9:45am promptly!
+
+
 
 
 

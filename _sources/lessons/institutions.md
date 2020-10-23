@@ -41,8 +41,8 @@ By the end of this lesson, you will be able to:
 
 
 <iframe
-    width="400"
-    height="300"
+width="600"
+height="450"
     src="https://www.youtube.com/embed/TCs_hyI15R8"
     frameborder="0"
     allowfullscreen
@@ -54,8 +54,8 @@ By the end of this lesson, you will be able to:
 
 
 <iframe
-    width="400"
-    height="300"
+width="600"
+height="450"
     src="https://www.youtube.com/embed/S294zRodS_4"
     frameborder="0"
     allowfullscreen
@@ -66,8 +66,8 @@ By the end of this lesson, you will be able to:
 
 
 <iframe
-    width="400"
-    height="300"
+width="600"
+height="450"
     src="https://www.youtube.com/embed/hYMk3Bk08NA"
     frameborder="0"
     allowfullscreen

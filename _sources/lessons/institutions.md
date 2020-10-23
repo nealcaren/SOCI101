@@ -77,7 +77,8 @@ By the end of this lesson, you will be able to:
 * [Religion](https://www.youtube.com/watch?v=pIgb-3e8CWA)
 
 <iframe
-    width="80%"
+    width="600"
+    height="450"
     src="https://www.youtube.com/embed/pIgb-3e8CWA"
     frameborder="0"
     allowfullscreen

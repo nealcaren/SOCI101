@@ -144,7 +144,7 @@ The final grade is based on the following elements:
 | Applications   | 7              | 5                | 20                |
 | Case Studies   | 6              | 5                | 15                |
 | InQuizitive    | 12             | 10               | 15                |
-| Film Responses | 12             | 10               | 15                |
+| Film Responses | 11             | 9               | 15                |
 | Midterm         | 1              | 1                | 15                |
 | Final Exam        | 1              | 1                | 20                |
 |                |                |                  |                   |

@@ -30,7 +30,9 @@ By the end of this lesson, you will be able to:
 
 ## Watch
 
-* Class Lecture
+* [Class Lecture](https://unc.zoom.us/j/96531859232) Live on Tuesday at 9:45am.
+[![Zoom](https://cuit.columbia.edu/sites/default/files/styles/cu_crop/public/content/zoom-logo-transparent-6.png?itok=PJk3QEss)](https://unc.zoom.us/j/96531859232)
+
 
 
 

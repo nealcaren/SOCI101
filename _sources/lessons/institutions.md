@@ -138,7 +138,7 @@ We will use the documentary film [We Are The Radical Monarchs](http://libproxy.l
 
 ## If you get bored.
 As part of UNC's research week, I'm inviting you to help test a new survey on protest tactics I'm working on. Feel free to answer as few or many times as you like.
-<iframe src='http://widget.allourideas.org/protestmethods' width='550' height='450' frameborder='0' scrolling='no'></iframe>
+<iframe src='http://widget.allourideas.org/protestmethods' width='600' height='450' frameborder='0' scrolling='no'></iframe>
 
 ## The least you need to know
 Theoretical perspectives on race

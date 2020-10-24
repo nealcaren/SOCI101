@@ -134,6 +134,9 @@ We will use the documentary film [We Are The Radical Monarchs](http://libproxy.l
 * religiosity (extrinsic/intrinsic)
 * secular
 
+## If you get bored.
+As part of UNC's research week, I'm inviting you to help test a new survey on protest tactics I'm working on.
+<iframe src='http://widget.allourideas.org/protestmethods' width='550' height='650' frameborder='0' scrolling='no'></iframe>
 
 ## The least you need to know
 Theoretical perspectives on race

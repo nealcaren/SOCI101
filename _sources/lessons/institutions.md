@@ -36,7 +36,7 @@ Recorded Tuesday, 9/8.  [Slides](https://www.dropbox.com/s/1jzii778vxdantk/SOCI%
 <iframe
     width="400"
     height="300"
-    src="https://media.unc.edu/w/c6QCAA/"
+    src="https://media.unc.edu/w/H7YCAA/"
     frameborder="0"
     allowfullscreen
 ></iframe>

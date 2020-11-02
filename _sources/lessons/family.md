@@ -100,6 +100,7 @@ We will use the documentary film [Tre Maison Dasan](https://unc-tugg-com.libprox
 * extended family
 * nuclear family
 * patriarchal & companionship family types
+* family historical trends
 * kin
 * fictive kin
 * Homogamy

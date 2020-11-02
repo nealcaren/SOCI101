@@ -9,9 +9,9 @@ In this lesson, we examine society’s most fundamental social group—the famil
 ## Learning Objectives
 
 By the end of this lesson, you will be able to:     
-* a
-* based
-* adsfdasf
+* Describe society's current understanding of family and recognize change in marriage and family patterns.
+* Discuss the social impact of changing family structures.
+* Analyze health benefits associated with marriage.
 
 ## Deadlines
 
@@ -95,6 +95,23 @@ We will use the documentary film [Tre Maison Dasan](https://unc-tugg-com.libprox
 
 
 ## Lesson Keywords
+* marriage
+* family  
+* extended family
+* nuclear family
+* patriarchal & companionship family types
+* kin
+* fictive kin
+* Homogamy
+* endogamy
+* exogamy
+* Propinquity
+* antimiscegenation
+* cohabitation
+* instrumental & expressive tasks
+* second shift
+
+
 
 
 

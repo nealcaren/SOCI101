@@ -64,7 +64,7 @@ height="450"
 ## Discuss (Thursday during class):
 ### Cooked: Survival by Zip Code
 
-![Image from film](https://flxt.tmsimg.com/assets/196532_bc.jpg)
+![Image from film](https://i.vimeocdn.com/video/782919115.jpg)
 
 > Cooked: Survival by Zip Code tells the story of the tragic 1995 Chicago heatwave, the most traumatic in U.S. history, in which 739 citizens died over the course of just a single week, most of them poor, elderly, and African American. Cooked is a story about life, death, and the politics of crisis in an American city that asks the question: Was this a one-time tragedy, or an appalling trend?. [Official description](https://www.pbs.org/independentlens/videos/cooked-survival-by-zip-code/)
 

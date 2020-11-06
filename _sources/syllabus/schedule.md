@@ -19,7 +19,7 @@ The plan for the semester is the {ref}`lesson-schedule`. Different assignments a
 | 10/19 | {doc}`Research Methods    <../lessons/methods>`               | 2          | Pushout  | InQuizitive; Study Design application, Film response   |
 | 10/26 | {doc}`Politics, Education and Religion  <../lessons/institutions>`  | 10         | We Are The Radical Monarchs  | InQuizitive; Education application, Film response      |
 | 11/2  | {doc}`Family    <../lessons/family>`                          | 12         | Tre Maison Dasan | InQuizitive; Marriage case study, Film response        |
-| 11/9  | Health                           | 14         | Cooked: Survival by Zip Code | InQuizitive; Health case study, Film response          |
+| 11/9  | {doc}`Health    <../lessons/health>`                          | 14         | Cooked: Survival by Zip Code | InQuizitive; Health case study, Film response          |
 | 11/16 | Exam Review                      |            |                            | Divorce case study; Final Exam, Friday 11/20 @ 4pm                                             |
 
 (weekly-deadlines)=

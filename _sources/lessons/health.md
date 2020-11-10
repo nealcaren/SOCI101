@@ -30,9 +30,9 @@ By the end of this lesson, you will be able to:
 
 ## Watch
 
-* [Class Lecture](https://unc.zoom.us/j/96531859232) Live on Tuesday at 9:45am.
-[![Zoom](https://cuit.columbia.edu/sites/default/files/styles/cu_crop/public/content/zoom-logo-transparent-6.png?itok=PJk3QEss)](https://unc.zoom.us/j/96531859232)
+Recorded Tuesday, 11/10.  [Slides](https://www.dropbox.com/s/haf0mndr3wpwzfh/SOCI%20101%20-%20Health.pptx?dl=1)
 
+<iframe src="https://uncch.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=1903cc7c-a3ec-489c-889c-ac6f010eebc0&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
 
 

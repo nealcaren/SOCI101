@@ -34,8 +34,8 @@ By the end of this lesson, you will be able to:
 Recorded Tuesday, 9/8.  [Slides](https://www.dropbox.com/s/1jzii778vxdantk/SOCI%20101%20-%20Institutions.pptx?dl=1)
 
 <iframe
-    width="400"
-    height="300"
+    width="720"
+    height="405"
     src="https://media.unc.edu/w/H7YCAA/"
     frameborder="0"
     allowfullscreen

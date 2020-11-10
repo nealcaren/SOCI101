@@ -28,6 +28,17 @@ By the end of this lesson, you will be able to:
 
 
 ## Watch
+
+* Class Lecture
+Recorded Thursday, 8/27. First part is missing because I forgot to press record. [Slides](https://www.dropbox.com/s/ikq00ymaa8gujni/SOCI%20101%20Culture.pptx?dl=1)
+<iframe
+width="720"
+height="405"
+    src="https://media.unc.edu/w/CxMCAA/"
+    frameborder="0"
+    allowfullscreen></iframe>
+
+    
 * [Cultures, Subcultures, & Countercultures](https://www.youtube.com/watch?v=RV50AV7-Iwc)
 
 
@@ -38,8 +49,8 @@ By the end of this lesson, you will be able to:
 
 
 <iframe
-    width="400"
-    height="300"
+width="720"
+height="405"
     src="https://www.youtube.com/embed/RV50AV7-Iwc"
     frameborder="0"
     allowfullscreen
@@ -55,8 +66,8 @@ By the end of this lesson, you will be able to:
 
 
 <iframe
-    width="400"
-    height="300"
+width="720"
+height="405"
     src="https://www.youtube.com/embed/kGrVhM_Gi8k"
     frameborder="0"
     allowfullscreen
@@ -64,14 +75,7 @@ By the end of this lesson, you will be able to:
 
 
 
-* Class Lecture
-Recorded Thursday, 8/27. First part is missing because I forgot to press record. [Slides](https://www.dropbox.com/s/ikq00ymaa8gujni/SOCI%20101%20Culture.pptx?dl=1)
-<iframe
-    width="400"
-    height="300"
-    src="https://media.unc.edu/w/CxMCAA/"
-    frameborder="0"
-    allowfullscreen></iframe>
+
 
 
 

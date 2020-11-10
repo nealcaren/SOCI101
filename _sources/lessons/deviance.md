@@ -33,8 +33,8 @@ By the end of this lesson, you will be able to:
 Recorded Tuesday, 9/15.  [Slides](https://www.dropbox.com/s/4k19dgq25cf2g8y/deviance.pptx?dl=1)
 
 <iframe
-    width="400"
-    height="300"
+width="720"
+height="405"
     src="https://media.unc.edu/w/O0wCAA/"
     frameborder="0"
     allowfullscreen
@@ -47,8 +47,8 @@ Recorded Tuesday, 9/15.  [Slides](https://www.dropbox.com/s/4k19dgq25cf2g8y/devi
 
 
 <iframe
-    width="400"
-    height="300"
+width="720"
+height="405"
     src="https://www.youtube.com/embed/BGq9zW9w3Fw"
     frameborder="0"
     allowfullscreen
@@ -64,8 +64,8 @@ Recorded Tuesday, 9/15.  [Slides](https://www.dropbox.com/s/4k19dgq25cf2g8y/devi
 
 
 <iframe
-    width="400"
-    height="300"
+width="720"
+height="405"
     src="https://www.youtube.com/embed/06IS_X7hWWI"
     frameborder="0"
     allowfullscreen
@@ -82,8 +82,8 @@ Recorded Tuesday, 9/15.  [Slides](https://www.dropbox.com/s/4k19dgq25cf2g8y/devi
 
 
 <iframe
-    width="400"
-    height="300"
+width="720"
+height="405"
     src="https://www.youtube.com/embed/zBodqwAlW3A"
     frameborder="0"
     allowfullscreen

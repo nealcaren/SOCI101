@@ -35,8 +35,8 @@ By the end of this lesson, you will be able to:
 Recorded Tuesday, 9/22.  [Slides](https://www.dropbox.com/s/z98r2n9yxbbabed/SOCI%20101%20Stratification.pptx?dl=1)
 
 <iframe
-    width="400"
-    height="300"
+width="720"
+height="405"
     src="https://media.unc.edu/w/018CAA/"
     frameborder="0"
     allowfullscreen
@@ -50,8 +50,8 @@ Recorded Tuesday, 9/22.  [Slides](https://www.dropbox.com/s/z98r2n9yxbbabed/SOCI
 
 
 <iframe
-    width="400"
-    height="300"
+width="720"
+height="405"
     src="https://www.youtube.com/embed/SlkIKCMt-Fs"
     frameborder="0"
     allowfullscreen
@@ -65,8 +65,8 @@ Recorded Tuesday, 9/22.  [Slides](https://www.dropbox.com/s/z98r2n9yxbbabed/SOCI
 
 
 <iframe
-    width="400"
-    height="300"
+width="720"
+height="405"
     src="https://www.youtube.com/embed/RtxtI5IGrfw"
     frameborder="0"
     allowfullscreen
@@ -79,8 +79,8 @@ Recorded Tuesday, 9/22.  [Slides](https://www.dropbox.com/s/z98r2n9yxbbabed/SOCI
 
 
 <iframe
-    width="400"
-    height="300"
+width="720"
+height="405""
     src="https://www.youtube.com/embed/DeiHz5tzlws"
     frameborder="0"
     allowfullscreen
@@ -91,8 +91,8 @@ Recorded Tuesday, 9/22.  [Slides](https://www.dropbox.com/s/z98r2n9yxbbabed/SOCI
 
 
 <iframe
-    width="400"
-    height="300"
+width="720"
+height="405"
     src="https://www.youtube.com/embed/c8PEv5SV4sU"
     frameborder="0"
     allowfullscreen
@@ -102,8 +102,8 @@ Recorded Tuesday, 9/22.  [Slides](https://www.dropbox.com/s/z98r2n9yxbbabed/SOCI
 * [The Impacts of Social Class](https://www.youtube.com/watch?v=0a21mndoORE)
 
 <iframe
-    width="400"
-    height="300"
+width="720"
+height="405"
     src="https://www.youtube.com/embed/0a21mndoORE"
     frameborder="0"
     allowfullscreen

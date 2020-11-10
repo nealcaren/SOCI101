@@ -37,8 +37,8 @@ By the end of this lesson, you will be able to:
 Recorded Tuesday, 10/13.  [Slides](https://www.dropbox.com/s/usfdzcc5nu837p2/SOCI%20101%20Gender.pptx?dl=1)
 
 <iframe
-    width="400"
-    height="300"
+width="720"
+height="405"
     src="https://media.unc.edu/w/M5QCAA/"
     frameborder="0"
     allowfullscreen
@@ -47,8 +47,8 @@ Recorded Tuesday, 10/13.  [Slides](https://www.dropbox.com/s/usfdzcc5nu837p2/SOC
 * [Sex & Sexuality](https://www.youtube.com/watch?v=Kqt-_ILgv5c)
 
 <iframe
-    width="400"
-    height="300"
+width="720"
+height="405"
     src="https://www.youtube.com/embed/Kqt-_ILgv5c"
     frameborder="0"
     allowfullscreen
@@ -58,8 +58,8 @@ Recorded Tuesday, 10/13.  [Slides](https://www.dropbox.com/s/usfdzcc5nu837p2/SOC
 * [Gender Stratification](https://www.youtube.com/watch?v=Yb1_4FPtzrI)
 
 <iframe
-    width="400"
-    height="300"
+width="720"
+height="405"
     src="https://www.youtube.com/embed/Yb1_4FPtzrI"
     frameborder="0"
     allowfullscreen
@@ -69,8 +69,8 @@ Recorded Tuesday, 10/13.  [Slides](https://www.dropbox.com/s/usfdzcc5nu837p2/SOC
 * [Theories of Gender](https://www.youtube.com/watch?v=CquRz_cceH8)
 
 <iframe
-    width="400"
-    height="300"
+width="720"
+height="405"
     src="https://www.youtube.com/embed/CquRz_cceH8"
     frameborder="0"
     allowfullscreen

@@ -32,8 +32,8 @@ By the end of this lesson, you will be able to:
 Recorded Tuesday, 9/8.  [Slides](https://www.dropbox.com/s/92g5j59dz4zsqda/SOCI%20101%20-%20Groups.pptx?dl=1)
 
 <iframe
-    width="400"
-    height="300"
+width="720"
+height="405"
     src="https://media.unc.edu/w/UzYCAA/"
     frameborder="0"
     allowfullscreen
@@ -45,8 +45,8 @@ Recorded Tuesday, 9/8.  [Slides](https://www.dropbox.com/s/92g5j59dz4zsqda/SOCI%
 
 
 <iframe
-    width="400"
-    height="300"
+width="720"
+height="405"
     src="https://www.youtube.com/embed/_wFZ5Dbj8DA"
     frameborder="0"
     allowfullscreen
@@ -63,8 +63,8 @@ Recorded Tuesday, 9/8.  [Slides](https://www.dropbox.com/s/92g5j59dz4zsqda/SOCI%
 
 
 <iframe
-    width="400"
-    height="300"
+width="720"
+height="405"
     src="https://www.youtube.com/embed/YDuBh7VbGgU"
     frameborder="0"
     allowfullscreen
@@ -78,8 +78,8 @@ Recorded Tuesday, 9/8.  [Slides](https://www.dropbox.com/s/92g5j59dz4zsqda/SOCI%
 
 
 <iframe
-    width="400"
-    height="300"
+width="720"
+height="405"
     src="https://www.youtube.com/embed/TCs_hyI15R8"
     frameborder="0"
     allowfullscreen

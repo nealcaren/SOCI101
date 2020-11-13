@@ -1,4 +1,4 @@
-# Exam 1
+# Midterm Exam
 
 The midterm exam is Thursday, October 1st. We will have a review session on Zoom on Tuesday.
 

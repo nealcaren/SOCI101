@@ -1,3 +1,6 @@
+![Picture from book](../images/REALWORLD7_FIG10_CO.jpg)
+
+
 # Midterm Exam
 
 The midterm exam is Thursday, October 1st. We will have a review session on Zoom on Tuesday.

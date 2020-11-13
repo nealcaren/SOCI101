@@ -1,3 +1,6 @@
+![Picture from book](../images/REALWORLD7_FIG10_CO.jpg)
+
+
 # Final Exam
 
 The midterm exam is Friday, November 20th at 4 pm. We will have a review session on Zoom on Tuesday.

@@ -28,8 +28,8 @@ shown.
 Recorded Tuesday, 9/29.  [Slides](https://www.dropbox.com/s/jum1az0hn3q7jir/SOCI%20101%20Exam%20Review.pptx?dl=1)
 
 <iframe
-    width="400"
-    height="300"
+width="720"
+height="405"
     src="https://media.unc.edu/w/43MCAA/"
     frameborder="0"
     allowfullscreen

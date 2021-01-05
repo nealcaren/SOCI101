@@ -41,8 +41,8 @@ By the end of this lesson, you will be able to:
 * [Research Methods](https://www.youtube.com/watch?v=Kqt-_ILgv5c)
 
 <iframe
-    width="400"
-    height="300"
+width="720"
+height="405"
     src="https://www.youtube.com/embed/QwhK-iEyXYA"
     frameborder="0"
     allowfullscreen

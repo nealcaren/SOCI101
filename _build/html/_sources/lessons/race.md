@@ -33,8 +33,8 @@ By the end of this lesson, you will be able to:
 * Class Lecture
 Recorded Tuesday, 10/6.  [Slides](https://www.dropbox.com/s/p1ljx0e0actgyxx/SOCI%20101%20Race.pptx?dl=1)
 <iframe
-    width="400"
-    height="300"
+width="720"
+height="405"
     src="https://media.unc.edu/w/d4cCAA/"
     frameborder="0"
     allowfullscreen
@@ -46,8 +46,8 @@ Recorded Tuesday, 10/6.  [Slides](https://www.dropbox.com/s/p1ljx0e0actgyxx/SOCI
 
 
 <iframe
-    width="400"
-    height="300"
+width="720"
+height="405"
     src="https://www.youtube.com/embed/7myLgdZhzjo"
     frameborder="0"
     allowfullscreen
@@ -61,8 +61,8 @@ Recorded Tuesday, 10/6.  [Slides](https://www.dropbox.com/s/p1ljx0e0actgyxx/SOCI
 
 
 <iframe
-    width="400"
-    height="300"
+width="720"
+height="405"
     src="https://www.youtube.com/embed/gSddUPkVD24"
     frameborder="0"
     allowfullscreen

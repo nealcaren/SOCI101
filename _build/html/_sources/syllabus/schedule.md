@@ -16,11 +16,11 @@ The plan for the semester is the {ref}`lesson-schedule`. Different assignments a
 | 9/28 | Exam                             |            |                            | Cohabit case study; Exam is Thursday 10/1                             |
 | 10/5  | {doc}`Race and Ethnicity <../lessons/race>`              | 8          | Strong Island  | InQuizitive; Map application, Film response            |
 | 10/12  | {doc}`Gender and Sexuality  <../lessons/gender>`            | 9          | Knock Down the House  | InQuizitive; Bechdel application, Film response        |
-| 10/19 | Research Methods                 | 2          | Pushout  | InQuizitive; Study Design application, Film response   |
-| 10/26 | Politics, Education and Religion | 10         | We Are The Radical Monarchs  | InQuizitive; Education application, Film response      |
-| 11/2  | Family                           | 12         | Tre Maison Dasan | InQuizitive; Marriage case study, Film response        |
-| 11/9  | Health                           | 14         | Cooked: Survival by Zip Code | InQuizitive; Health case study, Film response          |
-| 11/16 | Exam Review                      |            |                            | Divorce case study; Final Exam, Friday 11/20 @ 4pm                                             |
+| 10/19 | {doc}`Research Methods    <../lessons/methods>`               | 2          | Pushout  | InQuizitive; Study Design application, Film response   |
+| 10/26 | {doc}`Politics, Education and Religion  <../lessons/institutions>`  | 10         | We Are The Radical Monarchs  | InQuizitive; Education application, Film response      |
+| 11/2  | {doc}`Family    <../lessons/family>`                          | 12         | Tre Maison Dasan | InQuizitive; Marriage case study, Film response        |
+| 11/9  | {doc}`Health    <../lessons/health>`                          | 14         | Cooked: Survival by Zip Code | InQuizitive; Health case study, Film response          |
+| 11/16 |  {doc}`Health    <../lessons/final>`                       |            |                            | Divorce case study; Final Exam, Friday 11/20 @ 4pm                                             |
 
 (weekly-deadlines)=
 ## Weekly deadlines

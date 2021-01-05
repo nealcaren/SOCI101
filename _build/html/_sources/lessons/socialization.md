@@ -37,8 +37,8 @@ By the end of this lesson, you will be able to:
 
 
 <iframe
-    width="400"
-    height="300"
+width="720"
+height="405"
     src="https://www.youtube.com/embed/WbBm_YLwowc"
     frameborder="0"
     allowfullscreen
@@ -53,8 +53,8 @@ By the end of this lesson, you will be able to:
 
 
 <iframe
-    width="400"
-    height="300"
+width="720"
+height="405"
     src="https://www.youtube.com/embed/K-RvJQxqVQc"
     frameborder="0"
     allowfullscreen
@@ -69,8 +69,8 @@ By the end of this lesson, you will be able to:
 
 
 <iframe
-    width="400"
-    height="300"
+width="720"
+height="405"
     src="https://www.youtube.com/embed/UUukBV82P9A"
     frameborder="0"
     allowfullscreen
@@ -82,8 +82,8 @@ By the end of this lesson, you will be able to:
 * Class Lecture
 Recorded Tuesday, 9/1. [Slides](https://www.dropbox.com/s/1zyi9xguygxf5yb/SOCI%20101%20Socialization.pptx?dl=0)
 <iframe
-    width="400"
-    height="300"
+    width="720"
+    height="405"
     src="https://media.unc.edu/w/xSECAA/"
     frameborder="0"
     allowfullscreen></iframe>

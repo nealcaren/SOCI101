@@ -1,4 +1,7 @@
-# Exam 1
+![Picture from book](../images/REALWORLD7_FIG10_CO.jpg)
+
+
+# Midterm Exam
 
 The midterm exam is Thursday, October 1st. We will have a review session on Zoom on Tuesday.
 
@@ -25,8 +28,8 @@ shown.
 Recorded Tuesday, 9/29.  [Slides](https://www.dropbox.com/s/jum1az0hn3q7jir/SOCI%20101%20Exam%20Review.pptx?dl=1)
 
 <iframe
-    width="400"
-    height="300"
+width="720"
+height="405"
     src="https://media.unc.edu/w/43MCAA/"
     frameborder="0"
     allowfullscreen

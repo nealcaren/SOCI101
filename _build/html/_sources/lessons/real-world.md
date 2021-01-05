@@ -40,8 +40,8 @@ By the end of this lesson, you will be able to:
 
 
 <iframe
-    width="400"
-    height="300"
+width="720"
+height="405"
     src="https://www.youtube.com/embed/DbTt_ySTjaY"
     frameborder="0"
     allowfullscreen
@@ -58,8 +58,8 @@ By the end of this lesson, you will be able to:
 
 
 <iframe
-    width="400"
-    height="300"
+width="720"
+height="405"
     src="https://www.youtube.com/embed/IZfGGF-YYzY"
     frameborder="0"
     allowfullscreen
@@ -74,8 +74,8 @@ By the end of this lesson, you will be able to:
 
 
 <iframe
-    width="400"
-    height="300"
+width="720"
+height="405"
     src="https://www.youtube.com/embed/gR3igiwaeyc"
     frameborder="0"
     allowfullscreen
@@ -88,8 +88,8 @@ By the end of this lesson, you will be able to:
 
 
 <iframe
-    width="400"
-    height="300"
+width="720"
+height="405"
     src="https://www.youtube.com/embed/69VF7mT4nRU"
     frameborder="0"
     allowfullscreen></iframe>
@@ -100,8 +100,8 @@ By the end of this lesson, you will be able to:
 * [Dubois & Race Conflict](https://www.youtube.com/watch?v=-wny0OAz3g8)
 
 <iframe
-    width="400"
-    height="300"
+width="720"
+height="405"
     src="https://www.youtube.com/embed/-wny0OAz3g8"
     frameborder="0"
     allowfullscreen

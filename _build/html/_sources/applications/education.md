@@ -13,6 +13,7 @@ Go to the New York Times&#39; interactive site [Money, Race, and Success: How Yo
   - What is it showing you? In particular, what patterns do you observe around race, class, and achievement? What do you think could be responsible for these patterns? What diversity within groups do you see?
 - Pick three other districts you are interested in.
   - Find and record their data. What patterns do you see with these?
+- *Note:* I've [created a spreadsheet](https://docs.google.com/spreadsheets/d/1zb8GzoGEiMiqH4w_uwot5MOn6M-rMflgqrw9W4Cgh2k/edit?usp=sharing) with all the data from the figures. This should be helpful in exploring districts.
 
 ## Requirements
 

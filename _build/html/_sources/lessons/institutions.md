@@ -31,6 +31,15 @@ By the end of this lesson, you will be able to:
 ## Watch
 
 * Class Lecture
+Recorded Tuesday, 9/8.  [Slides](https://www.dropbox.com/s/1jzii778vxdantk/SOCI%20101%20-%20Institutions.pptx?dl=1)
+
+<iframe
+    width="720"
+    height="405"
+    src="https://media.unc.edu/w/H7YCAA/"
+    frameborder="0"
+    allowfullscreen
+></iframe>
 
 
 
@@ -135,8 +144,8 @@ We will use the documentary film [We Are The Radical Monarchs](http://libproxy.l
 * secular
 
 ## If you get bored.
-As part of UNC's research week, I'm inviting you to help test a new survey on protest tactics I'm working on.
-<iframe src='http://widget.allourideas.org/protestmethods' width='550' height='650' frameborder='0' scrolling='no'></iframe>
+As part of UNC's research week, I'm inviting you to help test a [new survey on protest tactics](https://www.allourideas.org/protestmethods) I'm working on. Feel free to answer as few or many times as you like.
+
 
 ## The least you need to know
 Theoretical perspectives on race

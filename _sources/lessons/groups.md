@@ -14,8 +14,8 @@ By the end of this lesson, you will be able to:
 ## Deadlines
 ```{admonition} Be sure to hand these in before the deadline   
 * [Inquizitive Chapter 5](https://ncia.wwnorton.com/80771) (Thursday at 9:30am)
-* {doc}`../applications/breach` application (Sunday at 11:55pm)
-* Jonestown reflection (Sunday at 11:55pm)
+* {doc}`../applications/breach` application (Sunday at 10:00pm)
+* Jonestown reflection (Sunday at 10:00pm)
 
 ```
 
@@ -28,16 +28,10 @@ By the end of this lesson, you will be able to:
 
 ## Watch
 
-* Class Lecture
-Recorded Tuesday, 9/8.  [Slides](https://www.dropbox.com/s/92g5j59dz4zsqda/SOCI%20101%20-%20Groups.pptx?dl=1)
 
-<iframe
-width="720"
-height="405"
-    src="https://media.unc.edu/w/UzYCAA/"
-    frameborder="0"
-    allowfullscreen
-></iframe>
+
+* [Class Lecture](https://unc.zoom.us/j/96531859232) Live on Tuesday at 9:30am.
+![](https://www.insidehighered.com/sites/default/server_files/styles/large-copy/public/media/zoom.jpg?itok=sJhgdl7F)
 
 
 * [Social Groups](https://www.youtube.com/watch?v=_wFZ5Dbj8DA)
@@ -88,20 +82,15 @@ height="405"
 
 
 
-## Discuss: Jonestown
+## Discuss: Crip Camp
 
+![](../images/crip_camp.jpg)
+> Just down the road from Woodstock, in the late 1960s and early 1970s, a parallel revolution blossomed in a ramshackle summer camp for disabled teenagers. Steeped in the humor and music of the era, Crip Camp explores the universal experience of summer camp awakenings that would transform lives and shape the future of the disability rights movement. Told from the point of view of former camper Jim LeBrecht, the film traces the journeys of campers up to the present day, in this compelling and untold story of a powerful journey towards inclusion. [ida](https://www.documentary.org/project/crip-camp)
 
-![](https://www-tc.pbs.org/wgbh/americanexperience/media/canonical_images/film/Jonestown_2800x1576.jpg)
-> award-winning filmmakers Stanley Nelson, Marcia Smith, and Noland Walker reveal the true, tragic story behind enigmatic preacher Jim Jones and his promise of a world of economic and racial equality that ultimately led to the largest mass murder-suicide in history. This documentary tells the story of the people who joined Peoples Temple, following Jones from Indiana to California and ultimately to their deaths in Guyana in November 1978. [PBS](https://www.pbs.org/wgbh/americanexperience/films/jonestown/)
+We will use the documentary film [Crip Camp](https://www.netflix.com/title/81001496) as an opportunity to identify and evaluate group and socialization concepts.  We will watch it together during class.    
+* Be sure to have [the movie](https://www.netflix.com/title/81001496) ready to go at the start of class.
+* Login to the course Slack by 9:30am and say hi to your group!
 
-
-
-We will use the documentary film [Jonestown: the life and death of Peoples Temple](http://libproxy.lib.unc.edu/login?url=https://www.nclive.org/cgi-bin/nclsm?url=https://fod.infobase.com/PortalPlaylists.aspx?customID=53983) as an opportunity to identify and evaluate concepts related to the sociology of groups.  We will watch it together during class.    
-* Be sure to have [the movie](http://libproxy.lib.unc.edu/login?url=https://www.nclive.org/cgi-bin/nclsm?url=https://fod.infobase.com/PortalPlaylists.aspx?customID=53983) ready to go at the start of class.
-* Login to the course Slack by 9:45am and say hi to your group!
-
-
-Before Thursday, start thinking about what concepts are likely to be most relevant.
 
 
 ## Questions

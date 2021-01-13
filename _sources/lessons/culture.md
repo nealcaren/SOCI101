@@ -17,8 +17,8 @@ By the end of this lesson, you will be able to:
 
 ```{admonition} Be sure to hand these in before the deadline   
 * [Inquizitive Chapter 3](https://ncia.wwnorton.com/154870) (Thursday at 9:30am)
-* Obesity case study (Sunday at 10:00am)
-* Disclosure reflection (Sunday at 10:00am)
+* Obesity case study (Sunday at 10:00pm)
+* Disclosure reflection (Sunday at 10:00pm)
 
 ```
 
@@ -56,10 +56,10 @@ By the end of this lesson, you will be able to:
 
 ## Discuss (Thursday during class):
 
-### Soul Food Junkies
+### Disclosure
 
 
-![](http://d1w3qdx2l9dyrg.cloudfront.net/webobjects/soul_food_junkies-clip-mezzanine.jpg)
+![](https://www.documentary.org/sites/default/files/styles/large/public/images/sponsored-films/ida-disclosure-v2.png?itok=65IdAUSc)
 
 > is an unprecedented, eye-opening look at transgender depictions in film and television, revealing how Hollywood simultaneously reflects and manufactures our deepest anxieties about gender. Leading trans thinkers and creatives, including Laverne Cox, Lilly Wachowski, Yance Ford, Mj Rodriguez, Jamie Clayton, and Chaz Bono, share their reactions and resistance to some of Hollywood’s most beloved moments. Grappling with films like A Florida Enchantment (1914), Dog Day Afternoon, The Crying Game, and Boys Don’t Cry, and with shows like The Jeffersons, The L-Word, and Pose, they trace a history that is at once dehumanizing, yet also evolving, complex, and sometimes humorous. What emerges is a fascinating story of dynamic interplay between trans representation on screen, society’s beliefs, and the reality of trans lives. Reframing familiar scenes and iconic characters in a new light, director Sam Feder invites viewers to confront unexamined assumptions, and shows how what once captured the American imagination now elicit new feelings. Disclosure provokes a startling revolution in how we see and understand trans people.. [Official Description](http://www.disclosurethemovie.com/about)
 

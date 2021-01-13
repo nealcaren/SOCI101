@@ -16,7 +16,7 @@ By the end of this lesson, you will be able to:
 
 ```{admonition} Be sure to hand these in before the deadline   
 * [InQuizitive Chapter 4](https://ncia.wwnorton.com/75374) (Thusday at 9:30am)
-* Is Obesity Contagious Case Study (Sunday at 11:55pm)
+* Is Obesity Contagious Case Study (Sunday at 10:00pm)
 ```
 
 ## Read
@@ -27,6 +27,8 @@ By the end of this lesson, you will be able to:
 
 
 ## Watch
+* [Class Lecture](https://unc.zoom.us/j/96531859232) Live on Tuesday at 9:30am.
+![](https://www.insidehighered.com/sites/default/server_files/styles/large-copy/public/media/zoom.jpg?itok=sJhgdl7F)
 
 
 * [Social Development](https://www.youtube.com/watch?v=WbBm_YLwowc)
@@ -75,19 +77,6 @@ height="405"
     allowfullscreen
 ></iframe>
 
-
-
-
-* Class Lecture
-Recorded Tuesday, 9/1. [Slides](https://www.dropbox.com/s/1zyi9xguygxf5yb/SOCI%20101%20Socialization.pptx?dl=0)
-<iframe
-    width="720"
-    height="405"
-    src="https://media.unc.edu/w/xSECAA/"
-    frameborder="0"
-    allowfullscreen></iframe>
-
-<iframe src="https://embed.polleverywhere.com/free_text_polls/eFaZYafGcAwG0ZZ4Lmmiu?controls=none&short_poll=true" width="400" height="300" frameBorder="0"></iframe>
 
 
 

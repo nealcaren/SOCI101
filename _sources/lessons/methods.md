@@ -21,7 +21,7 @@ By the end of this lesson, you will be able to:
 
 * [InQuizitive Chapter Set 2](https://ncia.wwnorton.com/76018) (Thursday at 9:30am)
 * [Study Design application](https://soci101.org/applications/studydesign.html) (Sunday at 10:00pm)
-* Circle of Books reflection (Sunday at 11:00pm)
+* Circle of Books reflection (Sunday at 10:00pm)
 
 ```
 

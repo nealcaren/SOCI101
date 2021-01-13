@@ -13,7 +13,7 @@ The plan for the semester is the {ref}`lesson-schedule`. Different assignments a
 | 2/8  | {doc}`Culture  <../lessons/culture>`                 | 3                        | Disclosure | InQuizitive, Obesity case study, Film response         |
 | 2/15  | {doc}`Socialization  <../lessons/socialization>`                     | 4          | Lecture on Thursday | InQuizitive, Bechdel test application      |
 | 2/22  | {doc}`Groups    <../lessons/groups>`                              | 5          |  Crip Camp |  InQuizitive, Breaching application, Film response  |
-| 3/1  |  {doc}`Deviance    <../lessons/deviance>`                | 6          | CRACK: Cocaine, Corruption & Conspiracy  | InQuizitive, Marijuana case study, Film response           |
+| 3/1  |  {doc}`Deviance    <../lessons/deviance>`                | 6          | Crack: Cocaine, Corruption & Conspiracy  | InQuizitive, Marijuana case study, Film response           |
 | 3/8 | Exam on Tuesday                           |            |   No Thursday Class                         | Cohabit case study                           |
 | 3/15  | Social Class                 | 7          | Capital in the Twenty-First Century  | InQuizitive, SNAP application, Film response           |
 | 3/22  | Race and Ethnicity             |8          | 13th  | InQuizitive, Map application, Film response        |

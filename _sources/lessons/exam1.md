@@ -3,7 +3,7 @@
 
 # Midterm Exam
 
-The midterm exam is Thursday, October 1st. We will have a review session on Zoom on Tuesday.
+The midterm exam is Tuesday, March 9th.
 
 
 The exam is open-book and administered on Sakai. You will have 75 minutes to complete the exam, not including ARS accommodations. You can take the exam anytime on Thursday, October 1st but must complete the exam by midnight, October 1st, Chapel Hill time. You may not communicate with anyone about the contents of the exam on October 1st.
@@ -21,16 +21,3 @@ there will be questions that ask you to make connections between the
 films and course concepts. They don't require detailed knowledge of each
 scene, but be sure to be familiar with the major themes of each film
 shown.
-
-
-
-* Class Lecture
-Recorded Tuesday, 9/29.  [Slides](https://www.dropbox.com/s/jum1az0hn3q7jir/SOCI%20101%20Exam%20Review.pptx?dl=1)
-
-<iframe
-width="720"
-height="405"
-    src="https://media.unc.edu/w/43MCAA/"
-    frameborder="0"
-    allowfullscreen
-></iframe>

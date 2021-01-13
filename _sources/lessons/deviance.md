@@ -15,8 +15,8 @@ By the end of this lesson, you will be able to:
 
 ```{admonition} Be sure to hand these in before the deadline   
 * [InQuizitive ChapterSet 6](https://sakai.unc.edu/access/basiclti/site/3bab92f4-af18-42cb-bc83-86c9231667b2/efa9f5ff-20ce-4836-b60d-1b22ce9bce1a) (Thursday at 9:30am)
-* [Case Study: Marijuana usage as social behavior](https://sakai.unc.edu/x/NEuY89) (Sunday at 11:55pm)
-* Circle of Books reflection (Sunday at 11:55pm)
+* {doc}`../applications/breach` application (Sunday at 10:00pm)
+* Crack: Cocaine, Corruption & Conspiracy reflection (Sunday at 10:00pm)
 
 ```
 
@@ -28,23 +28,10 @@ By the end of this lesson, you will be able to:
 
 
 ## Watch
-
-* Class Lecture
-Recorded Tuesday, 9/15.  [Slides](https://www.dropbox.com/s/4k19dgq25cf2g8y/deviance.pptx?dl=1)
-
-<iframe
-width="720"
-height="405"
-    src="https://media.unc.edu/w/O0wCAA/"
-    frameborder="0"
-    allowfullscreen
-></iframe>
-
+* [Class Lecture](https://unc.zoom.us/j/96531859232) Live on Tuesday at 9:30am.
+![](https://www.insidehighered.com/sites/default/server_files/styles/large-copy/public/media/zoom.jpg?itok=sJhgdl7F)
 
 * [Deviance](https://www.youtube.com/watch?v=BGq9zW9w3Fw)
-
-
-
 
 <iframe
 width="720"
@@ -94,16 +81,16 @@ height="405"
 
 
 ## Discuss (Thursday during class):
-### Circle of Books
+### Crack: Cocaine, Corruption & Conspiracy
 
-![Image from film](https://flxt.tmsimg.com/assets/p16869165_i_h10_aa.jpg)
+![Image from film](https://variety.com/wp-content/uploads/2021/01/AAAABe4ZWPi4drzhYKxjRGnS0J6UZReswldGLceBpPZJJ6RDA9vzD48VxFz-m4QIA9z8r7EexneXI0nWG45_Ch-COSYhJCfv.jpg)
 
-> For over 35 years, the gay porn shop, Circus of Books, served as the epicenter for LGBT life and culture in Los Angeles. Unbeknownst to many in the community it served, the store was cultivated and cared for by its owners, Karen and Barry Mason; a straight couple with three children. CIRCUS OF BOOKS is an intimate portrait of the Masons and their journey to become one of the biggest distributors of hardcore gay porn in the United States. Their story unfolds through the lens of their daughter, filmmaker and artist, Rachel Mason. [rt](https://www.rottentomatoes.com/m/circus_of_books)
+> In the early 1980s, the crack epidemic tore through America’s inner cities like a tsunami, ravaging all in its wake. Decades later, the destructive effects on people’s lives, families and communities are still deeply felt. Crack: Cocaine, Corruption & Conspiracy examines not only the personal devastation caused by the drug, but also the shadowy origins of the crisis and the resultant, ongoing marginalization of Black and Brown people trapped by the U.S. prison and healthcare systems. [Official Description](https://www.youtube.com/watch?v=RbYdjyxDNtQ)
 
 
-We will use the documentary film [Circus of Books](https://www.netflix.com/title/81011569) as an opportunity to explore how deviance is constructed and contested.  We will watch it together during class.    
-* Be sure to have [the movie](https://www.netflix.com/title/81011569) ready to go at the start of class.
-* Login to the course Slack by 9:45am and say hi to your group!
+We will use the documentary film [Crack: Cocaine, Corruption & Conspiracy](https://www.netflix.com/title/80988518) as an opportunity to explore how deviance is constructed and contested.  We will watch it together during class.    
+* Be sure to have [the movie](https://www.netflix.com/title/80988518) ready to go at the start of class.
+* Login to the course Slack by 9:30am and say hi to your group!
 
 
 

@@ -18,12 +18,10 @@ https://ncia.wwnorton.com/154862
 
 ## Deadlines
 
-```{admonition} Be sure to hand these assignments in this week:
-:class: caution
-* [Inquizitive Sociological Perspectives](https://ncia.wwnorton.com/154863
-https://ncia.wwnorton.com/154864) (Thursday at 9:30am)
-* {doc}`../applications/breach` application (Sunday at 11:55pm)
-* Jonestown reflection (Sunday at 11:55pm)
+```{admonition} Be sure to hand these assignments in this week
+* [Inquizitive Sociological Perspectives](https://ncia.wwnorton.com/154864) (Thursday at 9:30am)
+* {doc}`../applications/talking` application (Sunday at 10:00pm)
+* Jonestown reflection (Sunday at 10:00pm)
 
 
 ```

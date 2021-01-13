@@ -26,6 +26,24 @@ Rubric
 These are guidelines, but feel free to try new things and stretch your
 creativity for a high pass. **In your submission text, please clearly state which set of requirements you are attempting to fulfill.**
 
+In order to receive a Pass or High Pass, you must complete all components of that grade category.
+
+**Pass**
+* Research     
+    * Study three television episodes    
+
+* Analysis    
+    * Employ the perspective of two tests, including the Bechdel.
+
+* Report
+     * Include summary paragraph as introduction.
+     * Describe your data and methods of analysis.
+    * Describe what you found.
+     * Evaluate your findings.
+     * 250 word minimum
+
+**High Pass**
+
 <table>
 <thead>
 <tr class="header">

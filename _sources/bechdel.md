@@ -25,9 +25,8 @@ Rubric
 These are guidelines, but feel free to try new things and stretch your
 creativity for a high pass. **In your submission text, please clearly state which set of requirements you are attempting to fulfill.**
 
-+----------+------------------+------------------+------------------+
 |          | Low Pass         | Pass             | High Pass        |
-+==========+==================+==================+==================+
+|----------|------------------|------------------|------------------|
 | Research | Study three      | Study four or    | Study four or    |
 |          | television       | more television  | more episodes,   |
 |          | episodes         | episodes         | including at     |
@@ -38,7 +37,7 @@ creativity for a high pass. **In your submission text, please clearly state whic
 |          |                  |                  | choosing a       |
 |          |                  |                  | selection of TV  |
 |          |                  |                  | show genres.)    |
-+----------+------------------+------------------+------------------+
+|----------|------------------|------------------|------------------|
 | Analysis | Employ the       | Employ the       | Employ the       |
 |          | perspective of   | perspective of   | perspective of   |
 |          | two tests,       | three tests,     | three or more    |
@@ -46,7 +45,7 @@ creativity for a high pass. **In your submission text, please clearly state whic
 |          | Bechdel.         | Bechdel.         | the Bechdel and  |
 |          |                  |                  | one of your own  |
 |          |                  |                  | creation.        |
-+----------+------------------+------------------+------------------+
+|----------|------------------|------------------|------------------|
 | Report   | Include summary  | Include summary  | Include summary  |
 |          | paragraph as     | paragraph as     | paragraph as     |
 |          | introduction.    | introduction.    | introduction.    |
@@ -87,4 +86,4 @@ creativity for a high pass. **In your submission text, please clearly state whic
 |          |                  |                  | ntersectionality |
 |          |                  |                  |                  |
 |          |                  |                  | 750 word minimum |
-+----------+------------------+------------------+------------------+
+|----------|------------------|------------------|------------------|

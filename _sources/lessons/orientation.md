@@ -1,4 +1,4 @@
-![](../images/REALWORLD7_FIG01_CO.jpg)
+![](../images/REALWORLD7_FIG10_CO.jpg)
 
 # Orientation
 

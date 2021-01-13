@@ -9,14 +9,10 @@ you to think about gender inequality and measuring culture.
 Outline
 -----
 
--   Watch [[Anita Sarkeesian]{.ul}](https://www.youtube.com/watch?v=bLF6sAAMb4s) discuss the Bechdel Test.
-
--   Read Walt Hickey, Ella Koeze, Rachael Dottle and Gus Wezerek's "[[The next Bechdel Test]{.ul}](https://projects.fivethirtyeight.com/next-bechdel/).
-
+-   Watch [Anita Sarkeesian](https://www.youtube.com/watch?v=bLF6sAAMb4s) discuss the Bechdel Test.
+-   Read Walt Hickey, Ella Koeze, Rachael Dottle and Gus Wezerek's [The next Bechdel Test](https://projects.fivethirtyeight.com/next-bechdel/).
 -   Pick multiple television shows to watch. Before you watch them, make a guess about whether each will pass the Bechdel test.
-
 -   Watch and analyze an episode from each of the television programs. While watching, take notes on anything else meaningful you observe related to the sociological study of gender.
-
 -   Write up your findings in a brief research report.
 
 Rubric

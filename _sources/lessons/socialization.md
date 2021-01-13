@@ -17,7 +17,6 @@ By the end of this lesson, you will be able to:
 ```{admonition} Be sure to hand these in before the deadline   
 * [InQuizitive Chapter 4](https://ncia.wwnorton.com/75374) (Thusday at 9:30am)
 * Is Obesity Contagious Case Study (Sunday at 11:55pm)
-* Crip Camp reflection (Sunday at 11:55pm)
 ```
 
 ## Read
@@ -90,26 +89,7 @@ Recorded Tuesday, 9/1. [Slides](https://www.dropbox.com/s/1zyi9xguygxf5yb/SOCI%2
 
 <iframe src="https://embed.polleverywhere.com/free_text_polls/eFaZYafGcAwG0ZZ4Lmmiu?controls=none&short_poll=true" width="400" height="300" frameBorder="0"></iframe>
 
-## Discuss: Crip Camp
 
-![](../images/crip_camp.jpg)
-> Just down the road from Woodstock, in the late 1960s and early 1970s, a parallel revolution blossomed in a ramshackle summer camp for disabled teenagers. Steeped in the humor and music of the era, Crip Camp explores the universal experience of summer camp awakenings that would transform lives and shape the future of the disability rights movement. Told from the point of view of former camper Jim LeBrecht, the film traces the journeys of campers up to the present day, in this compelling and untold story of a powerful journey towards inclusion. [ida](https://www.documentary.org/project/crip-camp)
-
-We will use the documentary film [Crip Camp](https://www.netflix.com/title/81001496) as an opportunity to identify and evaluate socialization concepts.  We will watch it together during class.    
-* Be sure to have [the movie](https://www.netflix.com/title/81001496) ready to go at the start of class.
-* Login to the course Slack by 9:45am and say hi to your group!
-
-
-Before Thursday, start thinking about what socialization concepts are likely to be most relevant.
-
-
-## Case Study: Obesity
-
-In this assignment, you will read about a sociological study that examined whether obesity spreads like a contagion through social networks. You will then be asked five questions about the research. These case studies help you develop your ability to understand and evaluate social science research and make connections between research and our theoretical toolkit.
-
-**Note: Once you start, you only have 30 minutes to complete this assignment.** Students with ARS accomodations may have additional time.
-
-[You can find the case study on Sakai under Tests and Quizzes.](https://sakai.unc.edu/x/NEuY89) It is only available during this lesson week.
 
 
 ## Questions

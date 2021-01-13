@@ -16,41 +16,24 @@ By the end of this lesson, you will be able to:
 ## Deadlines
 
 ```{admonition} Be sure to hand these in before the deadline   
-* [Inquizitive Chapter 3](https://ncia.wwnorton.com/78597) (Thursday at 9:30am)
-* {doc}`../applications/families` application (Sunday at 11:55pm)
+* [Inquizitive Chapter 3](https://ncia.wwnorton.com/154870) (Thursday at 9:30am)
+* Obesity case study (Sunday at 10:00am)
+* Disclosure reflection (Sunday at 10:00am)
 
 ```
 
 ## Read
 * '[Culture](https://digital.wwnorton.com/87056)', Chapter 3 in Real World    
-
 ![](https://cdn.wwnorton.com/dam_booktitles/733/img/cover/9780393419337_300.jpeg)
 
 
 ## Watch
-
-* Class Lecture
-Recorded Thursday, 8/27. First part is missing because I forgot to press record. [Slides](https://www.dropbox.com/s/ikq00ymaa8gujni/SOCI%20101%20Culture.pptx?dl=1)
-<iframe
-width="720"
-height="405"
-    src="https://media.unc.edu/w/CxMCAA/"
-    frameborder="0"
-    allowfullscreen></iframe>
-
-    
 * [Cultures, Subcultures, & Countercultures](https://www.youtube.com/watch?v=RV50AV7-Iwc)
 
 
-
-
-
-
-
-
 <iframe
-width="720"
-height="405"
+    width="400"
+    height="300"
     src="https://www.youtube.com/embed/RV50AV7-Iwc"
     frameborder="0"
     allowfullscreen
@@ -60,14 +43,9 @@ height="405"
 
 
 * [Symbols, Values, & Norms](https://www.youtube.com/watch?v=kGrVhM_Gi8k)
-
-
-
-
-
 <iframe
-width="720"
-height="405"
+    width="400"
+    height="300"
     src="https://www.youtube.com/embed/kGrVhM_Gi8k"
     frameborder="0"
     allowfullscreen
@@ -76,15 +54,30 @@ height="405"
 
 
 
+## Discuss (Thursday during class):
+
+### Soul Food Junkies
+
+
+![](http://d1w3qdx2l9dyrg.cloudfront.net/webobjects/soul_food_junkies-clip-mezzanine.jpg)
+
+> is an unprecedented, eye-opening look at transgender depictions in film and television, revealing how Hollywood simultaneously reflects and manufactures our deepest anxieties about gender. Leading trans thinkers and creatives, including Laverne Cox, Lilly Wachowski, Yance Ford, Mj Rodriguez, Jamie Clayton, and Chaz Bono, share their reactions and resistance to some of Hollywood’s most beloved moments. Grappling with films like A Florida Enchantment (1914), Dog Day Afternoon, The Crying Game, and Boys Don’t Cry, and with shows like The Jeffersons, The L-Word, and Pose, they trace a history that is at once dehumanizing, yet also evolving, complex, and sometimes humorous. What emerges is a fascinating story of dynamic interplay between trans representation on screen, society’s beliefs, and the reality of trans lives. Reframing familiar scenes and iconic characters in a new light, director Sam Feder invites viewers to confront unexamined assumptions, and shows how what once captured the American imagination now elicit new feelings. Disclosure provokes a startling revolution in how we see and understand trans people.. [Official Description](http://www.disclosurethemovie.com/about)
 
 
 
+We will be applying our sociological tools to the film  [Disclosure](https://www.netflix.com/title/81284247) on Netflix. We will watch it together starting Thursday during class.   
+* Be sure to have the movie ready to roll at the start of class.
+* Login to the course Slack at 9:30am and say hi to your group!
 
-## Application: Families
 
-This week you have your first application due. Many significant shifts have occurred over the last fifty years in how we think of the family and the experience of living in a household. These include changes in marital and living patterns, marriage and divorce rates, the gendered nature of housework, and labor force participation. There are many theories to explain the factors. In this application, you will focus on the **role of culture in creating new norms about the family.** Alternatively, culture may merely reflect other shifts i\n society. Is television responsible for the deinstitutionalization of the family? In this application, you will classify tv shows from four different decades to examine which changed first: changes in depictions of families on television or changes in families in society.
+## Case Study: Obesity
 
-{doc}`Complete assignment description<../applications/families>`.
+In this assignment, you will read about a sociological study that examined whether obesity spreads like a contagion through social networks. You will then be asked five questions about the research. These case studies help you develop your ability to understand and evaluate social science research and make connections between research and our theoretical toolkit.
+
+**Note: Once you start, you only have 30 minutes to complete this assignment.** Students with ARS accomodations may have additional time.
+
+[You can find the case study on Sakai under Tests and Quizzes.](https://sakai.unc.edu/portal/directtool/ee60f1c9-6df2-4afd-beba-15e9160de97c/) It is only available during this lesson week.
+
 
 ## Questions
 

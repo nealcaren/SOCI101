@@ -21,8 +21,8 @@ The [official course website](http://soci101.org) is your primary source of info
 [Sakai](https://sakai.unc.edu/x/47btQ1) is for grades, exams, and submitting your assignments.
 * The *Gradebook* has all your grades for the semester.
 * You submit your Applications in the *Assignments* section.
-* Case Studies and the Exams are both available in the Test and Exams section. Each week's lesson will provide the relevant links.
-If you don't have access to the course sakai site, email [Professor Caren](mailto:neal.caren@unc.edu).
+* Case Studies and the Exams are both available in the *Test and Exams* section. Each week's lesson will provide the relevant links.
+If you don't have access to the course Sakai site, email [Professor Caren](mailto:neal.caren@unc.edu).
 
 ## Slack
 The course [Slack space](http://soci101.slack.com) is for text discussions.
@@ -35,12 +35,12 @@ Here's a video overview of our Slack space:
 
 
 ## InQuizitive
-Each non-exam week you are assigned a chapter from the textbook. To help you focus your reading on the central concepts and provide a quick check on your capacity to identify and use the new concepts, you are required to complete a weekly InQuizitive reading test. These quizzes are untimed and you can keep answering questions until you earn a perfect score.
+Each week you are assigned a chapter from the textbook. To help you focus your reading on the central concepts and provide a quick check on your capacity to identify and use the new concepts, you are required to complete a weekly InQuizitive reading test. These quizzes are untimed and you can keep answering questions until you earn a perfect score.
 
 If you have never used InQuizitive before, I highly recommend that you complete the [How To Use InQuizitive](https://ncia.wwnorton.com/111835) assignment at the beginning of the semester.
 
 ## Zoom
-{doc}`Student meetings  <../syllabus/meetings>`  happen on Zoom.
+[Tuesday class](https://unc.zoom.us/j/96531859232) and {doc}`Student meetings  <../syllabus/meetings>`  happen on Zoom.
 
 ## Email
 Always feel free to reach me at [neal.caren@unc.edu](mailto:neal.caren@unc.edu).

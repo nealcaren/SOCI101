@@ -9,18 +9,21 @@ You are embarking on a fascinating journey as you learn to see, think, and analy
 By the end of this lesson, you will be able to:
 * Define key terms related to the discipline of sociology.
 * Compare the major sociological theories.
-* Test theories of social norms.
+* Have experience conducting sociological research.
 
 
+
+https://ncia.wwnorton.com/154862
 
 
 ## Deadlines
 
 ```{admonition} Be sure to hand these assignments in this week:
 :class: caution
-* [Code of Conduct acknowledgment](https://sakai.unc.edu/portal/site/3bab92f4-af18-42cb-bc83-86c9231667b2/tool/8d6a21bb-cd86-4fe7-b793-7adf02263e08/jsf/index/mainIndex) (Sunday at 11:55pm)
-* [InQuizitive Chapter 1](https://ncia.wwnorton.com/78163) (Sunday at 11:55pm)
-* [Kentucky Derby reflection](https://sakai.unc.edu/x/p97ji5) (Sunday at 11:55pm)
+* [Inquizitive Sociological Perspectives](https://ncia.wwnorton.com/154863
+https://ncia.wwnorton.com/154864) (Thursday at 9:30am)
+* {doc}`../applications/breach` application (Sunday at 11:55pm)
+* Jonestown reflection (Sunday at 11:55pm)
 
 
 ```
@@ -34,10 +37,11 @@ By the end of this lesson, you will be able to:
 
 ## Watch
 
+* [Class Lecture](https://unc.zoom.us/j/96531859232) Live on Tuesday at 9:30am.
+![](https://www.insidehighered.com/sites/default/server_files/styles/large-copy/public/media/zoom.jpg?itok=sJhgdl7F)
+
 
 * [Major Sociological Paradigms](https://www.youtube.com/watch?v=DbTt_ySTjaY)
-
-
 
 <iframe
 width="720"
@@ -52,11 +56,6 @@ height="405"
 
 * [Émile Durkheim on Suicide & Society](https://youtu.be/IZfGGF-YYzY)
 
-
-
-
-
-
 <iframe
 width="720"
 height="405"
@@ -69,10 +68,6 @@ height="405"
 
 
 * [Karl Marx & Conflict Theory](https://www.youtube.com/watch?v=gR3igiwaeyc)
-
-
-
-
 <iframe
 width="720"
 height="405"
@@ -85,8 +80,6 @@ height="405"
 
 
 * [Max Weber & Modernity](https://www.youtube.com/watch?v=69VF7mT4nRU)
-
-
 <iframe
 width="720"
 height="405"
@@ -98,7 +91,6 @@ height="405"
 
 
 * [Dubois & Race Conflict](https://www.youtube.com/watch?v=-wny0OAz3g8)
-
 <iframe
 width="720"
 height="405"
@@ -110,27 +102,18 @@ height="405"
 
 
 
-## Discuss: The Derby
+## Discuss: Jonestown
+
+
+![](https://www-tc.pbs.org/wgbh/americanexperience/media/canonical_images/film/Jonestown_2800x1576.jpg)
+> award-winning filmmakers Stanley Nelson, Marcia Smith, and Noland Walker reveal the true, tragic story behind enigmatic preacher Jim Jones and his promise of a world of economic and racial equality that ultimately led to the largest mass murder-suicide in history. This documentary tells the story of the people who joined Peoples Temple, following Jones from Indiana to California and ultimately to their deaths in Guyana in November 1978. [PBS](https://www.pbs.org/wgbh/americanexperience/films/jonestown/)
 
 
 
-![](../images/the_derby.jpg)
+We will use the documentary film [Jonestown: the life and death of Peoples Temple](http://libproxy.lib.unc.edu/login?url=https://www.nclive.org/cgi-bin/nclsm?url=https://fod.infobase.com/PortalPlaylists.aspx?customID=53983) as an opportunity to identify and evaluate concepts related to the fundamentals of sociology.  We will watch it together during class.    
+* Be sure to have [the movie](http://libproxy.lib.unc.edu/login?url=https://www.nclive.org/cgi-bin/nclsm?url=https://fod.infobase.com/PortalPlaylists.aspx?customID=53983) ready to go at the start of class.
+* Login to the course Slack by 9:30am and say hi to your group!
 
-
-> Following the haves and the have-nots during Kentucky Derby weekend via on-location interviews from varied perspectives, The Derby explores unseen sides of Kentucky’s biggest sporting event. From an anonymous reveler on Millionaires Row, to Guatemalan equine workers supporting their relatives, the film offers a thoughtful yet fun peek beyond the mint juleps and fancy hats and into the heart of the fastest two minutes in sports. [Remington Smith](https://www.theremingtonsmith.com/thederby)
-
-
-
-
-
-We start applying our sociological tools to film  with the short film [The Derby](https://vimeo.com/333091980). The documentary is available for free on [Vimeo](https://vimeo.com/333091980). We will watch it together during class.  
-* Be sure to have [The Derby](https://vimeo.com/333091980) ready to roll at the start of class.
-* Login to the course Slack by 9:45am and say hi to your group! If you can, it might be easier to have your phone on one device and Slack on another.
-
-Things to discuss as you watch the film:
-* What evidence did you see that was consistent with a structural-functionalist understanding of American society?
-* What evidence did you see that was consistent with a conflict theory understanding of American society?
-* Overall, which of the two did you find more convincing?
 
 
 ## Questions
@@ -144,14 +127,6 @@ Things to discuss as you watch the film:
 
 ## Lesson Keywords
 
-- Sociology
-- Society
-- Social Sciences
-- Sociological Perspective
-- Culture Shock
-- Sociological Imagination
-- Microsociology
-- Macrosociology
 - Theories
 - Paradigm
 - Positivism
@@ -187,9 +162,6 @@ Things to discuss as you watch the film:
 ## The least you need to know
 
 ![](../images/REALWORLD7_TABLE01.01.jpg)
-
-
-
 
 
 

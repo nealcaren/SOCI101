@@ -17,44 +17,23 @@ text data with Python. Professor Caren enjoys trail running in [Carolina
 North](https://facilities.unc.edu/operations/grounds-services/carolina-north-forest/)
 and [trail
 racing](https://ultrasignup.com/results_participant.aspx?fname=Neal&lname=Caren)
-in the mountains. If there is a season this fall, he might start
-cyclocross racing. Pronouns: he/him.
+in the mountains. Pronouns: he/him
 
 
 
-Rocio Rosa-Lebron
+Mirah Alix
 -------------------
-![](../images/Rosa-Lebron.jpg)
+![](../images/Alix.jpg)
 
-Rocio Rosa-Lebron is a teaching assistant for the course.  She is a PhD student in the Department of Sociology at UNC-Chapel Hill. She earned her BA in English and Political Science from Rice University before making the jump to Sociology. Her research interests are in race, racial identification, and migration, and her current research looks at how migration influences the racial identity of Puerto Rican migrants. Her previous teaching assignments include Social and Economic Justice and previous classes of SOCI 101. When not doing research, Rocio enjoys reading, writing, and playing video games. Pronouns: she/her
+Mirah Alix is a teaching assistant for the course. She is a graduate student in the Department of Sociology at UNC-Chapel Hill. She earned her BA in Sociology and Communication Studies from Vanderbilt University. Her research interests are in organizational and environmental sociology and her Master's project looks at the impact of policy and consumer trends on corporate responsibility rhetoric in the apparel industry. Her previous teaching assignments include Social Theory, Statistics for Sociologists, and previous classes of SOCI 101. Outside of sociology, Mirah enjoys hiking, painting, and watching shows/movies with her cat. Pronouns: she/her
 
-
-Bethany Stoutamire
+Grace Franklyn
 -------------------
-![](../images/stoutbet.png)
+![](../images/Franklyn.jpg)
 
-Bethany Stoutamire is a teaching assistant for the course.  She is a PhD student in the Department of Sociology at UNC-Chapel Hill and a pre-doctoral trainee at the Carolina Population Center. She earned her BA in sociology with a minor in biological sciences from the University of Nebraska-Lincoln.  Her research interests include aging, family formation, natural disasters, and survey research methodology.  When not taking classes or conducting research, Bethany enjoys reading, baking, and Pilates.   Pronouns: she/her
+Grace Franklyn is a teaching assistant for the course. She is a first-year PhD student in the Department of Sociology at UNC-Chapel Hill. She earned her BS in Biology with a minor in Public Health from Temple University in Philadelphia, PA. Her research interests include medical sociology & health professions, workforce inequality, and mixed-methods research. Her previous teaching assignments include Social Stratification (SOCI 412). When not in school or doing research, Grace enjoys knitting & crocheting, playing Dungeons and Dragons, and going on hikes. Pronouns: she/her
 
-Katherine Tait
+Anna Gardner
 -------------------
 
-![](../images/Katherine-Tait.jpg)
-
-
-[Katherine Tait](http://katherinetait.web.unc.edu/) is a teaching assistant for the course. She is a PhD candidate
-in the UNC-Chapel Hill Department of Sociology. She earned her BA in
-Sociology & Anthropology from Carleton College and her MA in Economics
-from the New School for Social Research. Her research is on the
-interrelationship between social movement and economic conditions, and
-currently focuses on democratic workplaces, specifically worker-owned
-cooperatives (businesses in which all workers are also co-owners, and
-have equal input on decisions affecting day-to-day operations and the
-future direction of their workplace). While at UNC, Katherine has taught
-courses in Economic Sociology and Introduction to Sociology, has worked
-on the social science journals Mobilization and Social Forces, and in
-2017 founded the UNC-Chapel Hill chapter of [SPLC on
-Campus](https://www.splcenter.org/), an organization for graduate and
-undergraduate student activism for equal justice and opportunity. Her
-non-work hobbies include yoga, going to music and dance performances,
-taking care of her newborn son Vinnie, and, of course, streaming various
-TV shows in this "Golden Age of Television!" Pronouns: she/her.
+![](../images/Gardner.jpg)

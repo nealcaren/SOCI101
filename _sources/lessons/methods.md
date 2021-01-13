@@ -19,9 +19,9 @@ By the end of this lesson, you will be able to:
 
 
 
-* [InQuizitive Chapter Set 2](https://sakai.unc.edu/access/basiclti/site/3bab92f4-af18-42cb-bc83-86c9231667b2/efa9f5ff-20ce-4836-b60d-1b22ce9bce1a) (Thursday at 9:30am)
-* [Study Design application](https://soci101.org/applications/studydesign.html) (Sunday at 11:55pm)
-* Pushout reflection (Sunday at 11:55pm)
+* [InQuizitive Chapter Set 2](https://ncia.wwnorton.com/76018) (Thursday at 9:30am)
+* [Study Design application](https://soci101.org/applications/studydesign.html) (Sunday at 10:00pm)
+* Circle of Books reflection (Sunday at 11:00pm)
 
 ```
 
@@ -33,16 +33,10 @@ By the end of this lesson, you will be able to:
 
 
 ## Watch
-* Class Lecture
-Recorded Tuesday, 10/20.  [Slides](https://www.dropbox.com/s/b1sb4o2v1kikwrl/SOCI%20101%20Research%20Methods.pptx?dl=1)
 
-<iframe
-width="720"
-height="405"
-    src="https://media.unc.edu/w/c6QCAA/"
-    frameborder="0"
-    allowfullscreen
-></iframe>
+* [Class Lecture](https://unc.zoom.us/j/96531859232) Live on Tuesday at 9:30am.
+![](https://www.insidehighered.com/sites/default/server_files/styles/large-copy/public/media/zoom.jpg?itok=sJhgdl7F)
+
 
 
 * [Research Methods](https://www.youtube.com/watch?v=Kqt-_ILgv5c)
@@ -58,19 +52,17 @@ height="405"
 
 
 
+## Discuss (Thursday during class):
+### Circle of Books
+
+![Image from film](https://flxt.tmsimg.com/assets/p16869165_i_h10_aa.jpg)
+
+> For over 35 years, the gay porn shop, Circus of Books, served as the epicenter for LGBT life and culture in Los Angeles. Unbeknownst to many in the community it served, the store was cultivated and cared for by its owners, Karen and Barry Mason; a straight couple with three children. CIRCUS OF BOOKS is an intimate portrait of the Masons and their journey to become one of the biggest distributors of hardcore gay porn in the United States. Their story unfolds through the lens of their daughter, filmmaker and artist, Rachel Mason. [rt](https://www.rottentomatoes.com/m/circus_of_books)
 
 
-## Data (asynchronous):
-### Pushout: The Criminalization of Black Girls in Schools
-
-![Image from film](https://pushoutfilm.com/wp-content/uploads/2019/09/pushout-poster.jpg)
-
-> Inspired by the groundbreaking book of the same name by Monique W. Morris, Ed.D, PUSHOUT: THE CRIMINALIZATION OF BLACK GIRLS IN SCHOOLS, takes a deep dive into the lives of Black girls and the practices, cultural beliefs and policies that disrupts one of the most important factors in their lives - education. Alarmingly, African American girls are the fastest-growing population in the juvenile justice system and the only group of girls to disproportionately experience criminalization at every education level.
-
->  The film underscores the challenges Black girls face with insights from multiple experts across the country who have worked extensively in the fields of social and criminal justice, gender equality and educational equity, giving context to the crisis and providing a roadmap for how our educational system and those who interact with Black girls can provide a positive rather than punitive response to behaviors that are often misunderstood or misrepresented. [Official description](https://unc.kanopy.com/video/pushout-criminalization-black-girls-school-1)
-
-
-We will use the documentary film [Pushout](https://unc.kanopy.com/video/pushout-criminalization-black-girls-school-1) as an opportunity to bring together many of the course concepts to date.   Class will be asynchronous, so you should watch the film on your own and complete the reflection assignment.
+We will use the documentary film [Circus of Books](https://www.netflix.com/title/81011569) as an opportunity to explore how fundamentals of sociology. We will watch it together during class.    
+* Be sure to have [the movie](https://www.netflix.com/title/81011569) ready to go at the start of class.
+* Login to the course Slack by 9:30am and say hi to your group!
 
 
 

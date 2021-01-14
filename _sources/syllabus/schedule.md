@@ -8,7 +8,7 @@ The plan for the semester is the {ref}`lesson-schedule`. Different assignments a
 | Week  | Theme                            | RW Chapter | Thursday Film              | Assignments                                            |
 |-------|----------------------------------|------------|----------------------------|--------------------------------------------------------|
 | 1/18  | {doc}`Orientation  <../lessons/orientation>`      | 1          | Kentucky Derby         |InQuizitive, Film response      |
-| 1/25  | {doc}`Sociological Perspectives  <../lessons/real-world>`        | 1          | Jonestown         | InQuizitive, Talking application, Film response      |
+| 1/25  | {doc}`Sociological Perspectives  <../lessons/real-world>`        | 1          | Jonestown         | InQuizitive, Twenty Statements application, Film response      |
 | 2/1  | {doc}`Research Methods    <../lessons/methods>`                          | 2   | Circle of Books  | InQuizitive, Study Design application, Film response |
 | 2/8  | {doc}`Culture  <../lessons/culture>`                 | 3                        | Disclosure | InQuizitive, Obesity case study, Film response         |
 | 2/15  | {doc}`Socialization  <../lessons/socialization>`                     | 4          | Lecture on Thursday | InQuizitive, Bechdel test application      |

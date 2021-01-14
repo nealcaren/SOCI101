@@ -6,7 +6,7 @@ bias in popular culture. You will be required to watch and analyze
 episodes from different television programs. The assignment will help
 you to think about gender inequality and measuring culture.
 
-Outline
+To Do
 -----
 
 -   Watch [Anita Sarkeesian](https://www.youtube.com/watch?v=bLF6sAAMb4s) discuss the Bechdel Test.

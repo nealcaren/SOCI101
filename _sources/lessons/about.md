@@ -1,4 +1,4 @@
-# Introduction
+# Overview
 
 Each lesson page has the most important information you need to know for each week. Each page includes:
 * Learning outcomes for the lesson.

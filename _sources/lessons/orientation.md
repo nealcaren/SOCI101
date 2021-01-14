@@ -1,6 +1,6 @@
 ![](../images/REALWORLD7_FIG10_CO.jpg)
 
-# Orientation
+# What is Sociology?
 
 You are embarking on a fascinating journey as you learn to see, think, and analyze yourself and the world around you from a sociological perspective. This lesson invites you to see, think, and analyze from a sociological perspective. It provides a brief overview of the historical and intellectual development of sociology, along with describing how sociology is similar to and different from other social sciences. The lesson ends with a discussion of new theoretical approaches within the discipline. The tools presented here will help you build a foundation for new knowledge and insights into social life.
 

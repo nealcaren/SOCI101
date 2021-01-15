@@ -2,6 +2,7 @@
 
 
 1.	Visit the [SOCI101 Slack signup page](https://join.slack.com/t/soci101/shared_invite/zt-kqtl3lnb-vhjyJ6KspryovfM4iLZxoA).
+![](../images/Alix.jpg)
 2.	Signup with your school email (ending in unc.edu). This way we know who you are and you get full credit for your participation.
 4.	After confirming your email, enter your name and password.
 5.	You will now be sent to the Getting Started Page. If you want, you can add a profile picture. It’s a nice thing to do.

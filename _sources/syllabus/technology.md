@@ -28,7 +28,7 @@ If you don't have access to the course Sakai site, email [Professor Caren](mailt
 The course [Slack space](http://soci101.slack.com) is for text discussions.
 * Each Thursday during class, film discussions will take place in on the Slack space.
 * The #questions channel is always available for question on sociological concepts or course assignments.
-* Vist {doc}`Student meetings  <../syllabus/slack>` for complete directions on how to signup.
+* Visit the {doc}`Slack 101 page <../syllabus/slack>` for complete directions on how to signup.
 
 
 ## InQuizitive

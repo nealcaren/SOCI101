@@ -34,9 +34,9 @@ Teaching assistants are graduate students in the sociology department whose job 
 
 |Last Name  | TA  |   email  |  
 |---|---|---|
-|A-G  |    Rocio Rosa-Lebron       |      [rocio@live.unc.edu](mailto:rocio@live.unc.edu)  |       
-|H-P |      Bethany Stoutamire      |         [stoutbet@live.unc.edu](mailto:stoutbet@live.unc.edu)    |     
-|Q-Z    |   Katherine Tait     |          [ktait@live.unc.edu](mailto:ktait@live.unc.edu)    |  
+|A-G  |    Mirah Alix       |      [alixm@email.unc.edu](mailto:alixm@email.unc.edu)  |       
+|H-P |      Grace Franklyn    |         [grace.franklyn@unc.edu](mailto:grace.franklyn@unc.edu)    |     
+|Q-Z    |   Anna Gardner    |          [anna364@live.unc.edu](mailto:anna364@live.unc.edu)    |  
 
 
 How do I prepare for an exam?
@@ -132,10 +132,10 @@ How is the final grade determined?
 |----------------|----------------|------------------|-------------------|
 | Applications   | 9              | 6               | 30                |
 | Case Studies   | 5              | 4                | 10                |
-| InQuizitive    | 13             | 12               | 15                |
+| InQuizitive    | 13             | 12               | 10                |
 | Film Responses | 13             | 12               | 15                |
-| Midterm         | 1              | 1                | 12                |
-| Final Exam        | 1              | 1                | 18                |
+| Midterm         | 1              | 1                | 15                |
+| Final Exam        | 1              | 1                | 20                |
 |                |                |                  |                   |
 |                |                |                  | 100               |
 

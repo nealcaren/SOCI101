@@ -6,7 +6,7 @@
 The midterm exam is Tuesday, March 9th.
 
 
-The exam is open-book and administered on Sakai. You will have 75 minutes to complete the exam, not including ARS accommodations. You can take the exam anytime on Thursday, October 1st but must complete the exam by midnight, October 1st, Chapel Hill time. You may not communicate with anyone about the contents of the exam on October 1st.
+The exam is open-book and administered on Sakai. You will have 75 minutes to complete the exam, not including ARS accommodations.  You may not communicate with anyone about the contents of the exam on the day of the exam.
 
 
 There are three

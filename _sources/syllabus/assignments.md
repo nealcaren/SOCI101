@@ -48,9 +48,35 @@ For {ref}`applications`, {ref}`case-studies`, {ref}`InQuizitive`, and {ref}`film
 |----------------|----------------|------------------|-------------------|
 | Applications   | 9              | 6               | 30                |
 | Case Studies   | 5              | 4                | 10                |
-| InQuizitive    | 13             | 12               | 15                |
+| InQuizitive    | 13             | 12               | 10                |
 | Film Responses | 13             | 12               | 15                |
-| Midterm         | 1              | 1                | 12                |
-| Final Exam        | 1              | 1                | 18                |
+| Midterm         | 1              | 1                | 15                |
+| Final Exam        | 1              | 1                | 20                |
 |                |                |                  |                   |
 |                |                |                  | 100               |
+
+
+## Final Grade Conversion
+94% to 100% = A
+
+\- 90% to 93.99% = A-
+
+\- 87% to 89.99% = B+
+
+\- 84% to 86.99% = B
+
+\- 80% to 83.99% = B-
+
+\- 77% to 79.99% = C+
+
+\- 74% to 76.99% = C
+
+\- 70% to 73.99% = C-
+
+\- 67% to 69.99% = D+
+
+\- 64% to 66.99% = D
+
+\- 60% to 63.99% = D-
+
+\- 59.99% or below = F

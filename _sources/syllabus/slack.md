@@ -35,6 +35,6 @@
 | 90-94     | S       |
 | 95-99     | T       |
 
-8.	Select your section, making sure you were using the last two digits of your PID. For example, if your PID is  730142309, your last two digits are 09 and you would be in section B.On the next page, click the green “Join Channel” button.
+8.	Select your section, making sure you were using the last two digits of your PID. For example, if your PID is  730142368, your last two digits are 68 and you would be in section N. On the next page, click the green “Join Channel” button.
 ![](../images/section.png)
 9.	Finally, answer the two poll questions in the #announcements channel by upvoting the emoji that matches your answer.

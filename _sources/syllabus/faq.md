@@ -35,8 +35,8 @@ Teaching assistants are graduate students in the sociology department whose job 
 |Last Name  | TA  |   email  |  
 |---|---|---|
 |A-G  |    Mirah Alix       |      [alixm@email.unc.edu](mailto:alixm@email.unc.edu)  |       
-|H-P |      Grace Franklyn    |         [grace.franklyn@unc.edu](mailto:grace.franklyn@unc.edu)    |     
-|Q-Z    |   Anna Gardner    |          [anna364@live.unc.edu](mailto:anna364@live.unc.edu)    |  
+|H-N |      Grace Franklyn    |         [grace.franklyn@unc.edu](mailto:grace.franklyn@unc.edu)    |     
+|O-Z    |   Anna Gardner    |          [annac2@email.unc.edu](mailto:annac2@email.unc.edu)    |  
 
 
 How do I prepare for an exam?

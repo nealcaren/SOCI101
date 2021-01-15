@@ -6,9 +6,9 @@ Since the course is online, we will use a couple of pieces of technology this se
 ##  Overview
 * [Course website](http://soci101.org): Syllabus and weekly lesson materials
 * [Sakai](https://sakai.unc.edu/x/47btQ1): Gradebook, assignment submission, & exams
-* [Slack](http://soci101.slack.com): Where course will meet
-* [Texbook](https://digital.wwnorton.com/realworld7): Textbook
-* [InQuizitive](https://ncia.wwnorton.com/inquizitive-realworld7): Weekly reading quizes
+* [Slack](http://soci101.slack.com): Where course will meet on Tuesdays
+* [Texbook](https://sakai.unc.edu/portal/directtool/ca4add80-bbd5-4174-9bcb-679e12b7e7ed/): Textbook
+* [InQuizitive](https://sakai.unc.edu/portal/directtool/b3cf768e-fb0d-4a87-b5f2-d16e39c0ea61/): Weekly reading quizes
 
 
 ## Course Website
@@ -33,8 +33,6 @@ The course [Slack space](http://soci101.slack.com) is for text discussions.
 
 ## InQuizitive
 Each week you are assigned a chapter from the textbook. To help you focus your reading on the central concepts and provide a quick check on your capacity to identify and use the new concepts, you are required to complete a weekly InQuizitive reading test. These quizzes are untimed and you can keep answering questions until you earn a perfect score.
-
-If you have never used InQuizitive before, I highly recommend that you complete the [How To Use InQuizitive](https://ncia.wwnorton.com/111835) assignment at the beginning of the semester.
 
 ## Zoom
 [Tuesday class](https://unc.zoom.us/j/96531859232) and {doc}`Student meetings  <../syllabus/meetings>`  happen on Zoom.

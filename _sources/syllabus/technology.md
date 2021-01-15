@@ -6,10 +6,10 @@ Since the course is online, we will use a couple of pieces of technology this se
 ##  Overview
 * [Course website](http://soci101.org): Syllabus and weekly lesson materials
 * [Sakai](https://sakai.unc.edu/x/47btQ1): Gradebook, assignment submission, & exams
-* [Slack](http://soci101.slack.com): Where course will meet on Tuesdays
+* [Zoom](https://unc.zoom.us/j/96531859232): Class on Tuesdays
+* [Slack](http://soci101.slack.com): Class on Thursdays 
 * [Texbook](https://sakai.unc.edu/portal/directtool/ca4add80-bbd5-4174-9bcb-679e12b7e7ed/): Textbook
 * [InQuizitive](https://sakai.unc.edu/portal/directtool/b3cf768e-fb0d-4a87-b5f2-d16e39c0ea61/): Weekly reading quizes
-
 
 ## Course Website
 The [official course website](http://soci101.org) is your primary source of information on the course.

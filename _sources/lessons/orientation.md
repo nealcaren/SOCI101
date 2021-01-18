@@ -28,7 +28,7 @@ By the end of this lesson, you will be able to:
 
 
 ## Read
-* '[Sociology and the Real World](https://digital.wwnorton.com/87056/r/goto/cfi/20!/4)', Chapter 1 up to Page 15. Note: There is some issues with digital book access, so use [this PDF of Chapter 1 for now](https://www.dropbox.com/s/udhc39or4xjhso9/Real%20World%20Chapter%201.pdf?dl=1).
+* **Sociology and the Real World** Chapter 1 up to Page 15 for class on Thursday. Note: There is some issues with digital book access, so use [this PDF of Chapter 1 for now](https://www.dropbox.com/s/udhc39or4xjhso9/Real%20World%20Chapter%201.pdf?dl=1).
 ![](https://cdn.wwnorton.com/dam_booktitles/733/img/cover/9780393419337_300.jpeg)
 
 

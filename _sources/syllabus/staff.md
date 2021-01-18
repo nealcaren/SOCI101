@@ -37,3 +37,5 @@ Anna Gardner
 -------------------
 
 ![](../images/Gardner.jpg)
+
+Anna Gardner is a teaching assistant for the course. She is a first-year PhD student in the Department of Sociology at UNC-Chapel Hill. She earned her BA in Anthropology from Vanderbilt University. Her research interests include climate change, inequality, public health, gender, and social policy. Her previous teaching assignments include U.S. Poverty and Public Policy (SOCI 468). In her free time, Anna enjoys playing board games, reading, and going on hikes with her dog. Pronouns: she/her

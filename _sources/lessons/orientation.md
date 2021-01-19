@@ -34,8 +34,10 @@ By the end of this lesson, you will be able to:
 
 ## Watch
 
-* [Class Lecture](https://unc.zoom.us/j/96531859232) Live on Tuesday at 9:30am.
-![](https://www.insidehighered.com/sites/default/server_files/styles/large-copy/public/media/zoom.jpg?itok=sJhgdl7F)
+* Class Lecture](https://unc.zoom.us/j/96531859232) Recorded 1/19. [Slides](https://www.dropbox.com/s/k78gjm8bvckktml/01%20Introducton.pptx?dl=1)
+
+<iframe src="https://uncch.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=dd081fd5-1338-47ed-9907-acb50106ac1a&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+
 
 * [What is Sociology](https://www.youtube.com/watch?v=YnCJU6PaCio)
 

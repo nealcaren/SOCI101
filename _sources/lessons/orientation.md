@@ -38,9 +38,9 @@ Chapter 1 up to Page 15 for class on Thursday. Note: There is some issues with d
 
 ## Watch
 
-* Class Lecture](https://unc.zoom.us/j/96531859232) Recorded 1/19. [Slides](https://www.dropbox.com/s/k78gjm8bvckktml/01%20Introducton.pptx?dl=1)
+* Class Lecture] Recorded 1/19. [Slides](https://www.dropbox.com/s/k78gjm8bvckktml/01%20Introducton.pptx?dl=1)
 
-
+<iframe src="https://uncch.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=dd081fd5-1338-47ed-9907-acb50106ac1a&autoplay=false&offerviewer=false&showtitle=false&showbrand=false&start=0&interactivity=none" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
 <iframe
 width="720"

@@ -20,8 +20,8 @@ By the end of this lesson, you will be able to:
 :class: caution
 * InQuizitive Orientation (Sunday at 10:00pm)
 * [Sign up for the course Slack space](https://soci101.slack.com/signup#/).
-* [Code of Conduct acknowledgment](https://sakai.unc.edu/portal/site/3bab92f4-af18-42cb-bc83-86c9231667b2/tool/8d6a21bb-cd86-4fe7-b793-7adf02263e08/jsf/index/mainIndex) (Sunday at 10:00pm)
-* [Kentucky Derby reflection](https://sakai.unc.edu/x/p97ji5) (Sunday at 10:00pm)
+* [Code of Conduct acknowledgment](https://sakai.unc.edu/x/hBGLDW) (Sunday at 10:00pm)
+* Kentucky Derby reflection (Sunday at 10:00pm)
 
 
 ```

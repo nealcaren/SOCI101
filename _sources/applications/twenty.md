@@ -9,7 +9,7 @@ In some of the earliest and most influential work using the TST, Louis Zurcher (
 **To Do**
 
 - Write down twenty different responses to the question “Who am I?” Don’t worry about evaluating the logic or importance of your responses—just write the statements quickly and in whatever order they occur to you. Give yourself five minutes to complete this task.
-- Score your responses according to the four categories on the response sheet. Do no peak at the response sheet before you take the exam.
+- Score your responses according to the four categories on the [response sheet](https://www.dropbox.com/s/3zqsvse9dbpogwt/twenty_coding.pdf?dl=1). Do no peak at the response sheet before you take the exam.
 - Count the number of each type of response and provide the totals for each mode.
 
 Rubric
@@ -24,7 +24,7 @@ In order to receive a Pass or High Pass, you must complete all components of tha
 - Research
   - Complete the Twenty Statements Test.
 - Analysis
-  - Score findings based on the response sheet
+  - Score findings based on the [response sheet](https://www.dropbox.com/s/3zqsvse9dbpogwt/twenty_coding.pdf?dl=1)
   - Count the number of each type of response and provide the totals for each mode.
   - Compare whether your response types were different from your first ten-ish answers (those that came to you quickly) versus your later answers.
 - Report
@@ -42,7 +42,7 @@ In order to receive a Pass or High Pass, you must complete all components of tha
 - Research
   - Complete the Twenty Statements Test yourself. Recruit three or more friends to also take it.
 - Analysis
-  - Score findings based on the response sheet
+  - Score findings based on the [response sheet](https://www.dropbox.com/s/3zqsvse9dbpogwt/twenty_coding.pdf?dl=1)
   - Count the number of each type of response and provide the totals for each mode for each person.
   - Compare whether your response types were different from your first ten-ish answers (those that came to you quickly) versus your later answers.
   - Develop your own categorizing scheme for the response and re-analyze each of the survey responses.
@@ -61,7 +61,7 @@ In order to receive a Pass or High Pass, you must complete all components of tha
 - Research
   - Complete the Twenty Statements Test.
 - Analysis
-  - Score findings based on the response sheet
+  - Score findings based on the [response sheet](https://www.dropbox.com/s/3zqsvse9dbpogwt/twenty_coding.pdf?dl=1)
   - Count the number of each type of response and provide the totals for each mode.
 - Report
   - Include summary paragraph as introduction.

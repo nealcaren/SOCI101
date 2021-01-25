@@ -37,3 +37,13 @@ In order to receive a Pass or High Pass, you must complete all components of tha
 **High Pass**
 
 **Low Pass**
+* Research     
+    * Violates a well-identified social norm in a clear way
+    * Includes video or photographic proof that the breach occurred. Ideally, this would be a link to a video of the breach. If you are doing this solo, a photo of the situation pre or post breach is sufficient. Attach this on Sakai or text it to Professor Caren (919-381-7638) along with your name. As part of your assignment, put “I texted the video to Professor Caren from my phone, 919-xxx-xxxx.”
+
+* Report
+     * Include summary paragraph as introduction.
+     * Describe your data and methods of analysis, including describes the breaches with details about the settings they took place in (virtual/physical), the norms and your expectations.
+    * Describe peoople's reactions to your breach
+    * Describes how you felt while doing the breach
+     * 250 word minimum

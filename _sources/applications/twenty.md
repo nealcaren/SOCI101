@@ -11,6 +11,7 @@ In some of the earliest and most influential work using the TST, Louis Zurcher (
 - Write down twenty different responses to the question “Who am I?” Don’t worry about evaluating the logic or importance of your responses—just write the statements quickly and in whatever order they occur to you. Give yourself five minutes to complete this task.
 - Score your responses according to the four categories on the [response sheet](https://www.dropbox.com/s/3zqsvse9dbpogwt/twenty_coding.pdf?dl=1). Do no peak at the response sheet before you take the exam.
 - Count the number of each type of response and provide the totals for each mode.
+- [Submit on Sakai](https://sakai.unc.edu/x/0Iadkh)
 
 Rubric
 ------------

@@ -35,8 +35,9 @@ https://ncia.wwnorton.com/154862
 
 ## Watch
 
-* [Class Lecture](https://unc.zoom.us/j/96531859232) Live on Tuesday at 9:30am.
-![](https://www.insidehighered.com/sites/default/server_files/styles/large-copy/public/media/zoom.jpg?itok=sJhgdl7F)
+* [Class Lecture](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=843ae514-5f6d-4758-afb2-acbc010821d6).
+Recorded 1/26. [Slides](https://www.dropbox.com/s/vu670i9msfzj2u5/02%20Sociological%20Imagination.pptx?dl=1)
+
 
 
 * [Major Sociological Paradigms](https://www.youtube.com/watch?v=DbTt_ySTjaY)

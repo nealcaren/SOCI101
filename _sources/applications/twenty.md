@@ -23,13 +23,13 @@ In order to receive a Pass or High Pass, you must complete all components of tha
 **Pass**
 
 - Research
-  - Complete the Twenty Statements Test.
+  - Complete the Twenty Statements Test by writing down twenty different responses to the question “Who am I?”.
 - Analysis
   - Score findings based on the [response sheet](https://www.dropbox.com/s/3zqsvse9dbpogwt/twenty_coding.pdf?dl=1)
   - Count the number of each type of response and provide the totals for each mode.
   - Compare whether your response types were different from your first ten-ish answers (those that came to you quickly) versus your later answers.
 - Report
-  - Include summary paragraph as introduction.
+  - Include a summary overview paragraph as introduction.
   - Describe your data and methods of analysis.
   - Describe what you found.
   - Present findings in a summary table or figure.
@@ -37,15 +37,17 @@ In order to receive a Pass or High Pass, you must complete all components of tha
   - Evaluate your methodology.
   - Make a clear connection to one or more course concepts.
   - 400 word minimum
+  - You may include a your response sheet as an appendix, but it doesn't count towards your word total.
+
 
 **High Pass**
 
 - Research
-  - Complete the Twenty Statements Test yourself. Recruit three or more friends to also take it.
+  - Complete the Twenty Statements Test by writing down twenty different responses to the question “Who am I?”. Recruit three or more friends to also take it. These can be anyone, including folks in the course.
 - Analysis
-  - Score findings based on the [response sheet](https://www.dropbox.com/s/3zqsvse9dbpogwt/twenty_coding.pdf?dl=1)
+  - Score all the findings based on the [response sheet](https://www.dropbox.com/s/3zqsvse9dbpogwt/twenty_coding.pdf?dl=1)
   - Count the number of each type of response and provide the totals for each mode for each person.
-  - Compare whether your response types were different from your first ten-ish answers (those that came to you quickly) versus your later answers.
+  - Compare whether  response types were different in the first ten-ish answers (those that came to you quickly) versus  later answers.
   - Develop your own categorizing scheme for the response and re-analyze each of the survey responses.
 - Report
   - Include summary paragraph as introduction.
@@ -54,8 +56,9 @@ In order to receive a Pass or High Pass, you must complete all components of tha
   - Present findings in a summary table or figure.
   - Evaluate your findings.
   - Evaluate your methodology.
-  - Make a clear connection to more than one course concept.
+  - Make a clear connection to two or more course concepts.
   - 600 word minimum
+  - Include anonymized versions of the response sheets.
 
 **Low Pass**
 

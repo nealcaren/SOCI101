@@ -21,48 +21,53 @@ In order to receive a Pass or High Pass, you must complete all components of tha
 
 
 **Pass**
-
+Write a research reports that:
 * Identifies two or more major problems in the Yale DKE study.
 * Propose an alternative study on culture of sexual harassment within an organization.
 * Explains how the independent and dependent variables were chosen and how decisions about how to measure them were made
+* In your report, you should include at least three chapter keywords. For each, be sure to bold the word and include a definition in your own words.
 * Describes the population being studied and explains the choice made for the study of either a sample or a census of the population
-* Describes your method (surveys, interviews, experiment, participant observation, content analysis) and provide detailed example research "instrument."
-    * If survey: provide some of your survey question; If interview: interview questions;
+* Describes your method (surveys, interviews, experiment, participant observation, content analysis) and provide detailed examples of research instrument.
+    * If survey: provide some of your survey question;
+    * If interview: interview questions;
     * I experiment: describe the experiment you are going to conduct?
     * If observation: Where/when/how will you perform your observations
     * If content analysis: What content will you analyze?
 * Identifies how ethical principles were considered when designing your study
+* Uses at least 400 words
 
 
 **High Pass**
-
-* Research     
-    * Study four or more episodes, including at least one comparison. For example, looking across seasons or comparing TV show genres.   
-
-* Analysis    
-    * Employ the perspective of three or more tests, including the Bechdel and one of your own creation.
-
-* Report
-    * Include summary paragraph as introduction.
-    * Describe your hypothesis, data and methods of analysis.
-    * Describe what you found.
-    * Present findings in a summary table or figure.
-    * Evaluate your findings.
-    * Evaluate your methodology.
-    * Make clear connection to more than one course concept, for instance, including analysis of how stereotypes become a part of mainstream culture or discussing how these tests do at representing intersectionality.
-    * 750 word minimum
+Write a research reports that:
+* Identifies two or more major problems in the Yale DKE study.
+* Propose an alternative study on culture of sexual harassment within an organization.
+* Describes what makes your study qualitative, quantitative, or mixed-methods and discusses the limitations of that methodology.
+* Explains how the independent and dependent variables will be measured and discusses different alternate ways to operationalize the variables they are using
+* In your report, you should include at least five chapter keywords. For each, be sure to bold the word and include a definition in your own words.
+* Describes the population being studied and explains the choice made for the study of either a sample or a census of the population and predicts any difficulties of reaching that population for this study
+* Describes your method (surveys, interviews, experiment, participant observation, content analysis) and provide your entire research instrument.
+    * If survey: provide some of your survey question;
+    * If interview: interview questions;
+    * I experiment: describe the experiment you are going to conduct?
+    * If observation: Where/when/how will you perform your observations
+    * If content analysis: What content will you analyze?
+* Identifies how each ethical principle was considered when designing your study and evaluates which one is of greatest concern
+* Uses at least 600 words
 
 
 **Low Pass**
-* Research     
-    * Study three television episodes    
-
-* Analysis    
-    * Employ the perspective of two tests, including the Bechdel.
-
-* Report
-     * Include summary paragraph as introduction.
-     * Describe your data and methods of analysis.
-    * Describe what you found.
-     * Evaluate your findings.
-     * 250 word minimum
+Write a research reports that:
+* Identifies one or more major problems in the Yale DKE study.
+* Propose an alternative study on culture of sexual harassment within an organization.
+* Identify your study as either qualitative, quantitative, or mixed-methods
+* Identify your independent and dependent variables and how they will be measured
+* In your report, you should include at least one chapter keywords. For each, be sure to bold the word and include a definition in your own words.
+* Describes the population being studied and explains the choice made for the study of either a sample or a census of the population
+* Describes your method (surveys, interviews, experiment, participant observation, content analysis) and provide examples from a potential research "instrument."
+    * If survey: provide some of your survey question;
+    If interview: interview questions;
+    * I experiment: describe the experiment you are going to conduct?
+    * If observation: Where/when/how will you perform your observations
+    * If content analysis: What content will you analyze?
+* Identifies how ethical principles were considered when designing your study
+* Uses at least 250 words

@@ -21,13 +21,13 @@ In order to receive a Pass or High Pass, you must complete all components of tha
 
 
 **Pass**
-* Report     
+    
     * Identifies two or more major problems in the Yale DKE study.
     * Propose an alternative study on culture of sexual harassment within an organization.
      * Explains how the independent and dependent variables were chosen and how decisions about how to measure them were made
      * Describes the population being studied and explains the choice made for the study of either a sample or a census of the population
     * Identifies how ethical principles were considered when designing your study
-    * Describes your method (surveys, interviews, experiment, participant observation, content analysis) and provide detailed example research "instrument." If survey: provide some of your survey question; If interview: interview questions; 
+    * Describes your method (surveys, interviews, experiment, participant observation, content analysis) and provide detailed example research "instrument." If survey: provide some of your survey question; If interview: interview questions;
 If experiment: describe the experiment you are going to conduct?
 If observation: Where/when/how will you perform your observations
 If content analysis: What content will you analyze?

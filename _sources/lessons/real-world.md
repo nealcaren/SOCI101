@@ -19,7 +19,7 @@ https://ncia.wwnorton.com/154862
 ## Deadlines
 
 ```{admonition} Be sure to hand these assignments in this week
-* [Inquizitive Sociological Perspectives](https://ncia.wwnorton.com/154864) (Thursday at 9:30am)
+* [Inquizitive Sociological Perspectives](https://sakai.unc.edu/x/AQpAl7) (Thursday at 9:30am)
 * {doc}`../applications/twenty` application [submitted on Sakai](https://sakai.unc.edu/x/0Iadkh) (Sunday at 10:00pm)
 * Jonestown reflection (Sunday at 10:00pm)
 

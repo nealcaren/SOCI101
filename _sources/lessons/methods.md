@@ -34,8 +34,10 @@ By the end of this lesson, you will be able to:
 
 ## Watch
 
-* [Class Lecture](https://unc.zoom.us/j/96531859232) Live on Tuesday at 9:30am.
-![](https://www.insidehighered.com/sites/default/server_files/styles/large-copy/public/media/zoom.jpg?itok=sJhgdl7F)
+* [Class Lecture](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b3261294-e5eb-4d64-863d-acc30125cad) Recorded 1/19. [Slides](https://www.dropbox.com/s/s2dmut5x5geire4/03%20Research%20Methods.pptx?dl=1)
+
+<iframe src="https://uncch.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=b3261294-e5eb-4d64-863d-acc30125cad3&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+
 
 
 

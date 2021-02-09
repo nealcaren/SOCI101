@@ -28,6 +28,12 @@ By the end of this lesson, you will be able to:
 
 
 ## Watch
+
+## Watch
+* [Class Lecture](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=152941c0-dd58-42d7-9b8c-acca010750f6) Recorded 2/9. [Slides](https://www.dropbox.com/s/c6a7pb0vhzgifkt/04%20Culture.pptx?dl=1)
+
+
+
 * [Cultures, Subcultures, & Countercultures](https://www.youtube.com/watch?v=RV50AV7-Iwc)
 
 

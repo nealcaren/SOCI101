@@ -7,16 +7,16 @@ In this lesson, you will learn how the self is connected to social phenomena, su
 ## Learning Objectives
 
 By the end of this lesson, you will be able to:
-* Identify processes of socialization and theories of the self
-* Evaluate research on social networks.
+* Identify processes of socialization and theories of the self.
 * Compare socialization agents.
+* Analyze media content.
 
 
 ## Deadlines
 
 ```{admonition} Be sure to hand these in before the deadline   
-* [InQuizitive Chapter 4](https://ncia.wwnorton.com/75374) (Thusday at 9:30am)
-* Is Obesity Contagious Case Study (Sunday at 10:00pm)
+* InQuizitive Chapter 4 (Thursday at 9:30am)
+* {doc}`../applications/bechdel` Application  (Sunday at 10:00pm)
 ```
 
 ## Read
@@ -27,7 +27,7 @@ By the end of this lesson, you will be able to:
 
 
 ## Watch
-* [Class Lecture](https://unc.zoom.us/j/96531859232) Live on Tuesday at 9:30am.
+* Class Lecture Live on Thursday at 9:30am.
 ![](https://www.insidehighered.com/sites/default/server_files/styles/large-copy/public/media/zoom.jpg?itok=sJhgdl7F)
 
 

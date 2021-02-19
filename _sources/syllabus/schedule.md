@@ -12,7 +12,7 @@ The plan for the semester is the {ref}`lesson-schedule`. Different assignments a
 | 2/1  | {doc}`Research Methods    <../lessons/methods>`                          | 2   | Circle of Books  | InQuizitive, Study Design application, Film response |
 | 2/8  | {doc}`Culture  <../lessons/culture>`                 | 3                        | Disclosure | InQuizitive, Obesity case study, Film response         |
 | 2/15  | Ice Day                   | 4          | Lecture on Thursday | InQuizitive, Bechdel test application      |
-| 2/22  |  {doc}`Socialization  <../lessons/socialization>`                              | 5          |  Crip Camp |  InQuizitive, Breaching application, Film response  |
+| 2/22  |  {doc}`Socialization  <../lessons/socialization>`                              | 5          |  Crip Camp |  Breaching application, Film response  |
 | 3/1  |  {doc}`Groups    <../lessons/groups>`                 | 6          | {doc}`Deviance    <../lessons/deviance>`     | InQuizitive, InQuizitive, , Marijuana case study           |
 | 3/8 | Exam on Tuesday                           |            |   No Thursday Class                         | Cohabit case study                           |
 | 3/15  | Social Class                 | 7          | Capital in the Twenty-First Century  | InQuizitive, SNAP application, Film response           |

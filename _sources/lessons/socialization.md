@@ -27,8 +27,7 @@ By the end of this lesson, you will be able to:
 
 
 ## Watch
-* Class Lecture Live on Thursday at 9:30am.
-![](https://www.insidehighered.com/sites/default/server_files/styles/large-copy/public/media/zoom.jpg?itok=sJhgdl7F)
+* [Class Lecture recording](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=81c8df4f-64ba-4a0d-974f-acd8010c787b). [Slides](https://www.dropbox.com/s/qsv057p6dcdf85a/05%20Socialization.pptx?dl=1)
 
 
 * [Social Development](https://www.youtube.com/watch?v=WbBm_YLwowc)
@@ -120,6 +119,7 @@ height="405"
 - emotional work/labor
 - agency
 - saturated self
+- civil inattention
 
 ## The least you need to know
 Theoretical perspectives of the self

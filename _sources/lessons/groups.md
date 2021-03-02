@@ -30,8 +30,9 @@ By the end of this lesson, you will be able to:
 
 
 
-* [Class Lecture](https://unc.zoom.us/j/96531859232) Live on Tuesday at 9:30am.
-![](https://www.insidehighered.com/sites/default/server_files/styles/large-copy/public/media/zoom.jpg?itok=sJhgdl7F)
+
+
+* [Class Lecture](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=95e87347-dec2-4532-962c-acdf010ccb02). [Slides](https://www.dropbox.com/s/0llq00s198zgggs/06%20Groups.pptx?dl=1)
 
 
 * [Social Groups](https://www.youtube.com/watch?v=_wFZ5Dbj8DA)

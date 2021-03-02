@@ -27,7 +27,7 @@ By the end of this lesson, you will be able to:
 
 
 ## Watch
-* [Class Lecture recording](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=81c8df4f-64ba-4a0d-974f-acd8010c787b). [Slides](https://www.dropbox.com/s/qsv057p6dcdf85a/05%20Socialization.pptx?dl=1)
+* [Class Lecture recording](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=81c8df4f-64ba-4a0d-974f-acd8010c787b). [Slides](https://www.dropbox.com/s/qsv057p6dcdf85a/05%20Socialization.pptx?dl=1ociological Perspectives)
 
 
 * [Social Development](https://www.youtube.com/watch?v=WbBm_YLwowc)

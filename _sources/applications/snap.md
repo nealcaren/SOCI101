@@ -7,7 +7,7 @@ Social safety net programs are one way to combat economic inequality. These prog
 To Do
 -----
 
-* Approximately 15% of North Carolina residents receive SNAP benefits. In this assignment, you will assume that you have a SNAP allotment of $121 per month/per person (the North Carolina average) for you and your 10-year old child for a total of $240 a month.
+* Approximately 15% of North Carolina residents receive SNAP benefits. In this assignment, you will assume that you have a SNAP allotment of \$121 per month/per person (the North Carolina average) for you and your 10-year old child for a total of $240 a month.
 * Based on your $60 per week food budget, take a trip to your local grocery store (either online or in person) to plan a week of meals for yourself and your child. Make certain you allot yourself the amount of food you typically eat. As a reminder, the recommended daily calories for a 10 year old are 1,400-1,800 and an adult  are 1,800-2,600.  
 
    ***
@@ -39,15 +39,17 @@ For this assignment, you should submit your grocery list (sample below), menu (s
      * 200 word minimum
 
 **High Pass**
+
 For a high pass, you need to complete some sort of comparison, either between different types of stores or diets.
-     * Two or more grocery lists
+
+* Two or more grocery lists
          * Displays items, costs, and some relevant nutritional information in a clear manner, uses up the $60 but does not exceed it.
 
-     * Meal Plans (for each grocery list)
+* Meal Plans (for each grocery list)
           * Plan clearly shows what is consumed for breakfast, lunch, dinner, snacks, and drinks.
           * Attempts creativity in meals and avoids repetition.
 
-     * Reflection
+* Reflection
           * Shares the process of completing this application, including: Was it easy to meet the guidelines? Difficult? What did you have to give up, if anything? Are your meals nutritionally balanced?  How does this differ from your own diet growing up?
           * Compares and contrasts the two meal plans.
           * Makes connections to at least two course concepts.
@@ -66,26 +68,26 @@ For a high pass, you need to complete some sort of comparison, either between di
     * Describes how you felt while doing the breach
      * 250 word minimum
 
-**Pass**
+**Pass**    
 * Grocery list     
-         * Displays items, costs, and some relevant nutritional information in a clear manner, uses up the $60 but does not exceed it.
+    * Displays items, costs, and some relevant nutritional information in a clear manner, uses up the $60 but does not exceed it.
 
 * Meal Plan
-          * Plan clearly shows what is consumed for breakfast, lunch, dinner, snacks, and drinks.
+    * Plan clearly shows what is consumed for breakfast, lunch, dinner, snacks, and drinks.
 
 * Reflection
-          * Shares the process of completing this application, including: Was it easy to meet the guidelines? Difficult? What did you have to give up, if anything? Are your meals nutritionally balanced?  How does this differ from your own diet growing up?
-          * 150 word minimum
+  * Shares the process of completing this application, including: Was it easy to meet the guidelines? Difficult? What did you have to give up, if anything? Are your meals nutritionally balanced?  How does this differ from your own diet growing up?
+  * 150 word minimum
 
 
-* Sample Grocery list (might be easiest in a Spreadsheet):    
-        * Gallon of milk- $4.20
-        * 7 Bananas - $3.00
-        * 5 apples - $3.00
-        * ...
+* Sample Grocery list (might be easiest in a Spreadsheet):       
+  * Gallon of milk- $4.20
+  * 7 Bananas - $3.00
+  * 5 apples - $3.00
+  * [The rest of your list]
 
 * Sample menu (This shows just the first day. You need to do the full week.)    
-        * Breakfast: 1 c cereal, 1 c milk, banana  (336 Cal)
-        * Lunch: 2 slices bread, 1 slice lunchmeat, 1 apple (320 Cal)
-        * Dinner: 1 c pasta, .25 c pasta sauce, 1 c broccoli, 1 tbl butter (380 Cal)
-        * Snacks: 1 granola bar, 1 c carrot sticks (250)
+  * Breakfast: 1 c cereal, 1 c milk, banana 1 c coffee  (336 Cal)
+  * Lunch: 2 slices bread, 1 slice lunchmeat, 1 apple, 1 Diet Coke (320 Cal)
+  * Dinner: 1 c pasta, .25 c pasta sauce, 1 c broccoli, 1 tbl butter (380 Cal)
+  * Snacks: 1 granola bar, 1 c carrot sticks (250)

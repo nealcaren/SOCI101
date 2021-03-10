@@ -43,32 +43,21 @@ For this assignment, you should submit your grocery list (sample below), menu (s
 For a high pass, you need to complete some sort of comparison, either between different types of stores or diets.
 
 * Two or more grocery lists
-         * Displays items, costs, and some relevant nutritional information in a clear manner, uses up the $60 but does not exceed it.
+  * Displays items, costs, and some relevant nutritional information in a clear manner, uses up the $60 but does not exceed it.
 
 * Meal Plans (for each grocery list)
-          * Plan clearly shows what is consumed for breakfast, lunch, dinner, snacks, and drinks.
-          * Attempts creativity in meals and avoids repetition.
+  * Plan clearly shows what is consumed for breakfast, lunch, dinner, snacks, and drinks.
+  * Attempts creativity in meals and avoids repetition.
 
 * Reflection
-          * Shares the process of completing this application, including: Was it easy to meet the guidelines? Difficult? What did you have to give up, if anything? Are your meals nutritionally balanced?  How does this differ from your own diet growing up?
-          * Compares and contrasts the two meal plans.
-          * Makes connections to at least two course concepts.
-          * 300 word minimum
+  * Shares the process of completing this application, including: Was it easy to meet the guidelines? Difficult? What did you have to give up, if anything? Are your meals nutritionally balanced?  How does this differ from your own diet growing up?
+  * Compares and contrasts the two meal plans.
+  * Makes connections to at least two course concepts.
+  * 300 word minimum
 
 
-**Low Pass**
-* Research     
-    * Violates a well-identified social norm in a clear way
-    * Includes video or photographic proof that the breach occurred. Ideally, this would be a link to a video of the breach. If you are doing this solo, a photo of the situation pre or post breach is sufficient. Attach this on Sakai or text it to Professor Caren (919-381-7638) along with your name. As part of your assignment, put “I texted the video to Professor Caren from my phone, 919-xxx-xxxx.”
 
-* Report
-     * Include summary paragraph as introduction.
-     * Describe your data and methods of analysis, including describes the breaches with details about the settings they took place in (virtual/physical), the norms and your expectations.
-    * Describe people's reactions to your breach
-    * Describes how you felt while doing the breach
-     * 250 word minimum
-
-**Pass**    
+**Low Pass**    
 * Grocery list     
     * Displays items, costs, and some relevant nutritional information in a clear manner, uses up the $60 but does not exceed it.
 
@@ -79,7 +68,7 @@ For a high pass, you need to complete some sort of comparison, either between di
   * Shares the process of completing this application, including: Was it easy to meet the guidelines? Difficult? What did you have to give up, if anything? Are your meals nutritionally balanced?  How does this differ from your own diet growing up?
   * 150 word minimum
 
-
+**Samples**
 * Sample Grocery list (might be easiest in a Spreadsheet):       
   * Gallon of milk- $4.20
   * 7 Bananas - $3.00

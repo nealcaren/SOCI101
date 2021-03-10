@@ -110,8 +110,7 @@ height="405"
 
 ![Image from film](https://flxt.tmsimg.com/assets/p15073018_i_h10_ab.jpg)
 
-> Lauren Greenfield examines materialism, celebrity culture, and social status and reflects on the desire to be wealthy at any cost. This visual history of the growing obsession with wealth uses first-person interviews in Los Angeles, Moscow, Dubai, China and around the world to bear witness to the global boom-and-bust economy and document its complicated...      
- [flixster](https://flixster.com/movie/generation-wealth/e9fa55ec-2f6d-332e-8f70-ac587a8477c2)
+> Lauren Greenfield examines materialism, celebrity culture, and social status and reflects on the desire to be wealthy at any cost. This visual history of the growing obsession with wealth uses first-person interviews in Los Angeles, Moscow, Dubai, China and around the world to bear witness to the global boom-and-bust economy and document its complicated...      [flixster](https://flixster.com/movie/generation-wealth/e9fa55ec-2f6d-332e-8f70-ac587a8477c2)
 
 
 We will use the documentary film [Generation Wealth](https://digitalcampus.swankmp.net/uncch348236/play/9611277860E7183D?referrer=details) as an opportunity to explore the sociology of class.  We will watch it together during class.

@@ -15,7 +15,7 @@ The plan for the semester is the {ref}`lesson-schedule`. Different assignments a
 | 2/22  |  {doc}`Socialization  <../lessons/socialization>`                              | 5          |  Crip Camp |  Breaching application, Film response  |
 | 3/1  |  {doc}`Groups    <../lessons/groups>`                 | 6          | {doc}`Deviance    <../lessons/deviance>`     | InQuizitive, InQuizitive, Marijuana case study           |
 | 3/8 | Exam on Tuesday                           |            |   No Thursday Class                         |                            |
-| 3/15  | Social Class                 | 7          | Generation Wealth  | InQuizitive, SNAP application, Film response           |
+| 3/15  | {doc}`Social Class<../lessons/class>`                  | 7          | Generation Wealth  | InQuizitive, {doc}`SNAP application<../applications/snap>` , Film response           |
 | 3/22  | Race and Ethnicity             |8          | Banished  | InQuizitive, Map application, Film response        |
 | 3/29 | Gender and Sexuality                | 9          | Building A Movement  | InQuizitive, Cohabit case study, Film response   |
 | 4/5 | Politics, Education and Religion | 10         | We Are the Radical Monarchs  | InQuizitive, Education application, Film response  |

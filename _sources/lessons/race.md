@@ -9,15 +9,14 @@ Central to the sociology is the understanding that race and ethnicity are social
 By the end of this lesson, you will be able to:     
 * Understand central concepts in the sociology of race and ethnicity and how major sociological perspectives view race and ethnicity.    
 * Describe the impact of racism on life chances.    
-* Apply appropriate research methods for cultural depictions of gender.    
 
 
 ## Deadlines
 
 ```{admonition} Be sure to hand these in before the deadline
 * [InQuizitive Chapter Set 8](https://sakai.unc.edu/access/basiclti/site/3bab92f4-af18-42cb-bc83-86c9231667b2/efa9f5ff-20ce-4836-b60d-1b22ce9bce1a) (Thursday at 9:30am)
-* [Racial Dot Map application](https://soci101.org/applications/dotmap.html) (Sunday at 11:55pm)
-* Strong Island reflection (Sunday at 11:55pm)
+* [Racial Dot Map application](https://soci101.org/applications/dotmap.html) (Sunday at 10:00pm)
+* Banished reflection (Sunday at 10:00pm)
 
 ```
 
@@ -31,14 +30,6 @@ By the end of this lesson, you will be able to:
 ## Watch
 
 * Class Lecture
-Recorded Tuesday, 10/6.  [Slides](https://www.dropbox.com/s/p1ljx0e0actgyxx/SOCI%20101%20Race.pptx?dl=1)
-<iframe
-width="720"
-height="405"
-    src="https://media.unc.edu/w/d4cCAA/"
-    frameborder="0"
-    allowfullscreen
-></iframe>
 
 * [Race & Ethnicity](https://www.youtube.com/watch?v=7myLgdZhzjo)
 
@@ -73,20 +64,16 @@ height="405"
 
 
 ## Discuss (Thursday during class):
-### Strong Island
+### Banished
 
-![Image from film](https://flxt.tmsimg.com/assets/p13925270_v_h10_aa.jpg)
+![Image from film](https://www.pbs.org/independentlens/banished/images/film_top.jpg)
 
-> Strong Island chronicles the arc of a family across history, geography and tragedy - from the racial segregation of the Jim Crow South to the promise of New York City; from the presumed safety of middle class suburbs, to the maelstrom of an unexpected, violent death. It is the story of the Ford family: Barbara Dunmore, William Ford and their three children and how their lives were shaped by the enduring shadow of race in America. A deeply intimate and meditative film, Strong Island asks what one can do when the grief of loss is entwined with historical injustice, and how one grapples with the complicity of silence, which can bind a family in an imitation of life, and a nation with a false sense of justice. [Official description](https://www.strongislandfilm.com)
+> A hundred years ago, in communities across the U.S., white residents forced thousands of black families to flee their homes. Even a century later, these towns remain almost entirely white. BANISHED tells the story of three of these communities and their black descendants, who return to learn their shocking histories. [Official description](https://www.pbs.org/independentlens/banished/film.html)
 
 
-We will use the documentary film [Strong Island](https://www.netflix.com/title/80168230) as an opportunity to explore the sociology of race and ethnicity.  We will watch it together during class.
-* Be sure to have [the movie](https://www.netflix.com/title/80168230) ready to go at the start of class.
+We will use the documentary film [Banished](https://fod-infobase-com.libproxy.lib.unc.edu/p_ViewVideo.aspx?xtid=49768) as an opportunity to explore the sociology of race and ethnicity.  We will watch it together during class.
+* Be sure to have [the movie](https://fod-infobase-com.libproxy.lib.unc.edu/p_ViewVideo.aspx?xtid=49768) ready to go at the start of class.
 * Login to the course Slack by 9:45am and say hi to your group!
-
-
-
-
 
 
 ## Questions

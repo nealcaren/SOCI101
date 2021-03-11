@@ -8,8 +8,7 @@ This lesson focuses on the processes involved in constructing the meanings of ge
 
 By the end of this lesson, you will be able to:     
 * Understand central concepts in the sociology of gender and sexuality and how major sociological perspectives view gender and sexuality.   
-* Describe major sources of gender socialization and the impact of gender and sexuality on  life chances.    
-* Apply appropriate research methods for cultural depictions of gender.        
+* Describe major sources of gender socialization and the impact of gender and sexuality on life chances.    
 
 
 ## Deadlines
@@ -20,8 +19,8 @@ By the end of this lesson, you will be able to:
 
 
 * [InQuizitive Chapter Set 9](https://sakai.unc.edu/access/basiclti/site/3bab92f4-af18-42cb-bc83-86c9231667b2/efa9f5ff-20ce-4836-b60d-1b22ce9bce1a) (Thursday at 9:30am)
-* [Bechdel Test application](https://soci101.org/applications/bechdel.html) (Sunday at 11:55pm)
-* Knock Down The House reflection (Sunday at 11:55pm)
+* Cohabit Case Study (Sunday at 10:00pm)
+* Chisholm '72 reflection (Sunday at 11:55pm)
 
 ```
 
@@ -33,16 +32,7 @@ By the end of this lesson, you will be able to:
 
 
 ## Watch
-* Class Lecture
-Recorded Tuesday, 10/13.  [Slides](https://www.dropbox.com/s/usfdzcc5nu837p2/SOCI%20101%20Gender.pptx?dl=1)
-
-<iframe
-width="720"
-height="405"
-    src="https://media.unc.edu/w/M5QCAA/"
-    frameborder="0"
-    allowfullscreen
-></iframe>
+* [Class Zoom](https://unc.zoom.us/j/96531859232?pwd=RVZPdndzbm9kRTJMTFUrd0NUdXNWZz09)
 
 * [Sex & Sexuality](https://www.youtube.com/watch?v=Kqt-_ILgv5c)
 
@@ -83,17 +73,15 @@ height="405"
 
 
 ## Discuss (Thursday during class):
-### Knock Down The House
+### Chisholm '72: Unbought & Unbossed
 
-![Image from film](https://6ydqa15l8v-flywheel.netdna-ssl.com/wp-content/uploads/2019/05/KnockDowntheHouse_Cover_RGB300_900px-1.gif)
+![Image from film](https://kanopy.com/cdn-cgi/image/fit=cover,height=900,width=1600/https://static-assets.kanopy.com/video-images/bd249c03-432d-4d70-8aea-80d1c5f2bd2a.jpg)
 
-> Knock Down the House is the story of four working-class women who embraced the challenge of running for Congressional office in the 2018 midterm elections. They are four of the record numbers who organized grassroots campaigns, rejected corporate PAC money and challenged the notion that everyday people cannot run successful campaigns against sitting incumbents. Collectively these candidates herald a cultural and political shift to transform the process of running and electing our representatives. Such changes do not occur in a vacuum, nor are they about a singular issue. Rather they are about changing the attitudes, behaviors, terms, and outcomes of existing and entrenched norms and building to- wards a more inclusive and representative government.  [Official description](https://knockdownthehouse.com)
+> Recalling a watershed event in US politics, this Peabody Award-winning documentary takes an in-depth look at the 1972 presidential campaign of Shirley Chisholm, the first black woman elected to Congress and the first to seek nomination for the highest office in the land. Shunned by the political establishment and the media, this longtime champion of marginalized Americans asked for support from people of color, women, gays, and young people newly empowered to vote at the age of 18. Chisholm's bid for an equal place on the presidential dais generated strong, even racist opposition. Yet her challenge to the status quo and her message about exercising the right to vote struck many as progressive and positive..  [Kanopy](https://unc.kanopy.com/video/crisholm-72)
 
 
-We will use the documentary film [Knock Down the House](https://www.netflix.com/watch/81080637) as an opportunity to explore the sociology of gender.  We will watch it together during class.
-* Be sure to have [the movie](https://www.netflix.com/watch/81080637) ready to go at the start of class. It is available on Netflix.
-* We will start the movie at 9:50am promptly!
-
+We will use the documentary film [Chisholm '72: Unbought & Unbossed](https://unc.kanopy.com/video/crisholm-72) as an opportunity to explore the sociology of gender.  We will watch it together during class.
+* Be sure to have [the movie](https://unc.kanopy.com/video/crisholm-72) ready to go at the start of class. It is available through UNC library.
 
 
 ## Questions

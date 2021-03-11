@@ -29,7 +29,7 @@ By the end of this lesson, you will be able to:
 
 ## Watch
 
-* Class Lecture
+* [Class Zoom](https://unc.zoom.us/j/96531859232?pwd=RVZPdndzbm9kRTJMTFUrd0NUdXNWZz09)
 
 * [Race & Ethnicity](https://www.youtube.com/watch?v=7myLgdZhzjo)
 

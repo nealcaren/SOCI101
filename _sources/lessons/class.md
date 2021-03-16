@@ -31,7 +31,7 @@ By the end of this lesson, you will be able to:
 
 ## Watch
 
-* [Class Zoom](https://unc.zoom.us/j/96531859232?pwd=RVZPdndzbm9kRTJMTFUrd0NUdXNWZz09)
+* [Class Lecture](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4caed5a3-0925-4f3a-9434-aced00fdadd0) [Slides](https://www.dropbox.com/s/zfx4hupafxinbyg/08%20Stratification.pptx?dl=1) 
 
 
 

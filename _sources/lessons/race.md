@@ -29,7 +29,7 @@ By the end of this lesson, you will be able to:
 
 ## Watch
 
-* [Class Zoom](https://unc.zoom.us/j/96531859232?pwd=RVZPdndzbm9kRTJMTFUrd0NUdXNWZz09)
+* [Class Lecture](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=18338c3d-4f2d-43fb-889f-acf400fa0f98) [Slides](https://www.dropbox.com/s/9grynadnqzs28gk/09%20Race.pptx?dl=1)
 
 * [Race & Ethnicity](https://www.youtube.com/watch?v=7myLgdZhzjo)
 
@@ -64,15 +64,15 @@ height="405"
 
 
 ## Discuss (Thursday during class):
-### Banished
+### Coded Bias
 
-![Image from film](https://www.pbs.org/independentlens/banished/images/film_top.jpg)
-
-> A hundred years ago, in communities across the U.S., white residents forced thousands of black families to flee their homes. Even a century later, these towns remain almost entirely white. BANISHED tells the story of three of these communities and their black descendants, who return to learn their shocking histories. [Official description](https://www.pbs.org/independentlens/banished/film.html)
+![Image from film](https://www.pbs.org/independentlens/cinema-events/wp-content/uploads/2020/08/CODEDBIAS_PubStills_34-e1614705746804-480x270.jpg)
 
 
-We will use the documentary film [Banished](https://fod-infobase-com.libproxy.lib.unc.edu/p_ViewVideo.aspx?xtid=49768) as an opportunity to explore the sociology of race and ethnicity.  We will watch it together during class.
-* Be sure to have [the movie](https://fod-infobase-com.libproxy.lib.unc.edu/p_ViewVideo.aspx?xtid=49768) ready to go at the start of class.
+
+
+We will use the documentary film [Coded Bias](https://www.pbs.org/independentlens/films/coded-bias/) as an opportunity to explore the sociology of race and ethnicity.  We will watch it together during class.
+* Be sure to have [the movie](https://www.pbs.org/independentlens/films/coded-bias/) ready to go at the start of class.
 * Login to the course Slack by 9:45am and say hi to your group!
 
 

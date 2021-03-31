@@ -32,8 +32,7 @@ By the end of this lesson, you will be able to:
 
 
 ## Watch
-* [Class Zoom](https://unc.zoom.us/j/96531859232?pwd=RVZPdndzbm9kRTJMTFUrd0NUdXNWZz09)
-
+* [Class Lecture](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9b58dd1e-f050-40a9-b051-acfb00ffa959)  [Slides](https://www.dropbox.com/s/as8g1r1a0qdxw15/10%20Gender.pptx?dl=1)
 * [Sex & Sexuality](https://www.youtube.com/watch?v=Kqt-_ILgv5c)
 
 <iframe

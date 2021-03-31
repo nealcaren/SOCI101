@@ -15,9 +15,9 @@ By the end of this lesson, you will be able to:
 ## Deadlines
 
 ```{admonition} Be sure to hand these in before the deadline
-* [InQuizitive Chapter Set 10](https://sakai.unc.edu/access/basiclti/site/3bab92f4-af18-42cb-bc83-86c9231667b2/efa9f5ff-20ce-4836-b60d-1b22ce9bce1a) (Thursday at 9:30am)
-* [Education application](https://soci101.org/applications/education.html) (Sunday at 11:55pm)
-* We Are The Radical Monarchs reflection (Sunday at 11:55pm)
+* InQuizitive Chapter Set 10 (Thursday at 9:30am)
+* [Education application](https://soci101.org/applications/education.html) (Sunday at 10:00pm)
+* We Are The Radical Monarchs reflection (Sunday at 10:00pm)
 
 ```
 
@@ -31,16 +31,6 @@ By the end of this lesson, you will be able to:
 ## Watch
 
 * Class Lecture
-Recorded Tuesday, 9/8.  [Slides](https://www.dropbox.com/s/1jzii778vxdantk/SOCI%20101%20-%20Institutions.pptx?dl=1)
-
-<iframe
-    width="720"
-    height="405"
-    src="https://media.unc.edu/w/H7YCAA/"
-    frameborder="0"
-    allowfullscreen
-></iframe>
-
 
 
 
@@ -143,11 +133,9 @@ We will use the documentary film [We Are The Radical Monarchs](http://libproxy.l
 * religiosity (extrinsic/intrinsic)
 * secular
 
-## If you get bored.
-As part of UNC's research week, I'm inviting you to help test a [new survey on protest tactics](https://www.allourideas.org/protestmethods) I'm working on. Feel free to answer as few or many times as you like.
 
 
 ## The least you need to know
-Theoretical perspectives on race
+Theoretical perspectives
 
 ![Table 1 from Chapter 10 in the textbook](../images/REALWORLD7_TABLE10.01.jpg "Table 1 from Chapter 10 in the textbook")

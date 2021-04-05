@@ -130,8 +130,8 @@ How is the final grade determined?
 
 | Assignment     | Opportunities  | Graded | % of Course Grade |
 |----------------|----------------|------------------|-------------------|
-| Applications   | 9              | 6               | 30                |
-| Case Studies   | 5              | 4                | 10                |
+| Applications   | 8              | 5               | 30                |
+| Case Studies   | 6              | 4                | 10                |
 | InQuizitive    | 13             | 12               | 10                |
 | Film Responses | 13             | 12               | 15                |
 | Midterm         | 1              | 1                | 15                |

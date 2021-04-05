@@ -49,24 +49,24 @@ Note: Please submit these all on the same document for easier grading. For insta
 
 **High Pass**
 * Format    
-        * Written in the form of a research report, including an introduction, description of research and analysis.
-        * 500 word minimum
+    * Written in the form of a research report, including an introduction, description of research and analysis.
+    * 500 word minimum
 
 * Research
-         * Records data in chart format on average grade level, median income, and race/ethnicity for the City of Chicago, Evanston CCSD, and Kenilworth
-         * Selects non-Illinois districts that are similar in one way (for instance, geographic location) but different in another way (for instance, racial makeup)
-         * Records data in chart format on average grade level, median income, and race/ethnicity for three other districts
-         * Provide outside information to provide at least two other pieces of statistical data on these districts. Be sure to cite your sources.
+    * Records data in chart format on average grade level, median income, and race/ethnicity for the City of Chicago, Evanston CCSD, and Kenilworth
+    * Selects non-Illinois districts that are similar in one way (for instance, geographic location) but different in another way (for instance, racial makeup)
+    * Records data in chart format on average grade level, median income, and race/ethnicity for three other districts
+    * Provide outside information to provide at least two other pieces of statistical data on these districts. Be sure to cite your sources.
 
 
 
 * Analysis
-         * Discusses patterns of race, class, and achievement. Explains what you think could be responsible for these patterns, taking on a sociological mindset that emphasizes differential access to resources. Address diversity within groups as well.
-        * Analyzes these for both the Illinois districts and your chosen districts.
-        * Contextualizes notable differences between the Illinois districts and your chosen districts
-        * Integrates at least four course concepts into this analysis
-        * Identifies limitations to this method of finding patterns
-        * Uses an outside source to hypothesize one potential source of that linkage (for instance, maybe not having as much access to tech is one of the reasons students fall behind? Look it up and cite a reliable source that makes the connection)
+    * Discusses patterns of race, class, and achievement. Explains what you think could be responsible for these patterns, taking on a sociological mindset that emphasizes differential access to resources. Address diversity within groups as well.
+    * Analyzes these for both the Illinois districts and your chosen districts.
+    * Contextualizes notable differences between the Illinois districts and your chosen districts
+    * Integrates at least four course concepts into this analysis
+    * Identifies limitations to this method of finding patterns
+    * Uses an outside source to hypothesize one potential source of that linkage (for instance, maybe not having as much access to tech is one of the reasons students fall behind? Look it up and cite a reliable source that makes the connection)
 
 
 

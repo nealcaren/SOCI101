@@ -31,7 +31,7 @@ By the end of this lesson, you will be able to:
 ## Watch
 
 
-* [Lecture](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=80b7e626-1fc7-4df5-b7eb-ad0200fad8d8) [Slides](https://www.dropbox.com/s/v45x2x44gk8ll5g/11%20Institutions.pptx?dl=1)
+* [Lecture Recording](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=80b7e626-1fc7-4df5-b7eb-ad0200fad8d8) and [Slides](https://www.dropbox.com/s/v45x2x44gk8ll5g/11%20Institutions.pptx?dl=1)
 
 
 * [Politics](https://www.youtube.com/watch?v=TCs_hyI15R8)

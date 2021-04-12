@@ -19,7 +19,7 @@ The plan for the semester is the {ref}`lesson-schedule`. Different assignments a
 | 3/22  | {doc}`Race and Ethnicity<../lessons/race>`              |8          | Banished  | InQuizitive, Map application, Film response        |
 | 3/29 | {doc}`Gender and Sexuality<../lessons/gender>`  | 9          | Chisholm '72 -- Unbought and Unbossed | InQuizitive, Cohabit case study, Film response   |
 | 4/5 | {doc}`Politics, Education and Religion<../lessons/institutions>` | 10         | We Are the Radical Monarchs  | InQuizitive, Education application, Film response  |
-| 4/12  | Economy and Work                          | 11         | American Factory 美国工𠂆 | InQuizitive, Divorce case study, Film response        |
+| 4/12  | {doc}`Economy and Work<../lessons/work>`                          | 11         | American Factory 美国工𠂆 | InQuizitive, Divorce case study, Film response        |
 | 4/19  | Family                     | 12        | Family of Us: A PBS American Portrait Story | InQuizitive, Families on TV application, Film response          |
 | 4/26 |  Health                     |   14         |        To Be Announced                   | InQuizitive, Health case study,  Film response                                             |
 | 5/3 |  Exam Review                  |            |                            | Final Exam, Tuesday 5/11 @ 8am                                             |

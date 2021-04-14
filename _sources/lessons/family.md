@@ -16,9 +16,10 @@ By the end of this lesson, you will be able to:
 ## Deadlines
 
 ```{admonition} Be sure to hand these in before the deadline
-* [InQuizitive Chapter Set 12](https://sakai.unc.edu/access/basiclti/site/3bab92f4-af18-42cb-bc83-86c9231667b2/efa9f5ff-20ce-4836-b60d-1b22ce9bce1a) (Thursday at 9:30am)
-* [Marriage case](https://sakai.unc.edu/x/NEuY89) (Sunday at 11:55pm)
-* Tre Maison Dasan reflection (Sunday at 11:55pm)
+* [InQuizitive Chapter Set 12]() (Thursday at 9:30am)
+* [Marriage case](https://sakai.unc.edu/x/hBGLDW) (Sunday at 10:00pm)
+* Families on TV Application
+* Time reflection (Sunday at 10:00pm)
 
 ```
 
@@ -30,21 +31,6 @@ By the end of this lesson, you will be able to:
 
 
 ## Watch
-
-* Class Lecture
-Recorded Tuesday, 11/3.  [Slides](https://www.dropbox.com/s/7u1msc8nocklmko/SOCI%20101%20Family.pptx?dl=1)
-
-<iframe
-    width="400"
-    height="300"
-    src="https://media.unc.edu/w/ycQCAA/"
-    frameborder="0"
-    allowfullscreen
-></iframe>
-
-
-
-
 
 
 * [Class Lecture](https://unc.zoom.us/j/96531859232) Live on Tuesday at 9:45am.
@@ -84,15 +70,15 @@ height="450"
 
 
 ## Discuss (Thursday during class):
-### Tre Maison Dasan
+### Time
 
-![Image from film](https://www.pbs.org/independentlens/wp/wp-content/uploads/2018/10/tre-maison-dasan-signature-1920x830.jpg)
+![Image from film](https://cdn.theatlantic.com/thumbor/CKa-ZYE0CgTtGZzN_g4N3AiNO7k=/0x765:4500x3296/1440x810/media/img/mt/2020/10/time_TIME_SG_00007_rgb/original.jpg)
 
-> Tre Maison Dasan is an intimate portrait of three boys growing up, each with a parent in prison. Directly told through the child’s perspective, the film is an exploration of relationships and separation, masculinity, and coming of age in America when a parent is behind bars. . [Official description](https://wearetheradicalmonarchsmovie.com)
+> Time... highlights a Louisiana couple, Rob and Sibil Fox Richardson, who were sentenced to prison for a bank robbery they committed in 1997, when they were 29 and 25, respectively. Rob was sentenced to 60 years, while Fox accepted a plea deal of 12 years and served three and a half. The film is an amalgam drawn from a 20-year archive of home videos recorded by Fox as she awaited Rob’s return and current-day footage of the Richardson family shot by Bradley. The film bridges the past and the present, exposing mass incarceration’s domestic impact on the lives of those tethered to and regulated by the penal system. [The Atlantic](https://www.theatlantic.com/culture/archive/2020/10/garrett-bradley-time-a-gripping-look-at-prisons-impact-on-families/616767/)
 
 
-We will use the documentary film [Tre Maison Dasan](https://unc-tugg-com.libproxy.lib.unc.edu/full-movies/Tre-Maison-Dasan) as an opportunity to explore the sociology of family and related issues.  We will watch it together during class.
-* Be sure to have [the movie](https://unc-tugg-com.libproxy.lib.unc.edu/full-movies/Tre-Maison-Dasan) ready to go at the start of class.
+We will use the documentary film [Time](https://www.youtube.com/watch?v=t1vsaXF_Xz0) as an opportunity to explore the sociology of family and related issues.  We will watch it together during class.
+* Be sure to have [the movie](https://www.youtube.com/watch?v=t1vsaXF_Xz0) ready to go at the start of class.
 * Login to the course Slack by 9:45am and say hi to your group!
 
 

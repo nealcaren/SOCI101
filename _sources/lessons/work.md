@@ -21,9 +21,10 @@ In this lesson, you will understand why work is a classic topic of sociological 
 
 
 
-## Watch
 
-* [Class Zoom](https://unc.zoom.us/j/96531859232?pwd=RVZPdndzbm9kRTJMTFUrd0NUdXNWZz09)
+## Watch
+* [Class Lecture recording](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ba9f3ceb-8337-45e5-80e1-ad0900fd040a). [Slides](https://www.dropbox.com/s/fk0f84u9dvagwf4/12%20Work.pptx?dl=1)
+
 
 
 * [Economic Systems & the Labor Market](https://www.youtube.com/watch?v=wslCc0Di978)

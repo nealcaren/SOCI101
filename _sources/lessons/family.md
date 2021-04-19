@@ -18,7 +18,7 @@ By the end of this lesson, you will be able to:
 ```{admonition} Be sure to hand these in before the deadline
 * [InQuizitive Chapter Set 12]() (Thursday at 9:30am)
 * [Marriage case](https://sakai.unc.edu/x/hBGLDW) (Sunday at 10:00pm)
-* Families on TV Application
+* [Families on TV](https://soci101.org/applications/families.html) Application
 * Time reflection (Sunday at 10:00pm)
 
 ```

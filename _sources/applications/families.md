@@ -1,4 +1,4 @@
-Education
+Families on TV
 ============
 
 Many significant shifts have occurred over the last fifty years in how we think of the family. These include changes in marital and living patterns, marriage and divorce rates, the gendered nature of housework, and labor force participation. There are many theories to explain the factors. In this application, you will focus on the potential role of culture in creating new norms about the family. Alternatively, culture may merely reflect other shifts in society. In this application, you will classify tv shows from four different decades to examine which changed first:  changes in depictions of families on television or changes in families in society.

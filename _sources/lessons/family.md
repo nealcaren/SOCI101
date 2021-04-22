@@ -33,7 +33,7 @@ By the end of this lesson, you will be able to:
 ## Watch
 
 
-* [Class Lecture](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d0f4f03c-5fd8-4722-8617-ad1000fa3f97) [Slides]()
+* [Class Lecture](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d0f4f03c-5fd8-4722-8617-ad1000fa3f97) [Slides](https://www.dropbox.com/s/eml53e2vm4sqify/13%20Family.pptx?dl=1)
 
 
 

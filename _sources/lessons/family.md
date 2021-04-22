@@ -19,7 +19,7 @@ By the end of this lesson, you will be able to:
 * [InQuizitive Chapter Set 12]() (Thursday at 9:30am)
 * [Marriage case](https://sakai.unc.edu/x/hBGLDW) (Sunday at 10:00pm)
 * [Families on TV](https://soci101.org/applications/families.html) Application
-* Time reflection (Sunday at 10:00pm)
+* Film reflection (Sunday at 10:00pm)
 
 ```
 
@@ -33,8 +33,7 @@ By the end of this lesson, you will be able to:
 ## Watch
 
 
-* [Class Zoom](https://unc.zoom.us/j/96531859232?pwd=RVZPdndzbm9kRTJMTFUrd0NUdXNWZz09)
-[![Zoom](https://cuit.columbia.edu/sites/default/files/styles/cu_crop/public/content/zoom-logo-transparent-6.png?itok=PJk3QEss)](https://unc.zoom.us/j/96531859232?pwd=RVZPdndzbm9kRTJMTFUrd0NUdXNWZz09)
+* [Class Lecture](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d0f4f03c-5fd8-4722-8617-ad1000fa3f97) [Slides]()
 
 
 
@@ -70,17 +69,7 @@ height="450"
 
 
 ## Discuss (Thursday during class):
-### Time
-
-![Image from film](https://cdn.theatlantic.com/thumbor/CKa-ZYE0CgTtGZzN_g4N3AiNO7k=/0x765:4500x3296/1440x810/media/img/mt/2020/10/time_TIME_SG_00007_rgb/original.jpg)
-
-> Time... highlights a Louisiana couple, Rob and Sibil Fox Richardson, who were sentenced to prison for a bank robbery they committed in 1997, when they were 29 and 25, respectively. Rob was sentenced to 60 years, while Fox accepted a plea deal of 12 years and served three and a half. The film is an amalgam drawn from a 20-year archive of home videos recorded by Fox as she awaited Rob’s return and current-day footage of the Richardson family shot by Bradley. The film bridges the past and the present, exposing mass incarceration’s domestic impact on the lives of those tethered to and regulated by the penal system. [The Atlantic](https://www.theatlantic.com/culture/archive/2020/10/garrett-bradley-time-a-gripping-look-at-prisons-impact-on-families/616767/)
-
-
-We will use the documentary film [Time](https://www.youtube.com/watch?v=t1vsaXF_Xz0) as an opportunity to explore the sociology of family and related issues.  We will watch it together during class.
-* Be sure to have [the movie](https://www.youtube.com/watch?v=t1vsaXF_Xz0) ready to go at the start of class.
-* Login to the course Slack by 9:45am and say hi to your group!
-
+### Dick Johnson Is Dead
 
 
 

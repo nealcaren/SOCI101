@@ -9,15 +9,14 @@ Health and illness are constants of human existence, a natural part of having a 
 By the end of this lesson, you will be able to:     
 * Understand the difference between the cultural meaning of illness, the social construction of illness, and the social construction of medical knowledge.
 * Apply functionalist, conflict theorist, and interactionist perspectives to health issues.
-* Analzye patterns in educational inequalities.
+* Analzye patterns in educational inequalities in health.
 
 
 ## Deadlines
 
 ```{admonition} Be sure to hand these in before the deadline
-* [InQuizitive Chapter Set 12](https://sakai.unc.edu/access/basiclti/site/3bab92f4-af18-42cb-bc83-86c9231667b2/efa9f5ff-20ce-4836-b60d-1b22ce9bce1a) (Thursday at 9:30am)
-* [Health Case Study) (Sunday at 11:55pm)
-* Cooked: Survival by Zip Code reflection (Sunday at 11:55pm)
+* [InQuizitive Chapter Set 12](https://sakai.unc.edu/x/AQpAl7 (Thursday at 9:30am)
+* [Health Case Study) (Sunday at 10:00pm)
 
 ```
 
@@ -30,10 +29,7 @@ By the end of this lesson, you will be able to:
 
 ## Watch
 
-Recorded Tuesday, 11/10.  [Slides](https://www.dropbox.com/s/haf0mndr3wpwzfh/SOCI%20101%20-%20Health.pptx?dl=1)
-
-<iframe src="https://uncch.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=1903cc7c-a3ec-489c-889c-ac6f010eebc0&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
-
+* [Class Lecture](https://unc.zoom.us/j/96531859232?pwd=RVZPdndzbm9kRTJMTFUrd0NUdXNWZz09)
 
 
 * [Health & Medicine](https://www.youtube.com/watch?v=8NGlENS1qgo)
@@ -61,23 +57,6 @@ height="405"
 
 
 
-## Discuss (Thursday during class):
-### Cooked: Survival by Zip Code
-
-![Image from film](https://i.vimeocdn.com/video/782919115.jpg)
-
-> Cooked: Survival by Zip Code tells the story of the tragic 1995 Chicago heatwave, the most traumatic in U.S. history, in which 739 citizens died over the course of just a single week, most of them poor, elderly, and African American. Cooked is a story about life, death, and the politics of crisis in an American city that asks the question: Was this a one-time tragedy, or an appalling trend?. [Official description](https://www.pbs.org/independentlens/videos/cooked-survival-by-zip-code/)
-
-
-We will use the documentary film [Cooked: Survival by Zip Code](https://www.pbs.org/independentlens/videos/cooked-survival-by-zip-code/) as an opportunity to explore the sociology of health.  We will watch it together during class.
-* Be sure to have [the movie](https://www.pbs.org/independentlens/videos/cooked-survival-by-zip-code/) ready to go at the start of class.
-* Login to the course Slack by 9:45am and say hi to your group!
-
-
-
-
-
-
 ## Questions
 
 ```{admonition} If you have any questions at all about what you are supposed to do on this lesson, please remember I am here to help. Reach out any time so I can support your success.
@@ -102,6 +81,6 @@ We will use the documentary film [Cooked: Survival by Zip Code](https://www.pbs.
 
 
 ## The least you need to know
-Theoretical perspectives on race
+Theoretical perspectives on health
 
-![Table 1 from Chapter 12 in the textbook](../images/REALWORLD7_TABLE12.01.jpg "Table 1 from Chapter 10 in the textbook")
+![Table 1 from Chapter 12 in the textbook](../images/REALWORLD7_TABLE12.01.jpg "Table 1 from Chapter 12 in the textbook")

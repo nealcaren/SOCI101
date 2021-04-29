@@ -28,8 +28,8 @@ By the end of this lesson, you will be able to:
 
 
 ## Watch
+* [Class Lecture recording](https://uncch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d1e26421-dc87-4b56-be78-ad1700f77c25). [Slides](https://www.dropbox.com/s/8lwlmiuysol6typ/14%20Health.pptx?raw=1)
 
-* [Class Lecture](https://unc.zoom.us/j/96531859232?pwd=RVZPdndzbm9kRTJMTFUrd0NUdXNWZz09)
 
 
 * [Health & Medicine](https://www.youtube.com/watch?v=8NGlENS1qgo)
